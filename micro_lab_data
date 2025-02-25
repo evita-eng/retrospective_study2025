@@ -1,0 +1,1500 @@
+Date	    Code	Age	Sex	Source	Specimen	Species	        Amoxicillin/Clavulanic Acid	Ampicillin/Sulbactam	Piperacillin/Tazobactam	Ampicillin	Aztreonam	Cefepime	Ceftazidime	Ceftazidime Avibactam	Cefazolin	Cefoperazone	Ceftriaxone	Ceftriaxone (meningitis)	Cefotaxime	Cefotaxime (meningitis)	Cefuroxime	Cefuroxime Sodium	Cefoxitin	Cefoxitin Screen	Benzylpenicililin	Oxacillin	Vancomycin	Imipenem	Meropenem	Ertapenem	Ceftraroline	Amikacin	Gentamicin	Gentamicin High Level (synergy	Streptomycin High Level (syner	Nalidixic Acid	Ciprofloxacin	Levofloxacin	Moxifloxacin	Norfloxacin	Azithromycin	Erythromycin	Chloramphenicol	Tetracycline	Doxycycline	Fosfomycin	Tigecycline	Linezolid	Clindamycin	Trimethoprim/Sulfamethoxazole	Nitrofurantoin	Quinupristin/Dalfopristin	Amphotericin B	Caspofungi	Fluconazole	Flucytosine	Micafungin	Voriconazole	Rifampicin								
+01-Jan-22	14	  0	  M	INPATIENT 	Blood	  None																																																													
+01-Jan-22	49	  67	F	INPATIENT 	Urine 	None																																																													
+01-Jan-22	150	  58	F	INPATIENT 	Urine 	None																																																													
+01-Jan-22	199	  67	F	INPATIENT 	Sputum	None																																																													
+03-Jan-22	779	  64	M	INPATIENT 	Sputum	Escherichia coli	S	S		S	S	S	S		S	S	S				S		S			R	R	S	S	S		S	S				S			S	S		S	I	S	S	S	R	S	S											S				S		
+03-Jan-22	806	  64	M	INPATIENT 	Blood	None																																																													
+03-Jan-22	807	  64	M	INPATIENT 	Urine 	None																																																													
+04-Jan-22	1109	33	M	INPATIENT 	Sputum	Candida dubliniensis																																																S				S	S								
+04-Jan-22	1109	33	M	INPATIENT 	Sputum	Streptococcus mitis/Streptococcus oralis	S	S		I			S			S	S		S		S		S		I	S	S	S	S			S	S				S	S	S	S	S		S	R	S	S	S	S	S	S											S			S	S		
+05-Jan-22	1186	79	F	INPATIENT 	Urine 	None																																																													
+05-Jan-22	1208	69	F	INPATIENT 	Blood	None																																																													
+05-Jan-22	1295	58	M	OUTPATIENT	Sekret	Staphylococcus haemolyticus	S	S		R			S			S	R				S		S		R	R	S	S	S			S	S				R	R	R	R	R		R	R	R	R	S	S	R	S		S									R	S					
+05-Jan-22	1325	30	M	OUTPATIENT	Sputum	Klebsiella pneumoniae ssp pneumoniae	S	S		R	S	S	S		S	S	S				S		S			R	R	S	S	S		S	S				S			S	S		S	I	R	S	S	R	R	S											S				S		
+05-Jan-22	1346	87	F	OUTPATIENT	Pus	Pseudomonas aeruginosa	R	R			I	R	R		R	R	R				R		R			R	R	S	S			R	R				R			R	R			R	R	S	R	R	R	R											R				R		
+05-Jan-22	1353	80	M	INPATIENT 	Blood	None																																																													
+05-Jan-22	1389	43	F	INPATIENT 	Urine 	None																																																													
+06-Jan-22	1523	82	F	INPATIENT 	Sputum	Streptococcus mitis/Streptococcus oralis	S	S		I			S				R		S				S		I	R	S	S				S	S				S	R	R	R	S		S	S	S	S	S	S	S	S											S			S	S		
+06-Jan-22	1780	69	F	INPATIENT 	Pus	Escherichia coli	S	S		R	R	S	S		R	R	R				R		S			R	R	S	S	S		S	R				I			S	S		S	R		S	S	R	R	S											S				S		
+06-Jan-22	1788	59	M	INPATIENT 	Pus	None																																																													
+06-Jan-22	1792	51	M	INPATIENT 	Sputum	Streptococcus salivarius	S	S		S						S	S				S		I			R		S				S								R	S			S	S	S		S																			
+06-Jan-22	1819	36	F	INPATIENT 	Pus	None																																																													
+07-Jan-22	2042	79	F	INPATIENT 	Sputum	None																																																													
+08-Jan-22	2246	69	F	INPATIENT 	Sputum	Candida albicans																																																S	S	S		S	S								
+08-Jan-22	2246	69	F	INPATIENT 	Sputum	Sphingomonas paucimobilis	R	R		R	R	R	R		R	R	R				R		R					R	R			R	R				R			R	R			R	R	R	S	S		R											R				R		
+08-Jan-22	2305	66	F	INPATIENT 	Sputum	Pseudomonas fluorescens	S	S		S			S			S	S				S		S			R	S	S	S			S	S				S			R	S		S	S	S		S	S	S	R											S				S		
+08-Jan-22	2361	35	F	INPATIENT 	Pus	Enterococcus avium	S	R		S						S	S				R		S		R	R	I	S				S	S				S	S		S	R			R	R	R	S	R				S									R		S				
+10-Jan-22	2678	50	F	INPATIENT 	Sputum	None																																																													
+10-Jan-22	2678	50	F	INPATIENT 	Sputum	None																																																													
+10-Jan-22	2679	28	F	INPATIENT 	Sputum	None																																																													
+10-Jan-22	2813	60	F	EMERGENCY	Blood	None																																																													
+10-Jan-22	2874	13	F	INPATIENT 	Urine 	None																																																													
+10-Jan-22	2886	31	F	INPATIENT 	Pus	Staphylococcus caprae	S	S		S			S			S	S				S		S			S	S	S	S			S	S				S			S	R		S	R	S		S	S	S	S											S				S		
+11-Jan-22	3009	33	M	INPATIENT 	Blood	None																																																													
+11-Jan-22	3043	65	M	INPATIENT 	Urine 	None																																																													
+11-Jan-22	3057	61	M	OUTPATIENT	Sputum	Klebsiella pneumoniae ssp pneumoniae	S	S		R	S	S	S		S	S	S				S		S			R	S	S	S	S		S	S				R			I	S		S	R	S		I	S	S	S											R				S		
+11-Jan-22	3177	73	F	INPATIENT 	Urine 	None																																																													
+13-Jan-22	4084	59	M	INPATIENT 	Sputum	Candida albicans																																																S	S	S		S	S								
+13-Jan-22	4084	59	M	INPATIENT 	Sputum	Streptococcus agalactiae	S			S			S				S				S		S		S		S	S										I	S	R	R		S	R	R		S	S	R			S									R						
+13-Jan-22	4112	23	F	INPATIENT 	Blood	None																																																													
+13-Jan-22	4120	65	M	INPATIENT 	Blood	None																																																													
+14-Jan-22	4485	45	M	OUTPATIENT	Blood	None																																																													
+15-Jan-22	4712	17	F	INPATIENT 	Blood	None																																																													
+15-Jan-22	4743	71	M	INPATIENT 	Pus	Staphylococcus aureus	S				S		I			S	S				S		S		S	S	S	S					S				S	S	S	S			R	S	S		S	S	S	S		S									S	S					
+15-Jan-22	4791	80	F	INPATIENT 	Blood	None																																																													
+15-Jan-22	4791	80	F	INPATIENT 	Blood	None																																																													
+16-Jan-22	4912	68	F	EMERGENCY	  Blood	None																																																													
+17-Jan-22	5060	55	F	INPATIENT 	Sputum	None																																																													
+17-Jan-22	5216	37	F	OUTPATIENT	Sekret	Candida albicans																																																S	S	S		S	S								
+17-Jan-22	5216	37	F	OUTPATIENT	Sekret	Escherichia coli	S	R		R	R	S	R		R	I	R				R		S			R	R	S	S	I		S	S				R			R	R		S		R	S	S		R	S											S				R		
+17-Jan-22	5216	37	F	OUTPATIENT	Sekret	Escherichia coli	S	R		R	R	S	R		R	I	R				R		S			R	R	S	S	I			S				R			R	R		S			S	S			S											S				R		
+18-Jan-22	5512	28	M	INPATIENT 	Pus	None																																																													
+18-Jan-22	5530	57	F	INPATIENT 	Pus	None																																																													
+19-Jan-22	5726	0	  M	INPATIENT 	Blood	None																																																													
+19-Jan-22	5757	30	F	EMERGENCY	  Urine 	Staphylococcus aureus	S	S					S			S	S				S				S	S	S	S					S				S	S	S	S	S		S	S	S	S	S	S	S	S		S									S	S					
+19-Jan-22	5788	48	M	INPATIENT 	Pus	None																																																													
+20-Jan-22	5884	70	F	INPATIENT 	Pus	Proteus penneri	R	R		R	S	S	S		R	S	S				R		S			R	R	S	S	S		S	S				S			S	R		S	R	R	R	R		R	S											S				S		
+20-Jan-22	5895	61	F	INPATIENT 	Pus	None																																																													
+21-Jan-22	6350	36	F	INPATIENT 	Pus	Staphylococcus aureus	S									S					S		S		R	S	S	S					S				S	S	S	S	S		S	S	S	S	S	S	S	S		S									S	S					
+21-Jan-22	6352	48	M	INPATIENT 	Pus	None																																																													
+21-Jan-22	6390	71	M	INPATIENT 	Blood	None																																																													
+21-Jan-22	6398	13	F	OUTPATIENT	Pus	Staphylococcus aureus	S	S		I			S			S	S				S		S		R	S	S						S				S	S	S	S	S			S	S	S	S	S	S	S		S									S	S			S		
+22-Jan-22	6493	71	M	INPATIENT 	Sputum	Candida albicans																																																S	S	S		S	S								
+22-Jan-22	6493	71	M	INPATIENT 	Sputum	Acinetobacter haemolyticus	S	S		S		S	S		S	S	S				S		S									S	S								S				S	S	S		S																S		
+24-Jan-22	7005	35	F	INPATIENT 	Urine	None																																																													
+24-Jan-22	7205	33	M	INPATIENT 	Pus	Klebsiella pneumoniae ssp pneumoniae	S	S		R	S	S	S		S	S	S				S		S						S	S		S	S				S			S	I		S	S	R	R	S		R	S											S				S		
+24-Jan-22	7260	33	M	OUTPATIENT	Pus	Leuconostoc mesenteroides ssp cremoris	S						S			S	S				S		S																	R	R		R	S	S	S			S												R						
+24-Jan-22	7272	15	M	OUTPATIENT	Pus	Staphylococcus aureus	S						S			S	S				S		S		R	S	S						S				S	S	S	S	S		S	R	S		S	S	S	S		S									S	S					
+24-Jan-22	7313	40	M	INPATIENT 	Pus	Escherichia coli	S	S		S	S	S	S		S	S	S				S		S						S	S		S	S				S			S	S			S	I	S	S		R	S											S				S		
+25-Jan-22	7358	79	F	INPATIENT 	Sputum	Streptococcus mitis/Streptococcus oralis	S			R			S			S	R		R		S		S		R		S											S	S	R	S		S	S	S		S	S	S												S			S			
+25-Jan-22	7479	36	F	EMERGENCY	Blood	None																																																													
+25-Jan-22	7501	63	F	INPATIENT 	Urine 	None																																																													
+25-Jan-22	7549	6	  M	EMERGENCY	Blood	None																																																													
+25-Jan-22	7572	59	F	INPATIENT 	Urine 	None																																																													
+25-Jan-22	7588	45	F	INPATIENT 	Urine 	None																																																													
+26-Jan-22	7667	45	F	INPATIENT 	Sputum	None																																																													
+26-Jan-22	7667	45	F	INPATIENT 	Sputum	None																																																													
+27-Jan-22	7987	31	M	INPATIENT 	Blood	None																																																													
+28-Jan-22	8939	36	F	INPATIENT 	Sputum	Pseudomonas aeruginosa	R	R			R		I		R	S	I				R		R						R			S	S				R			R	R			R	R	S	R		R												R				R		
+28-Jan-22	8947	69	M	INPATIENT 	Sputum	Streptococcus cristatus	S	S		S			S			S	S		S		S		S		S		S											R	I	R	S		S	S	S	R	S	S	S												S			S			
+29-Jan-22	8953	47	M	INPATIENT 	Blood	None																																																													
+29-Jan-22	9045	47	M	INPATIENT 	Sputum	None																																																													
+29-Jan-22	9045	47	M	INPATIENT 	Sputum	Pseudomonas stutzeri	R	R			R	R	R		R	S	R				R		S						R			S	R				R			R	R			S	S	S	S			R											R				S		
+29-Jan-22	9202	0	F	OUTPATIENT	Urine 	None																																																													
+29-Jan-22	9208	25	F	INPATIENT 	Urine 	None																																																													
+30-Jan-22	9329	50	F	INPATIENT 	Sputum	None																																																													
+30-Jan-22	9457	45	M	INPATIENT 	Pus	Klebsiella pneumoniae ssp pneumoniae	S	S		R	S	S	S		S	S	S				S		S			R			S	S		S	S				S			S	S		R	S	R	S	S		R	S											S				S		
+30-Jan-22	9463	47	M	INPATIENT 	Blood	None																																																													
+31-Jan-22	9723	62	M	INPATIENT 	Pus	None																																																													
+31-Jan-22	9734	40	F	INPATIENT 	Pus	Morganella morganii ssp morganii	R	I		R	S	S	S		R	S	S				R		S			R			S	S		S	I				R			R	R		R	R	R	R	R		R	R											S				S		
+01-Feb-22	9765	46	M	INPATIENT 	Blood	None																																																													
+01-Feb-22	9771	28	F	INPATIENT 	Urine 	Escherichia coli	S	S		S	S	S	S		S	S	S				S		S			R			S	S		S	S				S			S	S		R	R	R	S	S		R	S											S				S		
+01-Feb-22	9805	57	F	INPATIENT 	Sputum	Streptococcus mitis/Streptococcus oralis	S	S		I						S	S		S		S		S		I	R	S					S						R	S		S		S	R	S		S	S	R												S			S			
+01-Feb-22	9905	17	F	INPATIENT 	Blood	None																																																													
+02-Feb-22	9906	33	F	INPATIENT 	Urine 	Escherichia coli	S	S		R	S	S	S		S	S	S				S		S			R	R		S	S		S	S				S				S			R	R	S	S			R											S				S		
+02-Feb-22	9907	61	M	INPATIENT 	Pus	None																																																													
+03-Feb-22	9908	61	M	INPATIENT 	Pus	None																																																													
+03-Feb-22	9909	16	M	INPATIENT 	Pus	Staphylococcus epidermidis	S	S		S						S	S				S		S		R	S	S	S					S				S	S	S		R			S	S	R	S	S	R	S		S									R	S					
+03-Feb-22	9910	46	M	INPATIENT 	Pus	Klebsiella pneumoniae ssp pneumoniae	R	R		R	R	S	R		R	R	R				R		S			R		S	S	S		S	S				R				S			S	R	S	S		R	S											S				S		
+03-Feb-22	9911	11	M	INPATIENT 	Pus	Escherichia coli	I	S		R	R	S	S		R	R	R				R		S			R		S	S	S		S	S				S				S			R	R	S	S		R	S											S				S		
+03-Feb-22	9912	70	F	EMERGENCY	Blood	None																																																													
+04-Feb-22	9913	29	M	INPATIENT 	Pus	Staphylococcus haemolyticus	R									R					R		R		R	R	S	S				S	I				R	R	R	R	R		S	S	S	S	S	S	R	R		S									R	R					
+04-Feb-22	9914	55	M	INPATIENT 	Pus	Staphylococcus aureus	S									S			S		S		S		S	S	S	S				S	S				S	S	S	S	S		S	S	S	S	S	S	S	S		S									S	S					
+04-Feb-22	9915	28	M	OUTPATIENT	Pus	Acinetobacter baumannii	R	S				S	S		R	I	I		S		R		R			R	R	S	S			S	S				S			S	S		R	I	S	R	S		R	S											S				S		
+05-Feb-22	9916	92	M	OUTPATIENT	Sputum	None																																																													
+05-Feb-22	9917	27	M	INPATIENT 	Pus	None																																																													
+05-Feb-22	9918	40	F	INPATIENT 	Pus	Morganella morganii ssp morganii		S		R	S	S	S		R		S												S	S		S	I				R										R			R															S		
+05-Feb-22	9919	71	M	INPATIENT 	Blood	None																																																													
+05-Feb-22	9920	71	M	INPATIENT 	Blood	None																																																													
+05-Feb-22	9921	71	M	INPATIENT 	Blood	None																																																													
+06-Feb-22	9922	71	M	INPATIENT 	Urine 	None																																																													
+06-Feb-22	9923	71	M	INPATIENT 	Urine 	Escherichia coli		I		R	S	S	S		S		S												S	S		S	S				R										S			S															S		
+06-Feb-22	9924	38	M	EMERGENCY	Urine 	Pseudomonas aeruginosa	S	S		S	S	S	S		R	R					R		S					S	S			S	S				S				S			R	S	S	R		R												R				S		
+06-Feb-22	9925	70	F	INPATIENT 	Blood	None																																																													
+06-Feb-22	9926	83	F	OUTPATIENT	Urine 	Escherichia coli		S		S	S	S	S		S		S												S	S		S	S				R										S			S															S		
+07-Feb-22	9927	59	F	INPATIENT 	Sputum	Candida albicans																																																S	S	S		S	S								
+07-Feb-22	9928	59	F	INPATIENT 	Sputum	None																																																													
+07-Feb-22	9929	28	M	INPATIENT 	Blood	None																																																													
+08-Feb-22	9930	28	M	INPATIENT 	Sputum	None																																																													
+08-Feb-22	9931	52	F	INPATIENT 	Sputum	None																																																													
+08-Feb-22	9932	57	F	EMERGENCY	Blood	None																																																													
+08-Feb-22	9933	57	M	INPATIENT 	Pus	Klebsiella pneumoniae ssp pneumoniae	S	S		R	S	S	S		S	S	S		S		S		S					S	S	S		S	S				S			S	I			S	S	S	S			S											S				S		
+08-Feb-22	9934	45	F	OUTPATIENT	Urine	None																																																													
+08-Feb-22	9935	21	F	INPATIENT 	Sputum	None																																																													
+08-Feb-22	9936	46	F	OUTPATIENT	Urine 	Escherichia coli	R	I		R	S	S	S		S	S	S		S		S		S			R	R	S	S	S		S	S				S			S	S				R	S	S		R	R											S				S		
+08-Feb-22	9937	70	F	INPATIENT 	Pus	Staphylococcus aureus				S						S	S		S		S		S		S	S	S	S					S				S	S	S	S	S		S	S	S	S	S	S	S	S		S									S	S					
+08-Feb-22	9938	33	M	OUTPATIENT	Pus	None																																																													
+08-Feb-22	9939	33	F	OUTPATIENT	Sekret	None																																																													
+08-Feb-22	9940	33	F	OUTPATIENT	Sekret	None																																																													
+09-Feb-22	9941	36	M	INPATIENT 	Blood	None																																																													
+09-Feb-22	9942	42	F	INPATIENT 	Urine 	Burkholderia cepacia	R				R	R	I		R	R	R		S		R		R			R	R	S	I			R	R				R			R	S				S	R	I		R	S											R				R		
+09-Feb-22	9943	37	F	INPATIENT 	Blood	None																																																													
+09-Feb-22	9944	64	F	INPATIENT 	Sputum	None																																																													
+09-Feb-22	9945	64	F	INPATIENT 	Sputum	Klebsiella pneumoniae ssp pneumoniae	S	S		R	S	S	S		S	S	S		S		S		S			R	R	S	S	S		S	S				S			S	S				R	S	S		R	S											S				S		
+09-Feb-22	9946	57	F	INPATIENT 	Pus	Klebsiella pneumoniae ssp pneumoniae	S	S		R	S	S	S		S	S	S		S		S		S			R	R	S	S	S		S	S				I			S	R				R	S	S		R	R											R				S		
+10-Feb-22	9947	64	F	INPATIENT 	Blood	None																																																													
+10-Feb-22	9948	64	F	INPATIENT 	Blood	None																																																													
+10-Feb-22	9949	37	F	INPATIENT 	Urine 	None																																																													
+10-Feb-22	9950	54	M	INPATIENT 	Sputum	Streptococcus porcinus	S									S	S		S		S		S			S		S												R	R		S		S	R															R						
+10-Feb-22	9951	66	F	EMERGENCY	Blood	None																																																													
+12-Feb-22	9952	44	M	EMERGENCY	Blood AN	None																																																													
+12-Feb-22	9953	55	F	EMERGENCY	Blood	None																																																													
+12-Feb-22	9954	29	M	INPATIENT 	Sputum	None																																																													
+12-Feb-22	9955	29	M	INPATIENT 	Sputum	None																																																													
+12-Feb-22	9956	36	M	INPATIENT 	Pus	None																																																													
+13-Feb-22	9957	47	F	INPATIENT 	Urine 	None																																																													
+14-Feb-22	9958	39	M	INPATIENT 	Blood	None																																																													
+15-Feb-22	9959	59	F	INPATIENT 	Blood	None																																																													
+15-Feb-22	9960	46	F	OUTPATIENT	Urine 	None																																																													
+15-Feb-22	9961	35	F	INPATIENT 	Sekret	None																																																													
+15-Feb-22	9962	35	F	INPATIENT 	Sekret	None																																																													
+15-Feb-22	9963	22	F	INPATIENT 	Sputum	Raoultella ornithinolytica	S	S		R	S	S	S		R	S	S				S		S			R		S	S	S		S	S				S			S	I				S	R	S		R	S											S				S		
+16-Feb-22	9964	56	F	INPATIENT 	Sputum	None																																																													
+16-Feb-22	9965	26	F	INPATIENT 	Sputum	None																																																													
+16-Feb-22	9966	36	M	INPATIENT 	Pus	None																																																													
+17-Feb-22	9967	43	M	INPATIENT 	Sputum	None																																																													
+17-Feb-22	9968	66	M	INPATIENT 	Sputum	Aerococcus viridans	S									S	S		S		S		S				S	S												R	R		S		R	S															S				S		
+17-Feb-22	9969	62	M	INPATIENT 	Urine 	None																																																													
+17-Feb-22	9970	59	F	INPATIENT 	Urine 	None																																																													
+17-Feb-22	9971	61	M	OUTPATIENT	Pus	None																																																													
+17-Feb-22	9972	6	F	INPATIENT 	Pus	Escherichia coli	R	I		R	R	S	S		R	R	R		R		R		S				R	S	S	S		S	R				R			S	R		R		R	R	S			R											R				S		
+18-Feb-22	9973	74	M	INPATIENT 	Blood	None																																																													
+18-Feb-22	9974	74	M	INPATIENT 	Urine 	None																																																													
+19-Feb-22	9975	59	M	INPATIENT 	Sputum	Klebsiella pneumoniae ssp pneumoniae	S	S		R	S	S	S		S	S	S		S		S		S				R	S	S	S		S	S				S			S	R		S		R	S	S		R	S											S				S		
+19-Feb-22	9976	59	M	INPATIENT 	Blood	None																																																													
+19-Feb-22	9977	77	M	EMERGENCY	Blood	Klebsiella pneumoniae ssp pneumoniae	S	S		R	S	S	S		S	S	S		S		S		S				R	S	S	S		S	S				S			S	R		S			S	S			S											S				S		
+21-Feb-22	9978	23	M	INPATIENT 	Blood	None																																																													
+21-Feb-22	9979	29	F	OUTPATIENT	Urine 	Staphylococcus aureus	S									S	S		S		S		S		S	S	S	S					S				S	S	S	S	S		S	S	S	S	S	S	S	S		S									S	S			S		
+22-Feb-22	9980	23	M	INPATIENT 	Pus	None																																																													
+22-Feb-22	9981	23	M	INPATIENT 	Pus	Acinetobacter baumannii	R	I				R	R		R	R	R		R		R		R				R	I	R			R	R				R			R	R		R		S	I	S		R	R											R				R		
+22-Feb-22	9982	51	M	INPATIENT 	Pus	None																																																													
+23-Feb-22	9983	77	M	INPATIENT 	Urine 	None																																																													
+23-Feb-22	9984	23	M	INPATIENT 	Blood	None																																																													
+23-Feb-22	9985	26	M	INPATIENT 	Pus	Pseudomonas aeruginosa	R				S	S	S		R	S	S		S		R		R				R	S	S			S	S				S			S	R		R		R		R														R				S		
+23-Feb-22	9986	24	M	OUTPATIENT	Pus	Staphylococcus aureus	S									S	S		S		S		S		R	S	S	S					S				S	S	S	S	S		S	S	S		S	S	S	S		S									S	S					
+23-Feb-22	9987	27	F	INPATIENT 	Blood	None																																																													
+24-Feb-22	9988	9	  M	EMERGENCY	Blood	Sphingomonas paucimobilis	S	S		S	I	I	R		R	S	I		S		S		S				S	S				R	R				S			S	S		S		S	R	S		S	S											S				S		
+24-Feb-22	9989	33	F	OUTPATIENT	Urine 	None																																																													
+24-Feb-22	9990	23	M	INPATIENT 	Urine 	None																																																													
+25-Feb-22	9991	65	F	EMERGENCY	Blood	Escherichia coli	S	S		R	R	R	R		R	S	R		S		S		R				S	S	R	R		R	R				R			R	R		R		S	R	S		R	S											R						
+25-Feb-22	9992	30	M	INPATIENT 	Urine 	None																																																													
+25-Feb-22	9993	40	F	OUTPATIENT	Urine 	None																																																													
+25-Feb-22	9994	20	M	OUTPATIENT	Sekret	None																																																													
+25-Feb-22	9995	49	M	INPATIENT 	Sputum	Klebsiella pneumoniae ssp pneumoniae	S	S		R	S	S	S		S	S	S		S		S		S					S	S	S		S	S				S			S	I		S		S	S	S		R	S											S				S		
+25-Feb-22	9996	30	M	INPATIENT 	Blood	None																																																													
+26-Feb-22	9997	58	F	EMERGENCY	Urine 	None																																																													
+27-Feb-22	9998	23	M	INPATIENT 	Pus	Klebsiella pneumoniae ssp pneumoniae		R		R	R	R	R		R	R	R		R		R		R				R	R	R	R		S	I				R			R	R		R		R	R			R	R											R				R		
+28-Feb-22	9999	62	M	INPATIENT 	Sputum	Streptococcus sanguinis	S			S						S	S		S		S		S		S		S	S										R	S	R	S		S	R	R	S	S	S	R												R			S			
+28-Feb-22	10000	63	M	INPATIENT 	Sputum	None																																																													
+28-Feb-22	10001	73	M	EMERGENCY	Blood AN	None																																																													
+28-Feb-22	10002	73	M	EMERGENCY	Blood	None																																																													
+02-Mar-22	10003	45	M	EMERGENCY	Blood	None																																																													
+03-Mar-22	10004	84	M	EMERGENCY	Blood	None																																																													
+03-Mar-22	10005	57	F	EMERGENCY	Blood AN	None																																																													
+03-Mar-22	10006	57	F	EMERGENCY	Blood	None																																																													
+03-Mar-22	10007	57	F	EMERGENCY	Blood AN	None																																																													
+04-Mar-22	10008	23	M	INPATIENT 	Blood AN	None																																																													
+04-Mar-22	10009	23	M	INPATIENT 	Blood	Pseudomonas aeruginosa	R				S	R	R		R	R			R		R		R				S	I	R			I	I				R			S	R				R	S	R														R				S		
+04-Mar-22	10010	43	F	EMERGENCY	Blood	None																																																													
+04-Mar-22	10011	45	M	INPATIENT 	Urine	None																																																													
+04-Mar-22	10012	45	M	INPATIENT 	Urine 	None																																																													
+05-Mar-22	10013	79	M	INPATIENT 	Sputum	None																																																													
+05-Mar-22	10014	43	F	INPATIENT 	Urine 	None																																																													
+06-Mar-22	10015	57	F	INPATIENT 	Urine FUNGI	Candida glabrata																																																S	R			S	S								
+06-Mar-22	10016	57	F	INPATIENT 	Urine 	None																																																													
+07-Mar-22	10017	0	M	INPATIENT 	Blood AN	None																																																													
+07-Mar-22	10018	0	M	INPATIENT 	Blood	None																																																													
+07-Mar-22	10019	45	M	INPATIENT 	Sputum	Klebsiella pneumoniae ssp pneumoniae	R	R		R	R	R	R		R	R	R		R		R		S					S	S	S		S	R				R			R	R		S		R	S	R		R	R											R				I		
+07-Mar-22	10020	23	M	INPATIENT 	Sputum FUNGI	None																																																													
+07-Mar-22	10021	23	M	INPATIENT 	Sputum	Acinetobacter baumannii complex	R	R				R	R		R	R	R		R		R		R					R	R			S	R				R			R	R				R	I	I		R	R											R				R		
+07-Mar-22	10022	68	M	INPATIENT 	Blood	None																																																													
+08-Mar-22	10023	57	F	INPATIENT 	Sputum FUNGI	Candida albicans																																																I	S	S		S	S								
+08-Mar-22	10024	57	F	INPATIENT 	Sputum	Staphylococcus haemolyticus	R									R	R		R		R		R		R	R	S	R					R				R	R	R	R	R			R	R	R	R	S	R	R		S									R	S					
+08-Mar-22	10025	68	M	INPATIENT 	Urine	None																																																													
+08-Mar-22	10026	58	F	INPATIENT 	Urine 	None																																																													
+09-Mar-22	10027	68	F	INPATIENT 	Sputum	None																																																													
+09-Mar-22	10028	63	M	INPATIENT 	Blood	None																																																													
+09-Mar-22	10029	63	M	INPATIENT 	Blood	None																																																													
+09-Mar-22	10030	29	F	INPATIENT 	Pus	Staphylococcus aureus	R									I	R		R		R		R		R	R	S						S				R	R	R	R	R			S	S	S	S	S	R	S		S									R	S					
+09-Mar-22	10031	74	F	INPATIENT 	Sputum FUNGI	Candida albicans																																																S	S	S		S	S								
+09-Mar-22	10032	74	F	INPATIENT 	Sputum	None																																																													
+09-Mar-22	10033	0	  F	INPATIENT 	Blood	None																																																													
+10-Mar-22	10034	43	M	INPATIENT 	Sputum	None																																																													
+10-Mar-22	10035	62	F	EMERGENCY	Blood	None																																																													
+10-Mar-22	10036	63	M	INPATIENT 	Sputum FUNGI	Candida albicans																																																S	S	S		S	S								
+10-Mar-22	10037	63	M	INPATIENT 	Sputum	None																																																													
+10-Mar-22	10038	63	M	INPATIENT 	Urine FUNGI	None																																																													
+10-Mar-22	10039	63	M	INPATIENT 	Urine 	None																																																													
+10-Mar-22	10040	32	F	INPATIENT 	Blood	None																																																													
+11-Mar-22	10041	32	F	INPATIENT 	Sputum	None																																																													
+11-Mar-22	10042	43	M	INPATIENT 	Pus	Escherichia coli	R	I		R	S	S	S		S	S	S		S		S		S						S	S		S	S				S			R	S		R		R	S	S		R	S											S				S		
+11-Mar-22	10043	24	F	INPATIENT 	Pus	None																																																													
+11-Mar-22	10044	24	F	INPATIENT 	Pus	None																																																													
+12-Mar-22	10045	69	F	EMERGENCY	Urine 	Candida Ciferrii																																																S					S								
+12-Mar-22	10046	69	F	EMERGENCY	Urine 	Citrobacter freundii	R	R		R	R	R	R		R	R	R		R		R		S						S	S		S	R				R			R	I		R		R	S	I		R	R											R				I		
+12-Mar-22	10047	69	F	EMERGENCY	Pus FUNGI	Candida glabrata																																																S	I			S	S								
+12-Mar-22	10048	69	F	EMERGENCY	Pus	Enterococcus faecalis	S			S						R	R		R		R		R		S		S						R				R	R		R	R		S	R	I	I	S	S	R			R									R		R				
+12-Mar-22	10049	40	M	INPATIENT	Blood AN	None																																																													
+12-Mar-22	10050	59	M	INPATIENT	Blood	None																																																													
+13-Mar-22	10051	45	M	INPATIENT	Sputum	None																																																													
+13-Mar-22	10052	59	M	INPATIENT	Sputum FUNGI	None																																																													
+13-Mar-22	10053	59	M	INPATIENT	Sputum	Pseudomonas aeruginosa	R				S	S	S		R	S	S		S		R		R						S			S	S				S			S	R		S		R	R	R		R												I				S		
+13-Mar-22	10054	40	M	INPATIENT	Sputum	None																																																													
+13-Mar-22	10055	48	F	INPATIENT	Blood	None																																																													
+13-Mar-22	10056	8	M	INPATIENT	Blood	None																																																													
+14-Mar-22	10057	48	F	INPATIENT	Urine 	None																																																													
+14-Mar-22	10058	62	F	INPATIENT	Sputum	None																																																													
+14-Mar-22	10059	62	F	INPATIENT	Sputum	None																																																													
+14-Mar-22	10060	42	M	OUTPATIENT	Pus	Staphylococcus aureus	R									S	R		S		R		R		R	R	S						S				S	S	S	S	R		S	S	R	R	S	S	R	S		S									R	S					
+15-Mar-22	10061	88	M	INPATIENT 	Urine FUNGI	None																																																													
+15-Mar-22	10062	88	M	INPATIENT 	Urine 	None																																																													
+16-Mar-22	10063	23	M	INPATIENT 	Pus	Pseudomonas aeruginosa	R				S	R	R		R	R	R		R		R		R				R		R			S	S				R			R	R		R		R	S	R		R												R				S		
+17-Mar-22	10064	78	F	EMERGENCY	Blood	None																																																													
+17-Mar-22	10065	61	M	EMERGENCY	Pus	Escherichia coli		R		R	R	R	R		R	R	R		R		R		S				R		S	S		S	S				R			R	R		S		R	S	S		R	R											R				I		
+17-Mar-22	10066	23	M	INPATIENT 	Blood	Enterobacter cloacae	R	R		R	R		R		R	R	R		R		R		R			R	R		S	S		S	R				R			I	R		R		R	S	S		R	R											R				I		
+17-Mar-22	10067	81	F	INPATIENT 	Urine 	Escherichia coli	S	S		R	S	S	S		R	I	R		S		R		S			R	R		S	S		S	S				R			R	I		S		R	S	S		R	S											I				S		
+17-Mar-22	10068	51	F	INPATIENT 	Urine 	None																																																													
+17-Mar-22	10069	81	F	INPATIENT 	Urine 	None																																																													
+18-Mar-22	10070	43	M	INPATIENT 	Urine 	None																																																													
+18-Mar-22	10071	23	M	INPATIENT 	Urine 	None																																																													
+19-Mar-22	10072	8	M	INPATIENT 	Sputum	Streptococcus mitis/Streptococcus oralis	S			R						S	R		R		S		R		I	R	S											S	S	R	S		S	S	S	R	S	S	S												R			S			
+19-Mar-22	10073	55	M	INPATIENT 	Pus	Klebsiella pneumoniae ssp pneumoniae	S	S		R	S	S	S		S	S	S		S		S		S			R	R		S	S		S	S				S			S	R		R		R	S	I		R	S											S				S		
+19-Mar-22	10074	69	M	EMERGENCY	Blood	None																																																													
+20-Mar-22	10075	81	F	INPATIENT 	Sputum FUNGI	None																																																													
+20-Mar-22	10076	81	F	INPATIENT 	Sputum	Klebsiella pneumoniae ssp pneumoniae	S	S		R	S	S	S		S	S	S		S		S		S			R	R		S	S		S	S				S			S	R		S		S	R	S		R	S											S				S		
+20-Mar-22	10077	64	F	INPATIENT 	Blood	None																																																													
+20-Mar-22	10078	69	M	INPATIENT 	Sputum FUNGI	Candida albicans																																																S	S	S		S	S								
+20-Mar-22	10079	69	M	INPATIENT 	Sputum	Streptococcus mitis/Streptococcus oralis	S			I						S	R		R		S				I	R	R											R	S	R	S		S	S	R	R	S	S	S												I			R			
+21-Mar-22	10080	55	M	INPATIENT 	Pus	Staphylococcus aureus	S									S			R		R		R		R	R	S						S				S	S	S	I	S		S	R	S	S	S	S	R	R		S									R	R					
+21-Mar-22	10081	67	M	EMERGENCY	Blood	None																																																													
+21-Mar-22	10082	64	F	INPATIENT 	Urine 	None																																																													
+22-Mar-22	10083	57	M	EMERGENCY	Blood AN	None																																																													
+22-Mar-22	10084	76	F	INPATIENT 	Blood	None																																																													
+22-Mar-22	10085	68	M	INPATIENT 	Blood	None																																																													
+22-Mar-22	10086	69	F	EMERGENCY	Urine	Enterobacter cloacae	R	R		R	R	R	R		R	R	R		R		R		R			R	R		S	S		S	R				R			R	R		S		R	S	S		R	R											R				I		
+23-Mar-22	10087	67	M	INPATIENT 	Urine 	None																																																													
+23-Mar-22	10088	57	F	EMERGENCY	Blood	None																																																													
+24-Mar-22	10089	57	M	INPATIENT 	Urine 	None																																																													
+24-Mar-22	10090	57	M	INPATIENT 	Sputum	None																																																													
+24-Mar-22	10091	64	M	INPATIENT 	Blood AN	None																																																													
+24-Mar-22	10092	64	M	INPATIENT 	Blood	None																																																													
+24-Mar-22	10093	64	M	EMERGENCY	Blood	None																																																													
+24-Mar-22	10094	64	M	EMERGENCY	Blood AN	None																																																													
+24-Mar-22	10095	49	F	INPATIENT 	Urine 	Escherichia coli	S	S		R	S	S	S		R	R	R		R		R		S						S	S		S	S				R				R				R	S	S			R											S				S		
+25-Mar-22	10096	69	M	INPATIENT 	Sputum	Pseudomonas aeruginosa	R				S	S	S		R	R			S		R		R						S			S	S				S				R				R	S	R														R				S		
+25-Mar-22	10097	67	M	INPATIENT 	Sputum	Candida rugosa																																																S				S	S								
+25-Mar-22	10098	67	M	INPATIENT 	Sputum	None																																																													
+25-Mar-22	10099	32	M	INPATIENT 	Blood	None																																																													
+25-Mar-22	10100	65	M	INPATIENT 	Sputum	None																																																													
+25-Mar-22	10101	64	F	INPATIENT 	Urine 	None																																																													
+25-Mar-22	10102	40	M	INPATIENT 	Pus	Enterobacter aerogenes	R	R		R	R	R	R		R		R		R				R						R	I		S	R				R				R				R		S			R															R		
+25-Mar-22	10103	35	M	INPATIENT 	Pus	None																																																													
+25-Mar-22	10104	22	M	INPATIENT 	Pus	Staphylococcus capitis																			R	S	S						S				S	S	S					S			S	S	S	S		S										S					
+26-Mar-22	10105	42	M	INPATIENT 	Urine 	None																																																													
+26-Mar-22	10106	22	F	OUTPATIENT	Sekret	Staphylococcus haemolyticus										S			S		S				R	R	S						S				S	S	S	S	R		S	R	S	S	S	S	R	S		S									R	S					
+26-Mar-22	10107	48	F	EMERGENCY	Blood	None																																																													
+26-Mar-22	10108	36	F	INPATIENT 	Urine 	None																																																													
+26-Mar-22	10109	40	M	INPATIENT 	Blood	None																																																													
+26-Mar-22	10110	57	F	INPATIENT 	Pus	Klebsiella pneumoniae ssp pneumoniae	R	R		R	R	S	R		R	I	R		S		R		I			R	R		S	S		S	S				R			R	R					R	S			R											S				S		
+28-Mar-22	10111	48	F	INPATIENT 	Pus	Pantoea spp	S									R			R		R		R			R														R	R		R		R	S	S		R												R						
+28-Mar-22	10112	63	M	INPATIENT 	Pus	Staphylococcus aureus										I			R		R		R		R	R	S						R				R	R	I	R	R		S	S	S	S	S	S	R	R		S									R	S					
+29-Mar-22	10113	43	F	EMERGENCY	Urine 	Escherichia coli	R	R		R	R		R		R	R	R		R		R		S			R	R		S	S		S	R				R			R	R		S		R	S	S		R	R											R				S		
+29-Mar-22	10114	43	F	EMERGENCY	Blood AN	Escherichia coli		R		R	R		R		R	R	R		R				S			R	R		S	S		S	R				R			R	R		S		R	S	S		R	R											R				S		
+29-Mar-22	10115	68	M	INPATIENT 	Blood	None																																																													
+29-Mar-22	10116	66	M	INPATIENT 	Blood	Staphylococcus aureus										S			S				S		R	S	S		R			S	S				S	S	S	S	S		R	S	S	S	S	S	S	S		S									S	S			S		
+29-Mar-22	10117	68	F	EMERGENCY	Blood	None																																																													
+30-Mar-22	10118	17	M	INPATIENT 	Sputum	None																																																													
+30-Mar-22	10119	56	M	EMERGENCY	Blood	None																																																													
+31-Mar-22	10120	36	F	OUTPATIENT	Sekret	Staphylococcus epidermidis										S			S		S		R		R	R	S						I				I	R	I		R			S	R	S	S	S	S	S		S									R	S					
+31-Mar-22	10121	36	F	OUTPATIENT	Sekret	Burkholderia cepacia					R	R	S		R	S	R		S		S		R									R	R				R				R				R	S	R			S											R						
+01-Apr-22	10122	80	F	INPATIENT 	Urine 	Klebsiella pneumoniae ssp pneumoniae		R		R	R		I		R	R	R		R		R		S			R	R		S	S		S	S				R			R	R				R	S	S		R	R											R				S		
+01-Apr-22	10123	38	M	INPATIENT 	Blood	None																																																													
+02-Apr-22	10124	64	M	INPATIENT 	Sputum	Klebsiella pneumoniae ssp pneumoniae		I		R	S	S	S		S	S	S		S		S		S			R	R		S	S		S	S				I			S	R		R		R	S	R		R	R											S				S		
+02-Apr-22	10125	2	  F	EMERGENCY	Blood	None																																																													
+02-Apr-22	10126	31	M	INPATIENT 	Sputum	Streptococcus salivarius				I						S	S		S		S		S		I	S	S		S									R	R	R	S		S	S	S	S	S	S	S															S	S		
+03-Apr-22	10127	23	M	INPATIENT 	Blood FUNGI	Candida tropicalis																																																S	S	S		S	S								
+03-Apr-22	10128	23	M	INPATIENT 	Blood	Pseudomonas aeruginosa					R	R	R		R	R			R		R		R			R	R		R			R	I				R			R	R		R		R	R	R		R																R		
+03-Apr-22	10129	76	M	INPATIENT 	Sputum	None																																																													
+03-Apr-22	10130	24	F	INPATIENT 	Blood	Salmonella ser.Paratyphi A		S		S	S	S	S		R	S	S		S		I		I			R	R		S	S		R	R				R			S	R		S		R	S	S		R	S															S		
+03-Apr-22	10131	24	F	INPATIENT 	Urine 	None																																																													
+03-Apr-22	10132	29	F	INPATIENT 	Blood	None																																																													
+04-Apr-22	10133	29	F	INPATIENT 	Urine 	None																																																													
+04-Apr-22	10134	31	M	INPATIENT 	Urine 	None																																																													
+04-Apr-22	10135	80	F	INPATIENT 	Sputum	Candida albicans																																																S	S	S		S	S								
+04-Apr-22	10136	80	F	INPATIENT 	Sputum	None																																																													
+04-Apr-22	10137	66	M	INPATIENT 	Urine 	None																																																													
+04-Apr-22	10138	35	F	INPATIENT 	Blood	None																																																													
+05-Apr-22	10139	67	M	INPATIENT 	Sputum FUNGI	None																																																													
+05-Apr-22	10140	67	M	INPATIENT 	Sputum	Staphylococcus epidermidis										S			R		I				R	R	S		R				R				R	R	R	R	R		S	S	S	S	S	S	R	R		S									R	R			S		
+05-Apr-22	10141	48	F	INPATIENT 	Pus	Enterococcus faecalis										R			R		R		R			R	S		R				R							R	R		R		S				R												R				S		
+06-Apr-22	10142	56	F	INPATIENT 	Urine FUNGI	None																																																													
+06-Apr-22	10143	56	F	INPATIENT 	Urine 	Escherichia coli		I		R	R		R		R		R		R							S	R		S	S		S	R				R			S	R		R		R	S	S		R	S											S				S		
+06-Apr-22	10144	65	F	INPATIENT 	Blood	None																																																													
+06-Apr-22	10145	24	M	INPATIENT 	Pus FUNGI	None																																																													
+06-Apr-22	10146	66	M	INPATIENT 	Pus	Escherichia coli		I		R	S	S	S		S	S	S		S		S		S			R	R		S	S		S	S				R			R	R		S		R		S		R	S											S				S		
+07-Apr-22	10147	41	M	INPATIENT 	Sputum	Klebsiella pneumoniae ssp pneumoniae		S		R	S	S	S		S	S	S		S		S		S			R	R		S	S		S	S				S			S	R		S		R		S		R	S											S				S		
+07-Apr-22	10148	78	F	INPATIENT 	Urine 	None																																																													
+07-Apr-22	10149	19	F	INPATIENT 	Pus	None																																																													
+07-Apr-22	10150	58	M	INPATIENT 	Sputum	Streptococcus mitis/Streptococcus oralis				I						S	S		S				S		I		S		R									R	R		R		S	R	I		S	S	R												R			S	S		
+07-Apr-22	10151	50	F	INPATIENT 	Urine 	None																																																													
+07-Apr-22	10152	41	M	INPATIENT 	Pus	Enterobacter cloacae		R		R	R		R		R	R	R		R				R						R	I		S	R				R			R	R				R		S			R											R				S		
+07-Apr-22	10153	45	F	INPATIENT 	Urine 	Escherichia coli		I		R	R	R	R		R	R	R		R				S						S	S		S	S				R			R	I				S		S			R											S				S		
+07-Apr-22	10154	53	M	INPATIENT 	Pus	Staphylococcus lentus		S		R						R			R		R		R		R	R	I		R				S				R	R	R	R	S			R	S	R	S	R	R	R		R									S	R			I		
+08-Apr-22	10155	80	F	INPATIENT 	Urine 	None																																																													
+08-Apr-22	10156	60	M	INPATIENT 	Pus	Staphylococcus aureus		S		I						S			S		S		S		R	S	S		S				S				S	S	S	S	S			S	S	S	S	S	S	S		S									S	S			S		
+08-Apr-22	10157	25	M	OUTPATIENT	Pus	None																																																													
+08-Apr-22	10158	51	M	OUTPATIENT	Pus	Staphylococcus lentus		S		S						S			S		S		S				S		S				S				S	S	S	S	S			I	S	S		S		S		S									S	S			S		
+09-Apr-22	10159	36	F	EMERGENCY	Blood	None																																																													
+10-Apr-22	10160	49	F	INPATIENT 	Blood	None																																																													
+10-Apr-22	10161	51	M	INPATIENT 	Urine FUNGI	None																																																													
+10-Apr-22	10162	51	M	INPATIENT 	Urine 	None																																																													
+10-Apr-22	10163	65	F	INPATIENT 	Sputum	None																																																													
+11-Apr-22	10164	88	M	OUTPATIENT	Urine	Proteus mirabilis		S		R	S	S	S		R	I	R		S		R		S			R	R		S	S		S	S				R			I	R		S		R	S	R			R											S				S		
+11-Apr-22	10165	70	F	INPATIENT 	Urine 	Escherichia coli		S		R	S		S		R	R	R		R		R		S			R	R		S	S		S	S				R			R	R		S		R	S	S			R											S				S		
+11-Apr-22	10166	62	M	INPATIENT 	Blood AN	None																																																													
+11-Apr-22	10167	62	M	INPATIENT 	Blood	None																																																													
+11-Apr-22	10168	54	F	INPATIENT 	Pus	Klebsiella pneumoniae ssp pneumoniae		S		R	S	S	S		S	S	S		S		S		S			R			S	S		S	S				I			S	R		S		R	S	S	R		R											S				S		
+12-Apr-22	10169	41	M	INPATIENT 	Urine 	Escherichia coli		R		R	R	R	R		R	R	R		R		R		S			R			S	S		S	S				R			R	R		S		R	S	S	R		R											R				S		
+12-Apr-22	10170	62	M	INPATIENT 	Sputum	None																																																													
+12-Apr-22	10171	62	M	INPATIENT 	Sputum	None																																																													
+12-Apr-22	10172	57	F	INPATIENT 	Sputum	None																																																													
+12-Apr-22	10173	53	F	INPATIENT 	Urine 	Escherichia coli		R		R			S			R			R		R		S			R			I			S	R				R			R	R		S	R		S		R	R	R											I				S		
+12-Apr-22	10174	41	M	INPATIENT 	Sputum	Staphylococcus aureus		S		S						S			S		S		S		R	S	S						S				S	S	S	S	S		S	S		S	S	S	S	S		S									S	S					
+13-Apr-22	10175	66	M	INPATIENT 	Pus	Sphingomonas paucimobilis					R	S	S		S	S	S		S		S		R						S			R	S				R				R					S	S			R															S		
+14-Apr-22	10176	23	M	INPATIENT 	Blood AN	None																																																													
+14-Apr-22	10177	23	M	INPATIENT 	Blood FUNGI	None																																																													
+14-Apr-22	10178	23	M	INPATIENT 	Blood	None																																																													
+14-Apr-22	10179	72	F	INPATIENT 	Blood	None																																																													
+14-Apr-22	10180	72	F	INPATIENT 	Blood	None																																																													
+14-Apr-22	10181	32	F	EMERGENCY	Blood	Escherichia coli		S		S	S	S	S		S	S	S		S		S		S			R			S	S		S	S				S			S	I		S			S	S	R	S	S											S				S		
+14-Apr-22	10182	56	F	INPATIENT 	Blood	None																																																													
+14-Apr-22	10183	20	M	INPATIENT 	Pus	Aerococcus viridans										S			S		S		S			S	S													S	S		S			S		R	R	S											S				S		
+14-Apr-22	10184	61	F	INPATIENT 	Pus	Klebsiella pneumoniae ssp pneumoniae		R		R	R	S	R		R	R	R		R		R		S						S	S		S	R				R				R					S	S			S															S		
+14-Apr-22	10185	68	F	INPATIENT 	Urine 	Escherichia coli		I		R	S	S	S		R	I	R		S		R		S			R			S	S		S	S				S			S	I		S			S	S	R	R	R											S				S		
+14-Apr-22	10186	69	M	EMERGENCY	Blood	None																																																													
+14-Apr-22	10187	30	F	EMERGENCY	Urine 	Staphylococcus sciuri										S			R		I				R	R	S						S				S	S	I	S	R		S	R		S	S	S	I	S		S										S					
+15-Apr-22	10188	69	M	INPATIENT 	Sputum	None																																																													
+15-Apr-22	10189	60	F	INPATIENT 	Urine 	Klebsiella pneumoniae ssp pneumoniae		R		R	R	R	R		R	R	R		R		R		S			R			S	S		S	R				S			S	R		R			S	S		R	S											R				R		
+16-Apr-22	10190	67	M	INPATIENT 	Sputum	Enterobacter cloacae		R		R	S	S	S		R	S	R		S		R		R			R			S	S		S	S				R			S	R		S			S	R	R	R	S											S				S		
+16-Apr-22	10191	39	M	INPATIENT 	Pus	Staphylococcus haemolyticus										S			S		S				R	R	S						S				S	S	S	S	S		R	S		S	S	S	S	S		S									R	S					
+17-Apr-22	10192	35	M	EMERGENCY	Blood	None																																																													
+17-Apr-22	10193	35	M	INPATIENT 	Urine 	None																																																													
+17-Apr-22	10194	55	F	EMERGENCY	Urine 	Escherichia coli		S		S	S	S	S		S	S	S		S		S		S			R			S	S		S	S				S			S	I		S			S	S	R	R	S											S				S		
+17-Apr-22	10195	36	F	INPATIENT 	Sputum FUNGI	None																																																													
+17-Apr-22	10196	36	F	INPATIENT 	Sputum	Streptococcus mitis/Streptococcus oralis				I						S	I		I		S		S		I	R	S											S	S	S	S		S	R		S	S	S	S															S			
+18-Apr-22	10197	0	  M	INPATIENT 	Blood	None																																																													
+18-Apr-22	10198	53	M	EMERGENCY	Pus	Staphylococcus aureus										S			S		S		S		R	S	S						S				S	S	S	S	S		R	S		S	S	S	S	S		S									S	S					
+18-Apr-22	10199	84	M	EMERGENCY	Blood	None																																																													
+19-Apr-22	10200	77	F	INPATIENT	Blood	None																																																													
+20-Apr-22	10201	77	F	INPATIENT	Urine 	None																																																													
+20-Apr-22	10202	30	F	INPATIENT	Urine 	None																																																													
+20-Apr-22	10203	84	F	INPATIENT	Blood	None																																																													
+20-Apr-22	10204	79	F	INPATIENT	Blood	None																																																													
+20-Apr-22	10205	70	F	EMERGENCY	Urine 	Escherichia coli		S		S	S	S	S		S	S	S		S		S		S			R	R		S	S		S	S				S			S	I					S	S	R	R	S											S				S		
+21-Apr-22	10206	39	F	INPATIENT 	Urine 	Escherichia coli		I		R	S	S	S		S	S	S		S		S		S			R	R		S	S		S	S				S			S	I					S	S	R	R	R											S				S		
+21-Apr-22	10207	42	M	INPATIENT 	Pus	Staphylococcus aureus										S			S		S		S		R	S	S						S				S	S	S	S	S			S		S	S	S	S	S		S									S	S					
+22-Apr-22	10208	28	F	INPATIENT 	Urine 	None																																																													
+22-Apr-22	10209	67	M	INPATIENT 	Sputum	Sphingomonas paucimobilis					I	S	S		S		S		S		S					R	R		S			S	S				S			R	S					S	S	R	R	S											S				S		
+22-Apr-22	10210	64	M	EMERGENCY	Blood	None																																																													
+23-Apr-22	10211	64	M	INPATIENT 	Urine 	None																																																													
+23-Apr-22	10212	68	F	INPATIENT 	Urine 	None																																																													
+23-Apr-22	10213	64	M	INPATIENT 	Sputum	None																																																													
+23-Apr-22	10214	49	M	INPATIENT 	Pus	None																																																													
+23-Apr-22	10215	4	F	INPATIENT 	Pus	Staphylococcus aureus										I			R		R		R		R	R	S		R				I				R	R	R		R			S		S	S	S	S	R		S									R	S			S		
+23-Apr-22	10216	30	M	INPATIENT 	Sputum	Sphingomonas paucimobilis					R	S	S		S	S	S		S		S					R	S		S			S	S				S			R	S					S	S	S	S	S											R				S		
+23-Apr-22	10217	30	M	INPATIENT 	Sputum	Streptococcus sanguinis				S						S	S		S		S				S	R	S		R									S	S	R	S		S	I		S	S	S	S												R			S	S		
+24-Apr-22	10218	38	F	INPATIENT 	Urine 	None																																																													
+24-Apr-22	10219	68	M	INPATIENT 	Urine 	None																																																													
+24-Apr-22	10220	45	F	INPATIENT 	Urine 	None																																																													
+25-Apr-22	10221	84	F	INPATIENT 	Sputum	None																																																													
+25-Apr-22	10222	30	M	INPATIENT 	Blood AN	None																																																													
+25-Apr-22	10223	30	M	INPATIENT 	Blood	None																																																													
+25-Apr-22	10224	30	M	INPATIENT 	Blood FUNGI	None																																																													
+26-Apr-22	10225	79	F	INPATIENT 	Pus	None																																																													
+26-Apr-22	10226	64	M	INPATIENT 	Blood AN	None																																																													
+26-Apr-22	10227	64	M	INPATIENT 	Blood	None																																																													
+27-Apr-22	10228	47	F	INPATIENT 	Urine 	None																																																													
+27-Apr-22	10229	79	F	INPATIENT 	Blood FUNGI	Candida albicans																																																S	S	S		S	S								
+27-Apr-22	10230	79	F	INPATIENT 	Blood	None																																																													
+28-Apr-22	10231	45	F	INPATIENT 	Urine	None																																																													
+28-Apr-22	10232	22	M	INPATIENT 	Urine 	None																																																													
+28-Apr-22	10233	22	M	INPATIENT 	Blood	None																																																													
+28-Apr-22	10234	14	F	INPATIENT 	Blood AN	None																																																													
+28-Apr-22	10235	14	F	INPATIENT 	Blood	None																																																													
+28-Apr-22	10236	62	F	INPATIENT 	Pus	Staphylococcus aureus					R					S			I		I		R		R	R	S					I	R				R	R	R	R			S	S		S	S	S	I	R		S									R	S			S		
+29-Apr-22	10237	64	M	INPATIENT 	Urine FUNGI	None																																																													
+29-Apr-22	10238	64	M	INPATIENT 	Urine 	None																																																													
+29-Apr-22	10239	64	M	INPATIENT 	Sputum FUNGI	Candida albicans																																																S	S	S		I	S								
+29-Apr-22	10240	64	M	INPATIENT 	Sputum	None																																																													
+29-Apr-22	10241	5	  M	EMERGENCY	Blood	None																																																													
+29-Apr-22	10242	73	F	OUTPATIENT	Urine 	None																																																													
+29-Apr-22	10243	23	F	OUTPATIENT	Sekret	Candida albicans																																																S	S	S		S	S								
+30-Apr-22	10244	5	  M	INPATIENT 	Urine 	None																																																													
+30-Apr-22	10245	49	F	INPATIENT 	Pus	Enterococcus faecalis		S		S						R			R		R		R		S		S					R	R				R	R		R	R			R		I	S	S	R			R									R		S				
+02-May-22	10246	23	M	INPATIENT 	Blood	Pseudomonas aeruginosa		R		R	S	R	R		R	R			R		R		R						R			S	I				R			R	R					S	R	R	R												R				S		
+02-May-22	10247	79	F	INPATIENT 	Blood AN	None																																																													
+03-May-22	10248	54	M	INPATIENT 	Sputum	None																																																													
+03-May-22	10249	0	  F	INPATIENT 	Blood	None																																																													
+03-May-22	10250	65	M	EMERGENCY	Blood AN	None																																																													
+03-May-22	10251	65	M	EMERGENCY	Blood	None																																																													
+04-May-22	10252	68	M	INPATIENT 	Sputum	Pseudomonas aeruginosa					I	S	S		R	R			R		R		R			R	R		S			S	S				S			S	S					R	R	R	R	R											R				R		
+06-May-22	10253	68	M	OUTPATIENT	Sputum	Klebsiella pneumoniae ssp pneumoniae		I		R	S	S	S		S	S	S		S		S		S			R	R		S	S		S	S				I			S	R					R	S		R	S											R				S		
+06-May-22	10254	45	F	INPATIENT 	Urine 	Escherichia coli		R		R	S	S	S		S	S	S		S		S		S			R	R		S	S		S	S				S				R					S	S	R	R	R											S				S		
+06-May-22	10255	60	M	OUTPATIENT	Sputum	Streptococcus mitis/Streptococcus oralis	S	S		I						S	S		S		S		R		I		S	S										R	R	I	S		S	S	S	R	S	S	S												S			S			
+07-May-22	10256	31	F	INPATIENT 	Urine 	Escherichia coli		I		R	R	S	S		R	R	R		R		R		S			R	R		S	S		S	S				R			R	R					S	S		R	R											R				S		
+07-May-22	10257	40	M	OUTPATIENT	Pus	Escherichia coli		I		R	R	S	S		R	R	R		R		R		S				R		S	S		S	R				R			R	R			R		S	S		R	R											R				S		
+07-May-22	10258	34	F	INPATIENT 	Pus	None																																																													
+07-May-22	10259	0	  F	INPATIENT 	Sputum	Streptococcus mitis/Streptococcus oralis	S	R		I						S	S		S		R		R		I		S	S										R	R	S	S		S	S	S	S	S	S	S												R			S			
+07-May-22	10260	0	  F	INPATIENT 	Urine FUNGI	None																																																													
+07-May-22	10261	0	  F	INPATIENT 	Urine 	None																																																													
+08-May-22	10262	0	  F	INPATIENT 	Sputum FUNGI	None																																																													
+08-May-22	10263	84	F	EMERGENCY	Blood	None																																																													
+08-May-22	10264	55	F	INPATIENT 	Urine 	Escherichia coli		S		R	S	S	S		S	S	S		S		S		S			R	R		S	S		S	R				R			R	S			S		S	S		R	S											I				S		
+09-May-22	10265	23	M	INPATIENT 	Blood AN	None																																																													
+09-May-22	10266	23	M	INPATIENT 	Blood	Enterobacter cloacae	R	R		R	R	S	R		R	R	R		R		R		S					S	S	S		S	R				R			S	R				R	S	S		R	R											R				S		
+09-May-22	10267	84	F	INPATIENT 	Urine 	None																																																													
+09-May-22	10268	53	M	INPATIENT 	Urine 	None																																																													
+10-May-22	10269	60	F	INPATIENT 	Urine 	None																																																													
+10-May-22	10270	55	F	INPATIENT 	Urine 	None																																																													
+11-May-22	10271	26	F	OUTPATIENT	Pus	Staphylococcus aureus		R		R						S			R		R		R		R	R	S						S				R	R	R	R	S			S	S	S	S	S	S	S		S									R	S			S		
+11-May-22	10272	68	M	INPATIENT 	Urine 	None																																																													
+12-May-22	10273	5	  M	EMERGENCY	Blood	None																																																													
+12-May-22	10274	31	F	INPATIENT 	Pus	Pseudomonas aeruginosa					I	R	R	I	R	R	R		R		R		R			R	R	S	S		R	R	R				R			R	R				R	I	R		R												R				R		
+14-May-22	10275	66	M	INPATIENT 	Blood	None																																																													
+14-May-22	10276	66	M	INPATIENT 	Pus	Klebsiella pneumoniae ssp pneumoniae		R		R	R	S	R	S	R	R	R				R		S			R	R	S	S	S	R	S	R				R			R	R				R	S	S		R	R											S				S		
+14-May-22	10277	49	M	INPATIENT 	Blood	None																																																													
+14-May-22	10278	34	F	INPATIENT 	Pus	None																																																													
+14-May-22	10279	3	  M	INPATIENT 	Pus	None																																																													
+15-May-22	10280	0	  F	INPATIENT 	Blood	None																																																													
+15-May-22	10281	49	M	INPATIENT 	Sputum FUNGI	None																																																													
+15-May-22	10282	49	M	INPATIENT 	Sputum	Acinetobacter baumannii	R	R		R		R	R	R	R	R	R				R		R			R	R		R		R	R	R				R			R	R				R		I	R	R	S											R				R		
+15-May-22	10283	38	F	INPATIENT 	Pus	Staphylococcus aureus	S	S		R				R		S					S				R	R	S				S		R				R	R	R	R	R			S	S	S	S	S	R	S		S									R	S					
+16-May-22	10284	49	F	INPATIENT 	Pus	Escherichia coli	S	S		S	S	S	S	S	S	S	S				S		S			R	R		S	S	S	S	S				S			S	S				R		S	R	R	S											S				S		
+17-May-22	10285	65	F	INPATIENT 	Sputum	Pseudomonas aeruginosa	R	R		R	S	S	S	S	R	S					R		R			R	R		S		I	S	S				S			S	R				R		R	R	R												R				S		
+17-May-22	10286	66	M	INPATIENT 	Urine 	Pseudomonas aeruginosa	R	R		R	S	S	S	S	R	S					R		R			R	R		S		S	S	S				I			R	S				R		R	R	R												R				S		
+17-May-22	10287	82	F	INPATIENT 	Urine FUNGI	None																																																													
+17-May-22	10288	82	F	INPATIENT 	Urine 	None																																																													
+17-May-22	10289	82	F	INPATIENT 	Blood AN	None																																																													
+17-May-22	10290	82	F	INPATIENT 	Blood	None																																																													
+17-May-22	10291	70	M	INPATIENT 	Sputum	None																																																													
+17-May-22	10292	65	F	INPATIENT 	Urine 	Enterococcus faecalis		S		S				R		S					S		R		S	R	S	S			S			S	S		S	S		S	S			R	I		S	S	S			R									R						
+18-May-22	10293	22	M	INPATIENT 	Blood AN	None																																																													
+18-May-22	10294	22	M	INPATIENT 	Blood	Acinetobacter baumannii	R	R		R		R	R	R	R	R	R				R		R			R		R	R		R	R	R				R			R	R				R		I	R	R	S											R				R		
+18-May-22	10295	60	M	EMERGENCY	Blood	None																																																													
+19-May-22	10296	35	F	INPATIENT 	Urine 	Escherichia coli	I	I		R	S	S	S	S	S	S	S				S		S			R	R	S	S	S	S	S	S				S			S	I				I		S	R	R	S											S				S		
+19-May-22	10297	61	F	INPATIENT 	Blood AN	None																																																													
+19-May-22	10298	61	F	INPATIENT 	Blood	Sphingomonas paucimobilis	R	R		R	R	R	R	R	R	R	R		R		R		R			R		R	R		S	I	R				R				R				S		S	S	R	R											R				R		
+19-May-22	10299	61	F	INPATIENT 	Blood	Staphylococcus haemolyticus	R	R		R				R		R			R		R		R		R	R	S	R			S		R				R	R	R		R			S	S		S	S	R	R		S									R	R					
+19-May-22	10300	66	M	EMERGENCY	Blood AN	None																																																													
+19-May-22	10301	66	M	EMERGENCY	Blood	None																																																													
+19-May-22	10302	27	F	EMERGENCY	Blood	None																																																													
+19-May-22	10303	61	F	INPATIENT 	Pus	Providencia rettgeri	R	R		R	R	R	R	R	R	R	R		R		R		R					R	R	R	R	S	R				R			R	R				R		R	R	R	R											R				R		
+19-May-22	10304	47	M	INPATIENT 	Pus	None																																																													
+19-May-22	10305	2	  F	EMERGENCY	Blood	None																																																													
+19-May-22	10306	51	M	EMERGENCY	Blood	None																																																													
+20-May-22	10307	66	M	INPATIENT 	Blood	Candida parapsilosis																																																S	S	S		S	S								
+20-May-22	10308	27	F	INPATIENT 	Sputum FUNGI	None																																																													
+20-May-22	10309	27	F	INPATIENT 	Sputum	Staphylococcus aureus	R	R		R				R		R			R		R		R		R	R		S			S		R				R	R	R	R	R			R	R		S	S	R	R		I									R	R					
+20-May-22	10310	61	F	INPATIENT 	Urine 	Candida tropicalis																																																S	S		S		S								
+20-May-22	10311	61	F	INPATIENT 	Urine 	None																																																													
+20-May-22	10312	71	M	EMERGENCY	Blood AN	None																																																													
+20-May-22	10313	71	M	EMERGENCY	Blood	None																																																													
+20-May-22	10314	51	M	INPATIENT 	Sputum	None																																																													
+20-May-22	10315	64	F	EMERGENCY	Blood	None																																																													
+21-May-22	10316	61	M	EMERGENCY	Blood	None																																																													
+21-May-22	10317	27	F	EMERGENCY	Pus FUNGI	None																																																													
+21-May-22	10318	27	F	EMERGENCY	Pus	None																																																													
+21-May-22	10319	29	F	INPATIENT 	Blood	None																																																													
+22-May-22	10320	34	F	INPATIENT 	Urine	None																																																													
+22-May-22	10321	71	M	INPATIENT 	Urine	None																																																													
+23-May-22	10322	17	F	INPATIENT 	Pus	Escherichia coli	R	I		R	S	S	S	S	S	S	S		S		S		S			R		S	S	S	S	S	S				S			S	S				R		S	R	R	S											I				S		
+23-May-22	10323	79	F	EMERGENCY	Urine FUNGI	None																																																													
+23-May-22	10324	79	F	EMERGENCY	Urine 	Escherichia coli	I	I		R	S	S	S	S	S	S	S		S		S		S			R	R	S	S	S	S	S	S				R			R	I				R		S	R	R	R											S				S		
+23-May-22	10325	44	F	EMERGENCY	Sputum FUNGI	None																																																													
+23-May-22	10326	44	F	EMERGENCY	Sputum	Streptococcus mitis/Streptococcus oralis	S			I				S		S	S		S		S		S		I	S	S	S			S							R	S	S	S		S	R	S		S	S	S												S			S			
+24-May-22	10327	18	F	EMERGENCY	Blood	None																																																													
+24-May-22	10328	79	F	INPATIENT 	Blood	None																																																													
+24-May-22	10329	62	F	INPATIENT 	Urine 	None																																																													
+24-May-22	10330	45	M	INPATIENT 	Pus	Escherichia coli	R	R		R	R		R	S	R	R	R				R		S			R	R	S	S	S	R	S	R				R			R	R				R		S	R	R	R											R				S		
+25-May-22	10331	52	M	INPATIENT 	Pus	Staphylococcus aureus	S	S		I				S		S			S		S		S		R	S	S	S			S		S				S	S	S	S	S			S	S		S	S	S	S		S										S					
+25-May-22	10332	19	M	INPATIENT 	Pus	None																																																													
+26-May-22	10333	44	M	INPATIENT 	Pus	Staphylococcus aureus	S	S		S				S		S			S		S		S		S	S	S	S			S		S				S	S	S	S	S			S	S		S	S	S	S		S									S	S					
+27-May-22	10334	71	M	INPATIENT 	Pus	Klebsiella pneumoniae ssp pneumoniae	R	R		R	R	S	I	S	R	R	R		R		R		S			R	R	S	S	S	R	S	R				R			R	R				R		S	R	R	R											R				S		
+27-May-22	10335	64	F	INPATIENT 	Sputum	Acinetobacter baumannii	I	S		R		S	S	S	R	S	S		S		R		R			R	R	S	S		S	S	S				S			S	S				S		S	R	R	S											S				S		
+27-May-22	10336	35	M	EMERGENCY	Blood	None																																																													
+28-May-22	10337	77	M	EMERGENCY	Blood	None																																																													
+28-May-22	10338	59	M	EMERGENCY	Blood	Staphylococcus hominis ssp hominis	S	S		S				I		S			S		S				R	R	S	S			S		R				R	R	R	R	S			R	R		S	S	S	S		S									R	S			S		
+28-May-22	10339	56	M	INPATIENT 	Blood	None																																																													
+28-May-22	10340	59	F	INPATIENT 	Pus	None																																																													
+28-May-22	10341	72	F	OUTPATIENT	Urine 	None																																																													
+28-May-22	10342	72	F	OUTPATIENT	Urine 	Escherichia coli	R	S		R	S	S	S	S	R	S	S		S		R		R			R	R	S	S	S	S	S	R				R			R	R				R		S	R	R	R											S				S		
+28-May-22	10343	37	F	OUTPATIENT	Pus	Staphylococcus epidermidis		S		S				S		S			S		S				R	R	S	S			S		S				S	S	S	S	R			S	S		S	S	R	R		S									R	S			S		
+29-May-22	10344	8	  F	EMERGENCY	Blood	Salmonella ser.Paratyphi A	S	S		S	S	S	S	S	R	S	S				S		S			R	R	S	S	S	S	R	R				R			I	R				R		S	R	R	S											S				S		
+30-May-22	10345	42	M	EMERGENCY	Blood	None																																																													
+30-May-22	10346	27	M	OUTPATIENT	Urine 	None																																																													
+30-May-22	10347	56	F	INPATIENT	Urine 	None																																																													
+31-May-22	10348	19	M	OUTPATIENT	Sputum	Enterobacter aerogenes	S	R		R	R	R	R	S	R	S	R		S		S		S			R	R	S	S	S	S	S	R				R			S	S				S		I	S	R	R											S				S		
+31-May-22	10349	27	F	EMERGENCY	Blood	None																																																													
+31-May-22	10350	49	M	INPATIENT 	Sputum	None																																																													
+31-May-22	10351	49	M	INPATIENT 	Sputum	Pseudomonas aeruginosa	R				R	S	R	S	R	S			R		R		R			R	R	S			I	S	S				I			S	R				R		R	R	R												R				S		
+31-May-22	10352	78	F	OUTPATIENT	Pus	None																																																													
+02-Jun-22	10353	60	M	INPATIENT 	Sputum	Proteus mirabilis	R	S		R	R	R	R	S	R	R	R		R		R		R			R	R	S	S	S	R	S	R				R			R	R				R		R	R	R	R											R				S		
+02-Jun-22	10354	57	M	INPATIENT 	Blood	None																																																													
+03-Jun-22	10355	68	M	INPATIENT 	Urine 	None																																																													
+03-Jun-22	10356	68	M	INPATIENT 	Blood	Pseudomonas aeruginosa	R				S	S	S	S	R	S			R		R		R			R	R	S	S		R	S	S				S			S					R		R	R	R												R				S		
+03-Jun-22	10357	42	M	OUTPATIENT	Pus	Staphylococcus epidermidis	S							S		S			S		S		S		S	S	S	S			S		S				S	S	S	S	S			S	S		S	S	I	S		S									S	S			S		
+03-Jun-22	10358	57	F	INPATIENT 	Urine	Pseudomonas aeruginosa	R				S	S	S	S	R	S			S		R		R			R	R	S	S		S	S	S				S			S	R				R		R	R	R												R				S		
+03-Jun-22	10359	22	M	OUTPATIENT	Pus	Staphylococcus hominis ssp hominis	S							R		S			S		S		R		R	R	S	S			S		S				S	S	S	S	S			S	S		S	S	S	R		S									S	R			S		
+04-Jun-22	10360	68	M	INPATIENT 	Sputum	Pseudomonas aeruginosa	R				S	S	S	S	R	S			R		R		R			R	R	S	S		R	S	S				S			S	R				R		R	R	R												R				S		
+04-Jun-22	10361	18	F	INPATIENT 	Urine 	None																																																													
+04-Jun-22	10362	42	F	INPATIENT 	Urine 	None																																																													
+05-Jun-22	10363	46	M	INPATIENT 	Pus	Pantoea spp	R							S		R			R		R		S			R	R	S			R									S	I				R			R	R												S						
+05-Jun-22	10364	84	F	INPATIENT 	Urine 	Proteus mirabilis	I	R		R	S	S	S	S	S	S	S		S		S		S			R	R	S	S	S	S	S	I				R			R	R						R	R	R	R											R				S		
+06-Jun-22	10365	71	M	EMERGENCY	Blood	None																																																													
+06-Jun-22	10366	71	M	INPATIENT 	Sputum	None																																																													
+06-Jun-22	10367	71	M	INPATIENT 	Sputum	Kocuria kristinae	S							R		S			S		S		R				S	S	R		S		R							S	R				R			S	R												R				S		
+06-Jun-22	10368	31	M	INPATIENT 	Pus	None																																																													
+06-Jun-22	10369	36	F	EMERGENCY	Blood	None																																																													
+06-Jun-22	10370	36	F	EMERGENCY	Blood	None																																																													
+07-Jun-22	10371	61	M	OUTPATIENT	Sputum	Streptococcus mitis/Streptococcus oralis	S			I				S		S	R		S		S		S		I	S	S	S			S							R	R	S	S		S	R	S		S	S	S												S			S			
+07-Jun-22	10372	52	F	INPATIENT 	Blood	None																																																													
+07-Jun-22	10373	49	M	INPATIENT 	Urine 	None																																																													
+07-Jun-22	10374	32	F	INPATIENT 	Pus	Sphingomonas paucimobilis	S				S	S	S	S	S	S	S		S		S		S				S	S	S		S	S	S				S			S	S				S		S	S	S	S											S				S		
+07-Jun-22	10375	45	F	OUTPATIENT	Urine 	Escherichia coli	I	S		R	R	S	S	S	R	R	R		R		R		S				R	S	S	S	R	S	S				R			R	S				S		S	R	R	R											S				S		
+08-Jun-22	10376	60	M	INPATIENT 	Sputum	Klebsiella pneumoniae ssp pneumoniae	S	S		R	S	S	S	S	S	S	S		S		S		S				R	S	S	S	S	S	S				S			S	R				R		S	R	R	S											S				S		
+08-Jun-22	10377	59	M	INPATIENT 	Pus	Staphylococcus aureus	I							R		S			R		R				R	R	S	S			S		R				R	R	I	R	S			S	S		S	S	S	S		S									R	S					
+08-Jun-22	10378	59	F	EMERGENCY	Blood	None																																																													
+08-Jun-22	10379	31	F	EMERGENCY	Urine 	None																																																													
+08-Jun-22	10380	49	F	EMERGENCY	Blood	Klebsiella pneumoniae ssp pneumoniae	R	R		R	R	R	R	S	R	R	R		R		R		I			R	R	S	S	S	R	S	S				R			R	R				R		R	R	R	R											R				R		
+08-Jun-22	10381	49	F	EMERGENCY	Urine 	Klebsiella pneumoniae ssp pneumoniae	R	R		R	R	S	R	S	R	R	R		R		R		I			R	R	S	S	S	R	S	S				R			R	R				R		R	R	R	R											R				S		
+09-Jun-22	10382	36	F	INPATIENT 	Urine 	None																																																													
+09-Jun-22	10383	43	F	INPATIENT 	Urine 	None																																																													
+09-Jun-22	10384	40	F	INPATIENT 	Sputum	None																																																													
+09-Jun-22	10385	28	M	INPATIENT 	Blood	None																																																													
+09-Jun-22	10386	54	F	OUTPATIENT	Sputum	Streptococcus mitis/Streptococcus oralis	S			R				S		S			R		S		R		R	R	S	S			S		S					R	S	R	R		S	S	S		S	S	R												S			S	S		
+09-Jun-22	10387	13	M	EMERGENCY	Blood	None																																																													
+09-Jun-22	10388	36	F	INPATIENT 	Pus	Staphylococcus capitis	S							R		S			R		R		R		R	R	S	R			S		I				R	R	R	R	R			S	S		S	S	R	S		S									R	S			S		
+10-Jun-22	10389	36	F	INPATIENT 	Blood	None																																																													
+10-Jun-22	10390	76	M	EMERGENCY	Blood	None																																																													
+11-Jun-22	10391	65	M	INPATIENT 	Blood	None																																																													
+11-Jun-22	10392	28	F	EMERGENCY	Blood	None																																																													
+11-Jun-22	10393	46	F	INPATIENT 	Urine 	None																																																													
+12-Jun-22	10394	28	F	INPATIENT 	Pus	None																																																													
+12-Jun-22	10395	28	M	INPATIENT 	Pus	None																																																													
+12-Jun-22	10396	59	F	INPATIENT 	Pus	Escherichia coli		R		R	S	S	S				S												S	S		S	S				S										S			S															S		
+12-Jun-22	10397	49	F	INPATIENT 	Pus	None																																																													
+12-Jun-22	10398	49	F	INPATIENT 	Pus	None																																																													
+13-Jun-22	10399	91	F	EMERGENCY	Blood	None																																																													
+13-Jun-22	10400	43	F	INPATIENT	Urine 	None																																																													
+13-Jun-22	10401	91	F	INPATIENT	Sputum	None																																																													
+13-Jun-22	10402	91	F	INPATIENT	Sputum	Pseudomonas aeruginosa					S	S	S		R														S			S	R				R										R																		S		
+13-Jun-22	10403	65	M	INPATIENT	Pus	Escherichia coli		S		R	R	S	S				S												S	S		S	S				S										S			S															S		
+14-Jun-22	10404	52	M	EMERGENCY	Blood	None																																																													
+14-Jun-22	10405	54	F	INPATIENT 	Sputum	None																																																													
+14-Jun-22	10406	54	F	INPATIENT 	Sputum	None																																																													
+14-Jun-22	10407	28	M	INPATIENT 	Pus	Staphylococcus aureus	S	S		I				S		S			S		S		S		R	S	S	S			S	S	S				S	S	S	S	S			S	S		S	S	S	S		S									S	S			S		
+15-Jun-22	10408	58	M	INPATIENT 	Urine 	None																																																													
+15-Jun-22	10409	58	M	INPATIENT 	Blood	None																																																													
+15-Jun-22	10410	52	M	INPATIENT 	Sputum	None																																																													
+15-Jun-22	10411	65	F	OUTPATIENT	Pus	Staphylococcus aureus		S		R				S		S			S		S		S		R	S	R				S	S	S				S	S	S	S	S			S	S		S	S	I	S		S									S	S			S		
+16-Jun-22	10412	65	M	INPATIENT 	Pus	Enterococcus faecium		R		S				R		S			S		R		R		R	R	S				S	R		S	R		S	S			S			R	S		S	S	R			R									S				S		
+16-Jun-22	10413	30	F	INPATIENT 	Sputum	None																																																													
+17-Jun-22	10414	72	F	EMERGENCY	Blood	None																																																													
+17-Jun-22	10415	34	F	INPATIENT 	Pus	Escherichia coli		I		R	S	S	S	S	R	S	R		S		S		S			R	R		S	S	I	S	S				R			R	R				R		S	S	R	R											S				S		
+17-Jun-22	10416	59	M	INPATIENT 	Pus	None																																																													
+18-Jun-22	10417	48	M	EMERGENCY	Blood	None																																																													
+18-Jun-22	10418	33	F	INPATIENT 	Blood	None																																																													
+18-Jun-22	10419	34	F	OUTPATIENT	Urine 	None																																																													
+18-Jun-22	10420	36	F	OUTPATIENT	Urine 	None																																																													
+19-Jun-22	10421	82	M	INPATIENT	Urine 	None																																																													
+19-Jun-22	10422	82	M	INPATIENT	Urine 	Escherichia coli		S		R	S	S	S	S	S	S	S		S		S		S			R	R	S	S	S	S	S	R				R			R	S		S		S		S	R	R	S											S				S		
+19-Jun-22	10423	82	M	INPATIENT	Sputum	None																																																													
+19-Jun-22	10424	82	M	INPATIENT	Sputum	Klebsiella pneumoniae ssp pneumoniae		S		R	S	S	S	S	S	S	S		S		S		S			R	R	S	S	S	S	S	S				S			S	S		S		R		S	S	R	S											S				S		
+19-Jun-22	10425	82	M	INPATIENT	Blood	None																																																													
+19-Jun-22	10426	82	M	INPATIENT	Blood	None																																																													
+19-Jun-22	10427	48	M	INPATIENT	Sputum	None																																																													
+19-Jun-22	10428	48	M	INPATIENT	Sputum	Streptococcus agalactiae				S				S		S			S		S		S		S	S	S	S	S		S		S					S	S	S	S		S	R	S		S	S	S			S									S	S					
+19-Jun-22	10429	48	M	INPATIENT	Urine 	None																																																													
+20-Jun-22	10430	56	M	EMERGENCY	Blood	None																																																													
+20-Jun-22	10431	72	F	INPATIENT 	Sputum	Klebsiella pneumoniae ssp pneumoniae		S		R	S	S	S	S	S	S	S		S		S		S			R	R	S	S	S	S	S	S				I			S	S		R		R		S	R	R	S											S				S		
+20-Jun-22	10432	40	M	EMERGENCY	Pus	None																																																													
+22-Jun-22	10433	41	M	INPATIENT 	Pus	Escherichia coli				R	S	S	S	S	R		R		R				S			R	R	S	S	S		S	S				R			R	R				R		S	R		R											S				S		
+23-Jun-22	10434	56	M	INPATIENT 	Sputum	Escherichia coli			S	R	R	S	S	S	R		R		S				S			R	R	S	S	S	R	S	R				R			R	S				S		S	R	R	R											S				S		
+23-Jun-22	10435	85	F	OUTPATIENT	Urine 	Escherichia coli				R	R		R	S	R		R						S			R	R	S	S	S	S	S	S				R			R	R				R		S	R	R	R											R				S		
+23-Jun-22	10436	79	M	OUTPATIENT	Sputum	Staphylococcus hominis ssp hominis				S				S									S			S	S	S			S	S	S				S	S	S	S	R			R	R		S	S	R	R											S	S					
+23-Jun-22	10437	48	F	INPATIENT 	Pus	Staphylococcus hominis				S													S			S	S	S	R			S	S				S	S	S	S	S		S	S	S		S	S	R	S		S									S	S					
+24-Jun-22	10438	40	M	INPATIENT 	Pus	Escherichia coli	S			R			S						S				S			R		S	S	S		S					R				R		S	R	R		S	R	R	R											R				S	S	
+24-Jun-22	10439	57	F	INPATIENT 	Urine 	None																																																													
+24-Jun-22	10440	15	F	INPATIENT 	Pus	None																																																													
+25-Jun-22	10441	38	M	OUTPATIENT	Sputum	Streptococcus parasanguinis		S											S							R	S	S	R			S	S			S	S	R		S	S		S	S	S		S	S	R	R											S				S		
+25-Jun-22	10442	63	M	EMERGENCY	Blood	None																																																													
+25-Jun-22	10443	63	M	EMERGENCY	Blood	Pseudomonas aeruginosa													S				R			R	R	I	R			S	S				S			S	S		R	R	R		R	R		R											S				S		
+26-Jun-22	10444	28	F	INPATIENT 	Pus	Enterobacter cloacae				R		R					R		R				R					S	S			S	R				R			S			R	S	S		S	R		R															R		
+26-Jun-22	10445	28	F	INPATIENT 	Pus	Staphylococcus aureus											R		R							R	R	S	S	S		S	R				R	R		R			S	S			S	R	R	R															S		
+26-Jun-22	10446	51	F	INPATIENT 	Urine 	None																																																													
+26-Jun-22	10447	36	F	INPATIENT 	Urine 	None																																																													
+26-Jun-22	10448	58	F	INPATIENT 	Urine 	None																																																													
+26-Jun-22	10449	63	M	INPATIENT 	Urine 	None																																																													
+26-Jun-22	10450	63	M	INPATIENT 	Urine 	None																																																													
+27-Jun-22	10451	68	M	EMERGENCY	Blood	Escherichia coli		R		R		S	S			R	R		R				S			R		S	S	S		S	R				R			R			S		R		S	R		R															S		
+27-Jun-22	10452	63	M	INPATIENT 	Sputum	Candida albicans																																																	S	S			S								
+27-Jun-22	10453	63	M	INPATIENT 	Sputum	None																																																													
+28-Jun-22	10454	68	M	INPATIENT 	Sputum	None																																																													
+28-Jun-22	10455	68	M	INPATIENT 	Sputum	Klebsiella pneumoniae				R		S					S		R				S			R	R	S	S	S		S	R				R			R	S		S		S		S	R		R											S				S		
+28-Jun-22	10456	18	F	OUTPATIENT	Urine 	None																																																													
+28-Jun-22	10457	57	F	EMERGENCY	Urine 	None																																																													
+28-Jun-22	10458	57	F	EMERGENCY	Urine 	None																																																													
+30-Jun-22	10459	57	M	EMERGENCY	Pus	Streptococcus thoraltensis																	R					S				S									S		R		S	R	S																		S		
+30-Jun-22	10460	37	M	INPATIENT 	Urine	None																																																													
+30-Jun-22	10461	82	M	INPATIENT 	Sputum	None																																																													
+30-Jun-22	10462	82	M	INPATIENT 	Sputum	None																																																													
+30-Jun-22	10463	57	M	INPATIENT 	Pus	Staphylococcus epidermidis	S									S			S		S		S			S	S	S	S			S	S				S			S	S		S	R		S	S	S	S												S				S		
+30-Jun-22	10464	64	M	EMERGENCY	Blood	None																																																													
+30-Jun-22	10465	39	M	INPATIENT 	Pus	None																																																													
+30-Jun-22	10466	57	M	INPATIENT 	Pus	None																																																													
+01-Jul-22	10467	48	M	INPATIENT 	Sputum	None																																																													
+01-Jul-22	10468	48	M	INPATIENT 	Sputum	Staphylococcus epidermidis	S		S							S			R			R	R			R	S	R	S			S	R			S	R	R			R	R	S	S	S	R	S	S		R																	
+01-Jul-22	10469	63	M	INPATIENT 	Urine fungi	Candida tropicalis																																															S	S	S	S	S	S									
+01-Jul-22	10470	63	M	INPATIENT 	Urine 	None																																																													
+01-Jul-22	10471	28	F	INPATIENT 	Sputum	Dermacoccus nishinomiyaensis/Kytococcus sedentariu	S					S				S						S	S			S	S	S	R			S	S			S	S				S		S	S		S	S			S	S																
+01-Jul-22	10472	6	  M	EMERGENCY	Blood	None																																																													
+02-Jul-22	10473	5	  M	INPATIENT 	Blood	None																																																													
+02-Jul-22	10474	54	F	INPATIENT 	Swab luka	None																																																													
+02-Jul-22	10475	63	M	INPATIENT 	Swab luka	Pseudomonas aeruginosa			R		R	R	R			R						R	R			R	R		R			R	R				R							R	I	R	R	R		R																	
+02-Jul-22	10476	63	M	INPATIENT 	Swab luka	Staphylococcus warneri	S												R				S				S	S	R				I			R	R				S		R	S	S	I		S	I	R	S																
+03-Jul-22	10477	57	F	EMERGENCY	Blood	None																																																													
+03-Jul-22	10478	5	  M	INPATIENT 	Urine 	None																																																													
+04-Jul-22	10479	29	M	EMERGENCY	Pus	None																																																													
+04-Jul-22	10480	40	F	INPATIENT 	Blood	None																																																													
+04-Jul-22	10481	62	M	EMERGENCY	Blood	None																																																													
+04-Jul-22	10482	36	F	EMERGENCY	Blood	None																																																													
+04-Jul-22	10483	36	F	EMERGENCY	Urine 	Escherichia coli	S		S	R	S	S				S	S		S			S				S	R	S	S	S		S	S			R	R				S		R	R	R	S	S	R		S	S																
+05-Jul-22	10484	66	M	EMERGENCY	Blood	None																																																													
+05-Jul-22	10485	66	M	EMERGENCY	Blood	None																																																													
+05-Jul-22	10486	78	M	EMERGENCY	Blood	None																																																													
+05-Jul-22	10487	62	M	INPATIENT 	Sputum	Lactococcus raffinolactis	S									S			S				S			R	S	S	R			S	S			S	R				S		S	S	S	S	S	S	S	R																	
+05-Jul-22	10488	66	M	INPATIENT 	Urine 	None																																																													
+05-Jul-22	10489	29	M	INPATIENT 	Pus	Acinetobacter lwoffii	S												S			S	S			S	S		S			S	S			S	S				S		S	S		S	S	S		S	S																
+05-Jul-22	10490	64	F	INPATIENT 	Pus	Kocuria kristinae	S		S							S			R		R		R			R	R	S	R			S	R			R	S				R		R	R	R	S	R	R		R	R																
+05-Jul-22	10491	39	F	INPATIENT 	Blood AN	None																																																													
+05-Jul-22	10492	39	F	INPATIENT 	Blood	None																																																													
+06-Jul-22	10493	58	M	INPATIENT 	Blood	None																																																													
+06-Jul-22	10494	54	F	INPATIENT 	Pus	Enterococcus faecalis	S			S						S			S			S	R			I	S	S	R			S		S	S	R	S	S			R	R		R	S	S	S			S	S																
+06-Jul-22	10495	57	F	INPATIENT 	Urine 	None																																																													
+06-Jul-22	10496	45	M	EMERGENCY	Blood	MRSA +																																																													
+06-Jul-22	10497	83	F	OUTPATIENT	Urine fungi	None																																																													
+06-Jul-22	10498	83	F	OUTPATIENT	Urine 	None																																																													
+06-Jul-22	10499	40	M	INPATIENT 	Pus fungi	None																																																													
+06-Jul-22	10500	40	M	INPATIENT 	Pus	Escherichia coli ESBL	S	I	S	R	R	R				R	R						R			R	R	S	R	I		S	R			R	R				R		R	R	R	S	S	R		R	S																
+06-Jul-22	10501	40	M	INPATIENT 	Urine fungi	Candida albicans																																															S	S	S	S	S	S									
+06-Jul-22	10502	40	M	INPATIENT 	Urine 	None																																																													
+06-Jul-22	10503	82	F	EMERGENCY	Blood	None																																																													
+06-Jul-22	10504	58	M	INPATIENT 	Sputum	Acinetobacter baumannii			S	S		S	S			S	I		S			S	S				R	S	S			S	S			S	S				S		R	S	S	S	S			S	R																
+06-Jul-22	10505	82	F	EMERGENCY	Swab luka	None																																																													
+06-Jul-22	10506	25	F	INPATIENT 	Urine 	None																																																													
+07-Jul-22	10507	57	F	INPATIENT 	Sputum	None																																																													
+07-Jul-22	10508	68	M	INPATIENT 	Sputum	Enterococcus faecalis	S		R	S						S			R				S				S	S	R			I		S		S	R				S	R	S	R	S	S	S	S		R	S																
+08-Jul-22	10509	29	M	INPATIENT 	Pus	Escherichia coli	S		S	R	S	S	S			S	R		S				S				R	S	S	S		S	S			R	R				I		S	R	I	S	S	R		R	S																
+08-Jul-22	10510	19	F	INPATIENT 	Sputum	Sphingomonas paucimobilis			R			R				R	R		R				R				S		R			S	R			R	R						R	R	R	R	R			R	S																
+08-Jul-22	10511	71	M	INPATIENT 	Blood	None																																																													
+08-Jul-22	10512	81	F	INPATIENT 	Sputum FUNGI	None																																																													
+08-Jul-22	10513	81	F	INPATIENT 	Sputum	Sphingomonas paucimobilis	S		S		R	S	I			S	I						S				S	S	I			S	R			R	R						S		S	S	S	S		R	S																
+08-Jul-22	10514	66	M	INPATIENT 	Sputum	Klebsiella pneumoniae ssp pneumoniae	R		R	R	R	R	R			R	R		R				I					S	R	R		R	R			R	R				I				S	S	I	R		S	R																
+08-Jul-22	10515	71	M	INPATIENT 	Swab luka	Malassezia furfur																																																													
+08-Jul-22	10516	70	F	OUTPATIENT	Pus	Pluralibacter gergoviae			R	R	R	R	R			S	R						R				R	I	R	R		R	R			R	R				R		I	I	S	S	S	R		R	R																
+08-Jul-22	10517	62	F	OUTPATIENT	Pus	None																																																													
+08-Jul-22	10518	71	M	INPATIENT 	Urine	None																																																													
+09-Jul-22	10519	82	F	INPATIENT 	Sputum	None																																																													
+09-Jul-22	10520	27	F	OUTPATIENT	Urine 	Citrobacter koseri	S		S	R	S	S	S			S	S						S				R	S	S	S		S	S			S	S						S		S	S	S	R		S	S																
+09-Jul-22	10521	32	F	INPATIENT 	Sputum	Streptococcus pneumoniae										S							S				S	S								R	S	S	S				S	R	S	S	S	S	R	S	S								S								
+09-Jul-22	10522	71	F	INPATIENT 	Pus	Escherichia coli ESBL	S	S	S	R	S	S	S			S	R		R				S					S	S	S		S	S			R	R						S		R	S	S			R	S																
+10-Jul-22	10523	71	M	EMERGENCY	Blood	None																																																													
+10-Jul-22	10524	54	M	INPATIENT 	Urine fungi	Candida glabrata																																															S	S			S	S									
+10-Jul-22	10525	54	M	INPATIENT 	Urine 	None																																																													
+11-Jul-22	10526	33	F	EMERGENCY	Blood	None																																																													
+11-Jul-22	10527	84	F	EMERGENCY	Swab luka 	MRSA +																																																													
+11-Jul-22	10528	84	F	EMERGENCY	Swab luka	MRSA +																																																													
+11-Jul-22	10529	64	M	EMERGENCY	Sputum	Staphylococcus aureus	S									S			S			S	S		R	S	S	S	S			S	S			S	S	S	S		S	R	R	S	S	S	S	S	R	S	S	S							S								
+12-Jul-22	10530	69	M	INPATIENT 	Sputum	Sphingomonas paucimobilis	S				R		I			S			S			S	S				S	S	S			S	S			S	S				S		S	S	S	S	S	S		S	S																
+12-Jul-22	10531	43	M	OUTPATIENT	Pus	Sphingomonas paucimobilis	S				R		I			S			S			S	S				S	S	S			S	S			S					S			S	S	S	S	S		S	S																
+12-Jul-22	10532	47	M	EMERGENCY	Blood	Enterobacter cloacae	R	R	S	R	S	S	S				S		S			S	S				R	S	S	S		S	S			S	S				R		S	S	S	S	S	R	S	S	I																
+13-Jul-22	10533	84	F	INPATIENT 	Pus	Pseudomonas aeruginosa	R		R		R	R	R			R			R			R	R				R	S	R			R	R			R	R				R			R	S	S	R	R	I	R																	
+13-Jul-22	10534	84	F	INPATIENT 	Pus	Staphylococcus pseudintermedius	S									S						S	R		R	R	S	S	R			R				R	R	R	R		R	S		S	S	S	S	S	I	R	S	S							S								
+13-Jul-22	10535	84	F	INPATIENT 	Pus	Escherichia coli ESBL	S	I	S	R	R	R	R			R	R		R			R	S				R	S	S	S		S	R			R	R				I		S	R	R	S	S	R		R	S																
+13-Jul-22	10536	52	M	EMERGENCY	Blood	None																																																													
+14-Jul-22	10537	64	M	INPATIENT 	Urine 	Gemella bergeri													S			S	S				S	S	S			S	S			R					S		R	S	S	S	S	S		R	S																
+14-Jul-22	10538	58	F	INPATIENT 	Urine fungi	Candida glabrata																																															S	I		S	S	S									
+14-Jul-22	10539	58	F	INPATIENT 	Urine 	None																																																													
+14-Jul-22	10540	24	M	INPATIENT 	Blood an	None																																																													
+14-Jul-22	10541	24	M	INPATIENT 	Blood	None																																																													
+15-Jul-22	10542	53	M	INPATIENT 	Blood	None																																																													
+15-Jul-22	10543	57	F	INPATIENT 	Sputum	None																																																													
+15-Jul-22	10544	61	F	EMERGENCY	Blood	Pantoea spp	S									S			S			S						S	S			S	S								S		S	S	S	S	S	S		S																	
+15-Jul-22	10545	54	F	INPATIENT 	Pus	None																																																													
+16-Jul-22	10546	66	M	EMERGENCY	Blood	None																																																													
+16-Jul-22	10547	66	M	INPATIENT 	Blood an	None																																																													
+16-Jul-22	10548	66	M	INPATIENT 	Blood	Klebsiella pneumoniae ssp pneumoniae	R	R	R	R			R			R	R		R			R	S				R	S				R	R								R		R	I	S	S	S				R																
+16-Jul-22	10549	53	M	INPATIENT 	Urine 	Klebsiella pneumoniae ssp pneumoniae	R	R	R	R	R	R	R			R	R		R			R	R				R	R	R	R		S	S				R				R		R	R	R	R	R	R		R	R																
+17-Jul-22	10550	74	F	INPATIENT 	Urine fungi	None																																																													
+17-Jul-22	10551	74	F	INPATIENT 	Urine 	Klebsiella pneumoniae ssp pneumoniae	R	R	R	R	R	R	R			R	R		R			R						R	R	R		S	S				R				R		R	R	R	R	R	R		R	R																
+17-Jul-22	10552	66	M	INPATIENT 	Pus	Sphingomonas paucimobilis	S				S	S	S				S		S				S			S	S	S	S			S	S			S	S			S	S		S	S	S	S	S	S		S	S																
+17-Jul-22	10553	59	F	INPATIENT 	Pus	Pseudomonas aeruginosa	R		I		R	I	I			S			I			R						S	R			S	S				R				R		R	R	R	R	R	R																			
+18-Jul-22	10554	57	F	INPATIENT 	Urine 	None																																																													
+18-Jul-22	10555	40	M	INPATIENT 	Sputum	Sphingomonas paucimobilis	S						S				S		S			R	S			S	S	S	S			S	S			S	R			S	S			S	S	S	S	S		S																	
+18-Jul-22	10556	61	F	INPATIENT 	Sputum FUNGI	Candida albicans																																															S	S	S		S	S									
+18-Jul-22	10557	61	F	INPATIENT 	Sputum	None																																																													
+18-Jul-22	10558	27	F	OUTPATIENT	Urine fungi	None																																																													
+18-Jul-22	10559	27	F	OUTPATIENT	Urine 	None																																																													
+18-Jul-22	10560	57	F	INPATIENT 	Sputum	Candida albicans																																															S	S	R		S	S									
+18-Jul-22	10561	63	M	INPATIENT 	Swab luka	Pseudomonas aeruginosa	R		R		R	R	R			R			R			R					R	R	R			R	R				R				R		R	S	S	R	R	R			R																
+18-Jul-22	10562	63	M	INPATIENT 	Blood an	None																																																													
+18-Jul-22	10563	63	M	INPATIENT 	Blood	Achromobacter xylosoxidans		S	I		R	I	S			S	R		S			R	R			R	R	S	S			R	R			S	I			S	S		S	R	S	R	I	R		S	R																
+18-Jul-22	10564	59	M	INPATIENT 	Pus fungi	None																																																													
+18-Jul-22	10565	59	M	INPATIENT 	Pus	None																																																													
+18-Jul-22	10566	85	M	INPATIENT 	Blood	None																																																													
+18-Jul-22	10567	61	M	EMERGENCY	Pus	Pseudomonas luteola			S		R	S	S			S	S		S			S	S			S	I	S	S			S	S			S	S			S	S		R	S	S	S	S	S		S	S																
+18-Jul-22	10568	69	M	INPATIENT 	Urine 	None																																																													
+18-Jul-22	10569	24	F	OUTPATIENT	Urine 	Klebsiella pneumoniae	S	S	S	R	S	S	S			S	S		S			S	S			R	R	S	S	S		S	S				S			S	R		S	S	S	S	S	R		S	I																
+19-Jul-22	10570	33	M	OUTPATIENT	Pus	Pseudomonas aeruginosa	S		S		S	S	S			S						R	R			R	R	S	S			S	S			R	S			S	R		R	R	R	S	R	R			R																
+20-Jul-22	10571	54	F	INPATIENT 	Pus	None																																																													
+20-Jul-22	10572	76	M	INPATIENT 	Urine 	Pseudomonas aeruginosa	R		I		S	S	S			S						S	R			R	S	S	S			S	S			R	S			S	R		R	R	R	S	R	R		R	R																
+20-Jul-22	10573	81	F	INPATIENT 	Blood an	None																																																													
+20-Jul-22	10574	81	F	INPATIENT 	Blood	Sphingomonas paucimobilis	S		R		R	R	R			R	R					R	R			R	S	S	I			S	S			S	S			S	S		S	S	S	S	S	R		S	S																
+20-Jul-22	10575	34	M	INPATIENT 	Sputum FUNGI	Candida Ciferrii																																															R					R									
+20-Jul-22	10576	34	M	INPATIENT 	Sputum	Sphingomonas paucimobilis	R		R		R	R	R			R	R					R				R	R	R	R			R	R			S	R						R	R	R	R	R	R		R	R																
+21-Jul-22	10577	56	M	INPATIENT 	Sputum FUNGI	None																																																													
+21-Jul-22	10578	56	M	INPATIENT 	Sputum	Rothia dentocariosa																	S			R	S	S	R			S	S			R	R			S	S		S	R	S	S	S	S		S	S																
+21-Jul-22	10579	76	F	INPATIENT 	Urine 	Sphingomonas paucimobilis	S		S		R	S	S			S	S					S	S			S		S	S			S	S			R	R			S	S		S	S	S	R	S	S		S	S																
+21-Jul-22	10580	56	F	INPATIENT 	Urine fungi	None																																																													
+21-Jul-22	10581	56	F	INPATIENT 	Urine 	None																																																													
+21-Jul-22	10582	63	M	INPATIENT 	Urine 	Enterobacter cloacae	R	R	R	R	S	R	R			R	R					R	R				R	S	R	R		S	R			R	R			R	R			R	R	S	R		R	S	R																
+21-Jul-22	10583	54	F	INPATIENT 	Urine 	None																																																													
+23-Jul-22	10584	56	F	INPATIENT 	Blood	None																																																													
+23-Jul-22	10585	56	F	INPATIENT 	Pus	None																																																													
+23-Jul-22	10586	1	  M	INPATIENT 	Pus	None																																																													
+23-Jul-22	10587	46	M	INPATIENT 	Sputum	Sphingomonas paucimobilis	R		S		R	S	S				S					R	R			R	R	R	S			S	S			R	R			R	R			R	R	R	S	R		R	R																
+23-Jul-22	10588	48	F	EMERGENCY	Blood an	None																																																													
+23-Jul-22	10589	48	F	EMERGENCY	Blood	MRSA +																																																													
+23-Jul-22	10590	81	F	INPATIENT 	Urine 	Escherichia coli ESBL	S	R	S	R	R	R	R			R	R					R	S			R	R	S	S	S		S	S			R	R			R	S		S	S	S	S	S	R		R	S																
+23-Jul-22	10591	44	M	INPATIENT 	Pus	None																																																													
+24-Jul-22	10592	48	M	INPATIENT 	Blood an	None																																																													
+24-Jul-22	10593	48	M	INPATIENT 	Blood	None																																																													
+24-Jul-22	10594	0	  F	EMERGENCY	Blood	Kocuria rhizophila	R															S	S			S	S	S	S			S	S			R	R			S	S		R	S		S	S	S		S	R																
+24-Jul-22	10595	21	F	INPATIENT 	Pus fungi	None																																																													
+24-Jul-22	10596	21	F	INPATIENT 	Pus	None																																																													
+24-Jul-22	10597	8	  M	INPATIENT 	Pus	None																																																													
+24-Jul-22	10598	48	M	INPATIENT 	Urine 	None																																																													
+24-Jul-22	10599	34	M	INPATIENT 	Blood	None																																																													
+24-Jul-22	10600	32	M	INPATIENT 	Pus	Pseudomonas aeruginosa	R		R		R	R	R			R						R	R			R	R	S	S			S	S			R	S			R	R			I	R	S	R	R		R	R																
+24-Jul-22	10601	32	M	INPATIENT 	Blood	None																																																													
+25-Jul-22	10602	57	M	INPATIENT 	Sputum	Acinetobacter baumannii complex	R	R	R			R	R			R	R					R	R			R	R	R	R			R	R			R	R			R	R			R		S	I			R																	
+25-Jul-22	10603	81	M	EMERGENCY	Blood	None																																																													
+25-Jul-22	10604	24	M	INPATIENT 	Blood	None																																																													
+25-Jul-22	10605	57	M	INPATIENT 	Sputum	Cryptococcus laurentii																																																													
+26-Jul-22	10606	39	M	EMERGENCY	Blood	None																																																													
+26-Jul-22	10607	69	F	EMERGENCY	Urine 	None																																																													
+26-Jul-22	10608	23	F	OUTPATIENT	Urine 	Staphylococcus pseudintermedius	S									S						S	S		R	R	S	S	S			S	S			S	S	S	S	S	S	S	S	S		S	S	S	S	S	S								S								
+27-Jul-22	10609	38	M	INPATIENT 	Urine 	Enterococcus faecalis	R			S						S						R	R			R	S	S	R			S	S	S	S	R	S	S		S	S	I	R	R		S	S	S		S	S																
+27-Jul-22	10610	29	M	INPATIENT 	Blood	None																																																													
+27-Jul-22	10611	81	M	INPATIENT 	Sputum FUNGI	Candida tropicalis																																															S	S	S	S	S	S									
+27-Jul-22	10612	81	M	INPATIENT 	Sputum	Pseudomonas aeruginosa	R		R		R	R	R									R	R			R	R	R	R			S	S			S	R			R	R		R	R		R	R			R	R																
+28-Jul-22	10613	28	F	INPATIENT 	Urine 	Staphylococcus warneri/CEF	S															R	R		R	R	S	S	R			S	S			R	S	S	S	S		S	R	S		R	S	S	S	S	S								S								
+28-Jul-22	10614	18	M	EMERGENCY	Blood	None																																																													
+28-Jul-22	10615	15	F	INPATIENT 	Pus	Escherichia coli ESBL	S	R	S	R	S		R				R					R	S			R	R		S			S	S			R	R			R	S		S	S		S	S			R	S																
+28-Jul-22	10616	65	F	EMERGENCY	Blood	None																																																													
+29-Jul-22	10617	33	M	INPATIENT 	Sputum	None																																																													
+29-Jul-22	10618	53	M	INPATIENT 	Sputum	Acinetobacter baumannii	R	R	R			R	R				R					R	R			R	R		R			R	R			R	R			R	R		R	S		S	I			R																	
+29-Jul-22	10619	50	F	INPATIENT 	Pus	Enterobacter aerogenes	S	R	S	R	R		R				R					S	S			R	R	S	R	S		S	R			R	R				R		S	R	R	S	S	R		R	S																
+29-Jul-22	10620	64	F	INPATIENT 	Pus	Pseudomonas aeruginosa	R		I		R	R	I				R					R	R			R		R	I			S	S			R	R			R	S		R	R	R	S	R	R		R	R																
+30-Jul-22	10621	26	M	INPATIENT 	Pus	None																																																													
+30-Jul-22	10622	44	F	INPATIENT 	Urine 	None																																																													
+30-Jul-22	10623	65	F	INPATIENT 	Urine 	Klebsiella oxytoca ESBL	S	R	S	R	R		R				R					R	S			R	R	S	S	S		S	R			R	R			R				R	R	R	S	R		R	I																
+30-Jul-22	10624	30	F	INPATIENT 	Urine 	None																																																													
+30-Jul-22	10625	56	F	EMERGENCY	Urine	Klebsiella pneumoniae  ESBL	S	R	S	R	R	R	R				R					S	S			R		S	S	S		S	R			R	R			R	S		S	R	R	S	S	R		R	I																
+30-Jul-22	10626	78	F	INPATIENT 	Urine 	None																																																													
+31-Jul-22	10627	81	M	INPATIENT 	Urine fungi	Cryptococcus laurentii																																																													
+31-Jul-22	10628	81	M	INPATIENT 	Urine 	None																																																													
+31-Jul-22	10629	26	M	INPATIENT 	Urine 	None																																																													
+01-Aug-22	10630	7	  F	INPATIENT 	Sputum	Enterobacter cloacae	R	R	S	R	S	S	S				S					S				S	R	S	S	S		S	S				S			R	S		S		S	S	S	S		S	I																
+01-Aug-22	10631	52	F	OUTPATIENT	Urine 	None																																																													
+01-Aug-22	10632	31	M	INPATIENT 	Pus	Escherichia coli	S	R	S	R	S	S	S				S					S	S			R	R	S	S	S		S	R			R	R			R	R		S		R	S	S	R		R	S																
+02-Aug-22	10633	5	  F	OUTPATIENT	Urine 	None																																																													
+02-Aug-22	10634	32	M	INPATIENT 	Urine fungi	None																																																													
+02-Aug-22	10635	32	M	INPATIENT 	Urine 	None																																																													
+02-Aug-22	10636	32	M	INPATIENT 	Blood an	None																																																													
+02-Aug-22	10637	32	M	INPATIENT 	Blood	None																																																													
+03-Aug-22	10638	48	F	INPATIENT 	Pus	Enterobacter aerogenes	R	R	S	R	R	S	I				R						S			S	S	S	S	S		S	S			R	I			R	S		R		R	S	S	S		R	I																
+03-Aug-22	10639	56	F	OUTPATIENT	Urine 	None																																																													
+03-Aug-22	10640	67	F	EMERGENCY	Blood an	None																																																													
+03-Aug-22	10641	67	F	EMERGENCY	Blood	None																																																													
+03-Aug-22	10642	33	F	OUTPATIENT	Sekret	Staphylococcus pseudintermedius	R										S					S	S		R	R	R	S					S			R	S	S	R	S	S	R	S	R	S	R		R	R	S	R								R								
+04-Aug-22	10643	1	  F	INPATIENT 	Blood	None																																																													
+04-Aug-22	10644	59	F	INPATIENT 	Blood an	None																																																													
+04-Aug-22	10645	59	F	INPATIENT 	Blood	None																																																													
+04-Aug-22	10646	59	F	INPATIENT 	Blood	Enterobacter cloacae	R	R	R	R	R	R	R				R					R				R	R	R	R	R		S	S			I	R				R				S	S	R	R		R	R																
+04-Aug-22	10647	95	F	EMERGENCY	Blood an	None																																																													
+04-Aug-22	10648	95	F	EMERGENCY	Blood	None																																																													
+04-Aug-22	10649	95	F	EMERGENCY	Swab luka	MRSA +																																																													
+04-Aug-22	10650	38	M	INPATIENT 	Sputum FUNGI	Cryptococcus laurentii																																																													
+04-Aug-22	10651	38	M	INPATIENT 	Sputum	None																																																													
+04-Aug-22	10652	29	M	INPATIENT 	Pus	Citrobacter koseri	R	S	S	R	S	S	S				S					S	S			R	R	S	S	S		S	S			S	S			S	R				S	R	S	R		S	I																
+04-Aug-22	10653	95	F	INPATIENT 	Urine 	None																																																													
+04-Aug-22	10654	61	M	INPATIENT 	Blood	None																																																													
+05-Aug-22	10655	67	F	EMERGENCY	Urine 	None																																																													
+06-Aug-22	10656	31	F	INPATIENT 	Pus	Staphylococcus aureus MRSA	S										S					S	R		R	R	S	S					R			S	R	R	R	R	R	R	S	S	S	S	S	S	R	R	S	S							S								
+06-Aug-22	10657	54	M	INPATIENT 	Sputum FUNGI	None																																																													
+06-Aug-22	10658	54	M	INPATIENT 	Sputum	Streptococcus thoraltensis	R															S	R			R	R									R	R			R	R		S			S																					
+06-Aug-22	10659	53	M	OUTPATIENT	Sputum	Escherichia coli ESBL	R	R	R	R	R	R	R				R					R	R			R	R	R	R	I		S	S			R	R			R	R		R		S	R	S	R		R	S																
+06-Aug-22	10660	59	F	INPATIENT 	Sputum FUNGI	None																																																													
+06-Aug-22	10661	59	F	INPATIENT 	Sputum	Pseudomonas aeruginosa	R		R		R	R	R				R					R	R			R	R	R	R			S	R			R	R			R	S		I		R	S	R	R		R	R																
+06-Aug-22	10662	58	F	EMERGENCY	Pus	Streptococcus thoraltensis	R															R	R			S	R									R	R			R	R		S			R																					
+06-Aug-22	10663	44	F	EMERGENCY	Pus	Staphylococcus pseudintermedius	S										S					S	S		R	R	S	S					S			R	S	S	S	S	S	S	R	S	S	R	S	S	S	S	S	S							S								
+06-Aug-22	10664	44	F	INPATIENT 	Blood	None																																																													
+06-Aug-22	10665	42	F	INPATIENT 	Pus	Staphylococcus warneri/CEF	S															R	R		R	R	S						S			R	R	R	I	R	R	R	S	I		S	S	S	R	S	S	I							R								
+07-Aug-22	10666	61	M	INPATIENT 	Urine 	None																																																													
+07-Aug-22	10667	66	F	INPATIENT 	Pus	Streptococcus agalactiae	S			S							R					R	S		S	S	I	R								R	S	S	S	S	S	S	R	R	R	S	S	S	S	R	S	S															
+07-Aug-22	10668	61	M	INPATIENT 	Urine 	None																																																													
+08-Aug-22	10669	7	  M	INPATIENT 	Urine 	None																																																													
+08-Aug-22	10670	63	M	INPATIENT 	Blood	None																																																													
+08-Aug-22	10671	44	M	INPATIENT 	Blood	None																																																													
+08-Aug-22	10672	32	M	INPATIENT 	Blood	None																																																													
+08-Aug-22	10673	70	M	INPATIENT 	Urine 	Escherichia coli	S	S	S	S	S	S	S				S					S	S			R	R		S	S		S	S			R	S				R				S	S	S	R	S	S	S																
+08-Aug-22	10674	21	F	OUTPATIENT	Sekret	None																																																													
+08-Aug-22	10675	34	F	INPATIENT 	Pus	None																																																													
+09-Aug-22	10676	60	M	INPATIENT 	Blood an	None																																																													
+09-Aug-22	10677	60	M	INPATIENT 	Blood	None																																																													
+09-Aug-22	10678	67	F	OUTPATIENT	Sputum	Pseudomonas aeruginosa	R		R		R	S	S				S		R			R	R			R	R	S	I			S	S				S				S		R		R	R	R	R		R	R																
+09-Aug-22	10679	72	M	EMERGENCY	Blood	None																																																													
+09-Aug-22	10680	63	M	INPATIENT 	Sputum	Pseudomonas aeruginosa	S		I		I	S	S				R		R			R	R			R	R	S	I			S	I			R	S				R				R	S	R	R			S																
+09-Aug-22	10681	69	M	INPATIENT 	Pus	Klebsiella pneumoniae  ESBL		R	R	R	R	R	R				R					R					R		I	R		S	R				R										R			R																	
+09-Aug-22	10682	31	F	INPATIENT 	Urine 	None																																																													
+10-Aug-22	10683	67	M	EMERGENCY	Blood	None																																																													
+10-Aug-22	10684	63	M	INPATIENT 	Pus	Pseudomonas aeruginosa	R		R		R	R	R				R		R			S	R			R	R	R	R			S	I				R						S		S	S	R	R			R																
+10-Aug-22	10685	77	F	EMERGENCY	Blood	Sphingomonas paucimobilis	R		S		R	S	S				S		S			S	R			R	S	S	S			S	S				S						S		S	R	S	S		S	S																
+10-Aug-22	10686	58	F	EMERGENCY	Blood	None																																																													
+11-Aug-22	10687	57	M	INPATIENT 	Blood	None																																																													
+11-Aug-22	10688	86	F	OUTPATIENT	Sputum	Rothia mucilaginosa											S		S			S	R			S	S	S	R			S	S				R				S		S			R	S	R			S																
+11-Aug-22	10689	37	M	EMERGENCY	Blood	None																																																													
+12-Aug-22	10690	89	F	EMERGENCY	Blood	None																																																													
+12-Aug-22	10691	81	M	INPATIENT 	Pus	Pseudomonas aeruginosa			R		R	R	R				R		R			R	R			R	R	S	I			R	R				R				I		R		R	S	R	R			R																
+12-Aug-22	10692	81	M	INPATIENT 	Sputum FUNGI	None																																																													
+12-Aug-22	10693	81	M	INPATIENT 	Sputum	Pseudomonas aeruginosa	R		R		R	R	R				R					R	R			R	R	R	R			R	R				R				S		R		R	S	R	R			R																
+12-Aug-22	10694	30	M	INPATIENT 	Blood	None																																																													
+12-Aug-22	10695	2	  M	INPATIENT 	Pus	Staphylococcus caprae	S										S					S	S			S		S	I			S	S				S				S		R		S	S	S	S			S																
+13-Aug-22	10696	5	  M	INPATIENT 	Blood	None																																																													
+13-Aug-22	10697	81	F	EMERGENCY	Blood	None																																																													
+13-Aug-22	10698	67	F	EMERGENCY	Blood	None																																																													
+14-Aug-22	10699	72	F	INPATIENT 	Urine 	Escherichia coli ESBL	S	S	S	R	R	S	S				R		S			R	S			R	R	S	S	S		S	S				I				R		S		R	S	S	R		R	S																
+15-Aug-22	10700	89	F	INPATIENT 	Sputum	None																																																													
+15-Aug-22	10701	75	F	INPATIENT 	Urine 	None																																																													
+15-Aug-22	10702	27	F	INPATIENT 	Urine 	Klebsiella pneumoniae  ESBL	S	R	S	R	R	R	R				R		R			R	S			R	R	S	S	S		S	R				R				R		R		R	S	S	R		R	S																
+15-Aug-22	10703	59	F	INPATIENT 	Blood	None																																																													
+16-Aug-22	10704	5	  M	EMERGENCY	Blood	None																																																													
+16-Aug-22	10705	29	M	INPATIENT 	Blood	None																																																													
+16-Aug-22	10706	64	M	INPATIENT 	Swab luka	Enterobacter cloacae ssp cloacae	R	R	R	R	R	R	R				R		R			R	R			R		S	S	R		S	R			R	R				R		S		S	S	S	R		S	R																
+16-Aug-22	10707	80	F	INPATIENT 	Urine 	Escherichia coli ESBL	S	R	S	R	R	R	R				R					R	S			R	S	S	S	S		S	R			R	R				S		R		R	S	S			S	S																
+16-Aug-22	10708	56	M	EMERGENCY	Pus	None																																																													
+17-Aug-22	10709	65	M	EMERGENCY	Blood	Klebsiella pneumoniae ssp pneumoniae	S	S	S	R	S	S	S				S						S				R	S	S	S		S	S			S	S				R				R	S	S	R		S	S																
+17-Aug-22	10710	44	M	INPATIENT 	Swab luka	Klebsiella pneumoniae ssp pneumoniae	R	R	R	R	R		R				R		R			R	R			R	R	R	R	I		S	S			R	R				I		R		R	S	S	R		S	I																
+18-Aug-22	10711	65	M	INPATIENT 	Sputum FUNGI	Cryptococcus laurentii																																																													
+18-Aug-22	10712	65	M	INPATIENT 	Sputum	Klebsiella pneumoniae  ESBL	S	S	S	R	S	S	S				S						S					S	S	S		S	S			S	S				R				S	S	S	R		S	I																
+18-Aug-22	10713	43	M	INPATIENT 	Pus	Staphylococcus hominis CEF	R		S								S		S			R	R		R	R	R	S	S				S			S	S	S	S			R	S	S	S	S	S	R	R	S	S	R							R								
+18-Aug-22	10714	10	F	INPATIENT 	Pus	Escherichia coli ESBL	R	I	S	R	R	S	S				R						R				R	S	S	I		S	R			R	R				R				I	S	S	R		S	S																
+18-Aug-22	10715	63	M	EMERGENCY	Blood an	None																																																													
+18-Aug-22	10716	63	M	EMERGENCY	Blood	Streptococcus thoraltensis	R		S								S					S	R			R	R		R			S	S			I	S				R		S			S	S	R		R	I																
+19-Aug-22	10717	29	M	INPATIENT 	Blood	None																																																													
+19-Aug-22	10718	63	F	INPATIENT 	Pus	Enterobacter aerogenes	R	R	S	R	I	S	R				R						R				R	S	R	R		S	S			R	S				R				R	S	S	R		S	S																
+19-Aug-22	10719	56	M	INPATIENT 	Pus	Acinetobacter baumannii	R	S	R			R	R				R		R				R			R	R	S	S			S	R			R	R				S		S		S	R	S	R		S	R																
+19-Aug-22	10720	53	M	OUTPATIENT	Urine 	Klebsiella pneumoniae ssp pneumoniae	R	R	R	R	R	R	R				R		R			R	R			R	R		R	R		R	R			R	R						R		R	R	R	R		S	R																
+20-Aug-22	10721	63	F	INPATIENT 	Blood	None																																																													
+20-Aug-22	10722	52	F	EMERGENCY	Blood	None																																																													
+20-Aug-22	10723	63	F	INPATIENT 	Sputum FUNGI	None																																																													
+20-Aug-22	10724	63	F	INPATIENT 	Sputum	Staphylococcus lentus / CEF	S			R							S					S	R		R	R	S		R			S	S			R	R	R	R		R	R	R	R	R	S	S	S	S	R	S	S															
+21-Aug-22	10725	61	M	INPATIENT 	Blood	None																																																													
+21-Aug-22	10726	68	F	INPATIENT 	Urine	None																																																													
+21-Aug-22	10727	77	F	EMERGENCY	Blood AN	None																																																													
+21-Aug-22	10728	77	F	EMERGENCY	Blood	Staphylococcus hominis CEF	S		S	R							S		S			S	R		R	R	S		R			S	S			I	S	S	S		S	R	R	R	S	S	S	S	S	S	S	S															
+21-Aug-22	10729	77	F	EMERGENCY	Swab luka	None																																																													
+22-Aug-22	10730	48	M	INPATIENT 	Urine 	None																																																													
+22-Aug-22	10731	41	F	EMERGENCY	Blood	None																																																													
+22-Aug-22	10732	21	M	EMERGENCY	Pus	Klebsiella pneumoniae ssp pneumoniae	S	S	S	R	S	S	S				S					S	S			R	R		S	S		S	S			S	S						S	S	S	S	S	R		S	I																
+22-Aug-22	10733	21	M	EMERGENCY	Pus	Staphylococcus lentus / CEF	R		S	R													R		R	R	R		R			S	S			R	S	S	S		R	R	S	R		S	S	R	R	S	S	R															
+22-Aug-22	10734	50	F	OUTPATIENT	Pus	Enterobacter cloacae ssp cloacae	R	R	S	R	S	S	S				S						R			R	R		S	S		S	S			S	S				S		S	S		S	S	R		S	S																
+22-Aug-22	10735	67	F	OUTPATIENT	Pus	Staphylococcus lentus / CEF	R		S	R							R						R		R	R	R		R			S	S			R	S	S	S			R	S	S			S	R	R	S	S	R															
+22-Aug-22	10736	82	M	EMERGENCY	Blood	Escherichia coli	S	S	S	S	S	S	S				S		S			S	S			R	R		S	S		S	S			R	R				S			S	S	S	S	R		S	S																
+23-Aug-22	10737	72	F	INPATIENT 	Urine 	Candida albicans																																															S	S	S	S	S	S									
+23-Aug-22	10738	39	F	INPATIENT 	Pus	Staphylococcus aureus MRSA	S		S	R							S					S	R		R	R	S		R			R	S			R	S	S	S		S	S	S	S	S	S	S	S	S	S	S	S															
+23-Aug-22	10739	21	M	EMERGENCY	Blood	None																																																													
+23-Aug-22	10740	69	M	INPATIENT 	Blood AN	None																																																													
+23-Aug-22	10741	69	M	INPATIENT 	Blood fungi	None																																																													
+23-Aug-22	10742	69	M	INPATIENT 	Blood	None																																																													
+23-Aug-22	10743	41	F	INPATIENT 	Pus	Morganella morganii ssp morganii	R	I	S	R	S	S	S				S		S				S			R	R		S	S		S	I			R	R				R		R	R		R	R	R		R	R																
+24-Aug-22	10744	54	M	EMERGENCY	Blood	None																																																													
+24-Aug-22	10745	21	M	INPATIENT 	Pus	Escherichia coli ESBL	I	R	S	R	R	R	R				R		R				S			R	R		S	S		S	S			S	R				R		S	R	R	R	S	R		R	S																
+24-Aug-22	10746	11	M	OUTPATIENT	Pus	Staphylococcus aureus	S		S	S							S		S				S		R	S	S		S			S	S			S	S	S	S		S	S	S	S	S	S	S	S	S	S	S	S															
+24-Aug-22	10747	34	M	EMERGENCY	Blood an	None																																																													
+24-Aug-22	10748	34	M	EMERGENCY	Blood	None																																																													
+25-Aug-22	10749	29	F	INPATIENT 	Urine 	None																																																													
+25-Aug-22	10750	43	F	INPATIENT 	Urine 	None																																																													
+26-Aug-22	10751	62	F	EMERGENCY	Blood	Enterobacter aerogenes	S	R	S	R	S	S	S		R		S		S				S			R	R		S	S		S	S			S	I				R		S	R	R	S	S	R		R	I																
+26-Aug-22	10752	69	M	INPATIENT 	Urine 	Klebsiella pneumoniae  ESBL	R	R	R	R	R	R	R				R	R	R							R			R	R		S	S				R						R	R	R	S	R	R		R	R																
+26-Aug-22	10753	2	  M	INPATIENT 	Blood	None																																																													
+27-Aug-22	10754	37	M	EMERGENCY	Blood an	None																																																													
+27-Aug-22	10755	37	M	EMERGENCY	Blood	None																																																													
+27-Aug-22	10756	37	M	EMERGENCY	Blood	None																																																													
+27-Aug-22	10757	67	F	EMERGENCY	Blood	None																																																													
+27-Aug-22	10758	69	M	INPATIENT 	Sputum	Escherichia coli ESBL	S	R	S	R	S	S	S				S						S			R	S		S	S		S	R			R	R				S		S		R	S	S	R		S	S																
+27-Aug-22	10759	69	M	INPATIENT 	Sputum FUNGI	Cryptococcus laurentii																																																													
+27-Aug-22	10760	61	M	INPATIENT 	Urine fungi	None																																																													
+27-Aug-22	10761	61	M	INPATIENT 	Urine 	None																																																													
+27-Aug-22	10762	68	M	EMERGENCY	Blood an	None																																																													
+27-Aug-22	10763	68	M	EMERGENCY	Blood	None																																																													
+28-Aug-22	10764	67	F	INPATIENT 	Urine 	None																																																													
+28-Aug-22	10765	41	F	INPATIENT 	Pus	Morganella morganii ssp morganii	R	R	S	R	S	S	S		R		S		S				S			R	R		S	S		S	I			R	R				S		R	R	R	R	R	R		R	R																
+30-Aug-22	10766	50	M	INPATIENT 	Blood	None																																																													
+30-Aug-22	10767	33	M	OUTPATIENT	Sputum	Klebsiella pneumoniae ssp pneumoniae		S	S	R	S	S	S				S									R	R		S	S		S	S			S	S				S		S	S	S	R	S	R		S	S																
+30-Aug-22	10768	24	F	INPATIENT 	Sputum	Sphingomonas paucimobilis	S		S	S	R	S	S		R		S		S				S				R		S			S	S			R	S						S	S	S	S	S	S		S	S																
+30-Aug-22	10769	37	M	INPATIENT 	Blood an	None																																																													
+30-Aug-22	10770	37	M	INPATIENT 	Blood	None																																																													
+30-Aug-22	10771	29	F	INPATIENT 	Pus	Staphylococcus aureus MRSA	S			R							S						R	R	R	R	S		R			S	R				R	R	I		R	R		S			S	S	R	R	S	S															
+30-Aug-22	10772	39	M	INPATIENT 	Pus	Enterobacter cloacae ssp cloacae		R	S	R	S	S	S		R		S		S				R			R	R		S	S		S	S			S	S				R			S	R	S	S	R		S	I																
+30-Aug-22	10773	37	M	INPATIENT 	Pus	Staphylococcus haemolyticus	R		R	R							R		R				R	R	R	R	R		R			S	I			R	R	R	R	S	S	R		R		S	S	R	R	R	S	R															
+31-Aug-22	10774	65	F	INPATIENT 	Urine fungi	None																																																													
+31-Aug-22	10775	65	F	INPATIENT 	Urine 	None																																																													
+31-Aug-22	10776	8	  F	INPATIENT 	Urine 	Staphylococcus haemolyticus	R		S								R						R	R	R	R	R					S	S			R	S	S	R		R	R	R	S	S	R	S	R	R	S	S	R															
+31-Aug-22	10777	34	M	INPATIENT 	Blood an	None																																																													
+31-Aug-22	10778	34	M	INPATIENT 	Blood	None																																																													
+31-Aug-22	10779	82	M	EMERGENCY	Blood	None																																																													
+01-Sep-22	10780	59	M	OUTPATIENT	Sputum	Streptococcus gordonii	R		S	S							R		R				R				S		R				S			R	R				R					S	S	R		R																	
+01-Sep-22	10781	19	F	INPATIENT 	Pus	Enterococcus faecalis	S		S	S							R		R				S		S		S		I				R	S	S	R	S	S				S		R	S	S	S	S		R	S	R															
+01-Sep-22	10782	69	M	EMERGENCY	Blood an	None																																																													
+01-Sep-22	10783	69	M	EMERGENCY	Blood	None																																																													
+02-Sep-22	10784	73	M	INPATIENT 	Urine 	None																																																													
+03-Sep-22	10785	5	  M	INPATIENT 	Blood	None																																																													
+03-Sep-22	10786	67	F	INPATIENT 	Pus	Staphylococcus aureus MRSA	S			R							S		S				R		R	R	S		S				S			R	S	S	S		S	S	S	R	R	S	S	S	S	S	S	S															
+03-Sep-22	10787	21	M	INPATIENT 	Pus	None																																																													
+04-Sep-22	10788	60	M	INPATIENT 	Sputum	Pseudomonas aeruginosa	R		S	R	R	S			R		R		R				R			S			R			S	S			R	S				R		R	R	R	R	R				R																
+04-Sep-22	10789	34	M	INPATIENT 	Sputum FUNGI	None																																																													
+04-Sep-22	10790	34	M	INPATIENT 	Sputum	Acinetobacter baumannii CARBAMASE		R	R	R		R	R		R		R		R							R			R			R	R			R	R				R				R	I	I	R		R	R																
+04-Sep-22	10791	46	F	EMERGENCY	Urine 	Escherichia coli ESBL	R	I	S	R	R	R	R				R		R				S						S	S		S	S			R	R				S		S	S	S		S	R		R	S																
+04-Sep-22	10792	46	F	EMERGENCY	Blood	Escherichia coli ESBL	S	S	S	R	R		S				R		R				R				R		S	S		S	S				R						S	S		S	S	R	R	R	S																
+04-Sep-22	10793	69	M	INPATIENT 	Urine 	None																																																													
+04-Sep-22	10794	61	M	INPATIENT 	Pus	Acinetobacter baumannii	R	S	R	R		R	R		R		R									R	R		S			S	I				R				R			R	S		S	R	R	S	R																
+05-Sep-22	10795	67	F	INPATIENT 	Blood	Rhizobium radiobacter	S		S	R							R		S				R			R	S						S			S	S				R		R		S	R		S		S	S																
+05-Sep-22	10796	51	M	EMERGENCY	Blood	Escherichia coli	S	I	S	R	S	S	S				S		S				S						S	S		S	S				R				S		S		R	S	S	R		R	S																
+05-Sep-22	10797	69	M	INPATIENT 	Urine 	None																																																													
+05-Sep-22	10798	59	F	INPATIENT 	Pus	None																																																													
+05-Sep-22	10799	31	F	OUTPATIENT	Urine 	Escherichia coli ESBL	S	R	S	R	S	S	S				S		S				S			R	R		S	S		S	S			R	S							R	R	S	S	R	R	S	S																
+05-Sep-22	10800	74	M	EMERGENCY	Blood an	None																																																													
+05-Sep-22	10801	74	M	EMERGENCY	Blood	None																																																													
+06-Sep-22	10802	67	F	INPATIENT 	Sputum	Pluralibacter gergoviae		R	R	R	R	R	R		R		R												R	R		R	R				R									S	S			R	R																
+06-Sep-22	10803	65	F	INPATIENT 	Urine 	None																																																													
+06-Sep-22	10804	74	M	INPATIENT 	Sputum FUNGI	None																																																													
+06-Sep-22	10805	74	M	INPATIENT 	Sputum	Klebsiella pneumoniae  ESBL	S	R	S	R	S	S	S				R						S				R		S	S		S	S			R	R									S	I			S	R																
+07-Sep-22	10806	50	F	EMERGENCY	Blood	None																																																													
+07-Sep-22	10807	7	  F	INPATIENT 	Pus	Escherichia coli		I	S	R	S	S	S				S												S	S		S	S				S										S			S	S																
+07-Sep-22	10808	22	F	INPATIENT 	Pus	Staphylococcus aureus	S			S							S		S				S		R	S	S		S				S				S	S	S		S	S		S		S	S	S	S	R	S	S							S								
+08-Sep-22	10809	58	M	INPATIENT 	Sputum	Pandoraea spp	R			S							R		S				S			R	R						S				S				S		S	S	S	S		R		S	R																
+08-Sep-22	10810	41	F	INPATIENT 	Pus	Escherichia coli	S	S	S	S	S	S	S				S		S				S			R	S		S	S		S	S				S				R				S	S	S	R	R	S	S																
+09-Sep-22	10811	8	F	OUTPATIENT	Urine	None																																																													
+09-Sep-22	10812	71	F	OUTPATIENT	Urine 	None																																																													
+09-Sep-22	10813	31	F	EMERGENCY	Urine 	None																																																													
+09-Sep-22	10814	26	F	INPATIENT 	Pus	Staphylococcus aureus	S			R									S				S		R	S	S		R				S				S	S	S			S	S	S	S		S	S	S	S	S	S							S								
+10-Sep-22	10815	2	F	INPATIENT 	Blood	None																																																													
+10-Sep-22	10816	42	F	INPATIENT 	Pus	Pseudomonas fluorescens	R		S		S	S	S		R		S		S				S			R	R		S			S	S				S				S		R		R	S	S		R	S	R																
+11-Sep-22	10817	69	M	INPATIENT 	Blood	None																																																													
+11-Sep-22	10818	34	M	INPATIENT 	Swab luka bakar	Acinetobacter baumannii CARBAMASE	R	R	R	R		R	R	I	R		R		R				R			R	R		R		R	R	R				R				R		R		R	S	I	R	R	R																	
+11-Sep-22	10819	17	M	EMERGENCY	Blood	None																																																													
+11-Sep-22	10820	3	F	EMERGENCY	Blood an	None																																																													
+11-Sep-22	10821	3	F	EMERGENCY	Blood	None																																																													
+12-Sep-22	10822	11	F	INPATIENT 	Blood	None																																																													
+12-Sep-22	10823	49	M	INPATIENT 	Blood	None																																																													
+12-Sep-22	10824	8	  F	OUTPATIENT	Urine 	None																																																													
+12-Sep-22	10825	9	  F	INPATIENT 	Urine 	Staphylococcus lentus													R				R	R	R	R	R						R				R	R	R			R	S	R	R	R	S	R	R	S	S	R							R								
+12-Sep-22	10826	24	M	INPATIENT 	Blood	Pseudomonas aeruginosa PAN	R		R		R	R	R	R	R				R				R			R	R		R		R	R	R				R				R		R			R	R		R		R																
+12-Sep-22	10827	3	  F	EMERGENCY	Blood	None																																																													
+13-Sep-22	10828	8	  F	INPATIENT 	Urine 	None																																																													
+13-Sep-22	10829	34	M	INPATIENT 	Blood	Enterobacter aerogenes	R	R	R	R	R	R	R	I	R		R		R				R			R	R		R	R	R	R	R				R				R		R			S	S		R	R	R																
+13-Sep-22	10830	33	M	INPATIENT 	Pus	Klebsiella pneumoniae ssp pneumoniae	S	S	S	R	S	S	S				S		S				S				R		S	S		S	S				S				R		S			S	S		R	S	I																
+13-Sep-22	10831	72	M	INPATIENT 	Pus	None																																																													
+13-Sep-22	10832	16	F	EMERGENCY	Blood	None																																																													
+14-Sep-22	10833	16	F	INPATIENT 	Sputum	Rothia mucilaginosa	S												R				S			S	S		R				S				S				R		S			S			S		S																
+14-Sep-22	10834	39	M	INPATIENT 	Pus	None																																																													
+14-Sep-22	10835	54	M	EMERGENCY	Blood	None																																																													
+14-Sep-22	10836	67	M	EMERGENCY	Blood	Staphylococcus epidermidis			R	R									R				R		R	R	S		R				S			R	S	S	S		R	R	R	R	R	R	S	S	R	S	S	S							S								
+15-Sep-22	10837	67	M	INPATIENT 	Sputum FUNGI	Candida sphaerica																																																													
+15-Sep-22	10838	67	M	INPATIENT 	Sputum	Staphylococcus aureus	S												S				R		R	R	S		R				S				S	S	S		S	S	S	R		S	S	S	S	S	S	S							S								
+15-Sep-22	10839	40	F	OUTPATIENT	Sputum	Sphingomonas paucimobilis	S				R								S				S			S	S		R				S			R	S				R		S			S			R		S																
+15-Sep-22	10840	64	F	INPATIENT 	Sputum	Sphingomonas paucimobilis	S		S		S	S	S		R		S		S				S			R	S		S			S	S			R	S				S		S			S	S		S		S																
+15-Sep-22	10841	14	F	OUTPATIENT	Sputum	Sphingomonas paucimobilis	S		S		S	S	S		R		S		S				S			S			S			S	S			R	S				S		S			S	S		R	S	S																
+15-Sep-22	10842	77	F	EMERGENCY	Blood	Enterobacter aerogenes	R	R	S	R	S	S	S		R		S		S				R			R	R		S	S		S	S				S				I		S			S	S		R	S	R																
+15-Sep-22	10843	53	F	OUTPATIENT	Urine 	None																																																													
+15-Sep-22	10844	39	F	OUTPATIENT	Urine 	None																																																													
+15-Sep-22	10845	34	M	OUTPATIENT	Urine 	None																																																													
+16-Sep-22	10846	9	  F	EMERGENCY	Blood	None																																																													
+16-Sep-22	10847	59	M	OUTPATIENT	Sputum	Sphingobacterium thalpophilum	S												S				S			S	S		S				S			S	S				S		S			S			S		S																
+16-Sep-22	10848	54	M	INPATIENT 	Blood	None																																																													
+16-Sep-22	10849	85	F	EMERGENCY	Pus	Acinetobacter baumannii	R	R	R			R	R	I	R		R		R				R			R	R		R		R	R	R			R	R						R			I	I		R	R	R																
+16-Sep-22	10850	85	F	INPATIENT 	Urine 	Escherichia coli		S	S	R	S	S	S				S												S	S		S	S				R										S			S	S																
+16-Sep-22	10851	11	F	EMERGENCY	Blood	None																																																													
+17-Sep-22	10852	69	M	INPATIENT 	Urine 	None																																																													
+17-Sep-22	10853	5	  M	EMERGENCY	Blood	None																																																													
+18-Sep-22	10854	57	F	INPATIENT 	Urine fungi	None																																																													
+18-Sep-22	10855	57	F	INPATIENT 	Urine 	Escherichia coli ESBL		S	S	R	R	S	I				R		R							R	R		S	S		S	S			R	I				S		S	S	S	S	S	R	R	S	S																
+19-Sep-22	10856	59	F	EMERGENCY	Blood	None																																																													
+19-Sep-22	10857	24	M	INPATIENT 	Urine fungi	Candida Ciferrii																																															S					S									
+19-Sep-22	10858	24	M	INPATIENT 	Urine 	Klebsiella pneumoniae ssp pneumoniae	R	R	R	R	R	R	R	S			R		R				R			R	R		R	R	R	I	R			R	R				R		R	R	R	I	R	R	R	S	R																
+19-Sep-22	10859	59	F	EMERGENCY	Urine 	Escherichia coli		R	R	R	R	R	R				R		R				S			R	R		R	R		S	R			R	R				R		R	R	R	S	S	R	R	R	S																
+20-Sep-22	10860	73	M	INPATIENT 	Blood	None																																																													
+20-Sep-22	10861	73	M	INPATIENT 	Blood	None																																																													
+20-Sep-22	10862	57	F	INPATIENT 	Blood AN	None																																																													
+20-Sep-22	10863	57	F	INPATIENT 	Blood fungi	None																																																													
+20-Sep-22	10864	57	F	INPATIENT 	Blood	None																																																													
+20-Sep-22	10865	57	F	EMERGENCY	Blood	None																																																													
+21-Sep-22	10866	57	F	EMERGENCY	Pus	None																																																													
+21-Sep-22	10867	33	F	INPATIENT 	Urine 	Sphingomonas paucimobilis			S	S	R	S	S		R		S		S				S			S			S			S	S			R	R				R			S	S	R	S	S	R	R	S																
+21-Sep-22	10868	11	M	EMERGENCY	Blood	None																																																													
+21-Sep-22	10869	73	M	INPATIENT 	Sputum	None																																																													
+21-Sep-22	10870	28	M	EMERGENCY	Blood	None																																																													
+22-Sep-22	10871	41	F	EMERGENCY	Pus	Pseudomonas aeruginosa	R		R	R	R	I	R		R		R		R							R	R		S			S	S			R	S				S		R	R	R		R	R	R	R	R																
+22-Sep-22	10872	82	F	EMERGENCY	Blood	None																																																													
+22-Sep-22	10873	82	F	EMERGENCY	Blood	Staphylococcus hominis CEF			S	R							R		R				R		R	R	S		R				S			R	R	R	R		R	R		S	S		S	S	R	S	S	S															
+22-Sep-22	10874	61	F	OUTPATIENT	Urine 	Escherichia coli ESBL		S	S	R	S	S	S				R		R				S			R			S	S		S	S			R	R				R		S	S	R		S	R	R	R	S																
+23-Sep-22	10875	32	M	INPATIENT 	Blood	None																																																													
+23-Sep-22	10876	74	F	INPATIENT 	Urine 	None																																																													
+23-Sep-22	10877	4	 F	INPATIENT 	Blood	None																																																													
+23-Sep-22	10878	10	F	EMERGENCY	Blood	None																																																													
+24-Sep-22	10879	37	F	INPATIENT 	Pus	None																																																													
+24-Sep-22	10880	82	F	INPATIENT 	Sputum FUNGI	None																																																													
+24-Sep-22	10881	82	F	INPATIENT 	Sputum	Klebsiella pneumoniae ssp pneumoniae		R	R	R	R	R	R	S			R						R						R	R	R	R	R			R	R				R		R	R	R		I	R	R	S	R																
+24-Sep-22	10882	21	F	EMERGENCY	Blood	None																																																													
+26-Sep-22	10883	5	  F	INPATIENT 	Urine 	None																																																													
+26-Sep-22	10884	57	F	INPATIENT 	Blood	None																																																													
+26-Sep-22	10885	89	F	INPATIENT 	Sputum	None																																																													
+26-Sep-22	10886	89	F	INPATIENT 	Sputum	Staphylococcus aureus			S	S							S						S		R	S	S	S	S				S			R	R	R	R			S		S	S		S	S	S	S	S	S							S								
+27-Sep-22	10887	65	M	INPATIENT 	Sputum FUNGI	None																																																													
+27-Sep-22	10888	65	M	INPATIENT 	Sputum	Sphingomonas paucimobilis			S	S	R	S	S		S		S						S					S	S			S	S			R	S							S	S		S	S		S																	
+27-Sep-22	10889	37	M	INPATIENT 	Pus	Staphylococcus aureus MRSA			S	R							I						R		R	R	R						R				R	R	R			S	S	S	S		S	S	S	S	S	S							S								
+27-Sep-22	10890	41	M	INPATIENT 	Pus	None																																																													
+27-Sep-22	10891	60	M	EMERGENCY	Blood	None																																																													
+27-Sep-22	10892	16	M	INPATIENT 	Sputum	Enterobacter aerogenes		R	S	R	R	R	R		R		R						I						S	S		S	R			R	R						R	R	R		S	R		R	S																
+27-Sep-22	10893	60	M	EMERGENCY	Sputum FUNGI	Candida albicans																																															S	S	S		S	S									
+27-Sep-22	10894	60	M	EMERGENCY	Sputum	None																																																													
+27-Sep-22	10895	67	F	INPATIENT 	Pus	None																																																													
+27-Sep-22	10896	21	M	OUTPATIENT	Pus	Staphylococcus epidermidis CEF	S		S	S							S								R	R	S	S	S				S			R	S	S	S		R	R	S	R	I		S	S	R	S	S	S							S								
+28-Sep-22	10897	71	F	INPATIENT 	Blood	None																																																													
+28-Sep-22	10898	71	F	INPATIENT 	Urine 	None																																																													
+29-Sep-22	10899	24	M	INPATIENT 	Blood an	None																																																													
+29-Sep-22	10900	24	M	INPATIENT 	Blood	Pseudomonas aeruginosa PAN	R		R		R	R	R		R		R		R				R			R	R	R	R			R	R			R	R				R		R	R	R	R	R	R	R																		
+29-Sep-22	10901	66	M	INPATIENT 	Blood an	None																																																													
+29-Sep-22	10902	66	M	INPATIENT 	Blood	None																																																													
+29-Sep-22	10903	67	F	EMERGENCY	Blood	None																																																													
+29-Sep-22	10904	67	F	EMERGENCY	Blood	None																																																													
+29-Sep-22	10905	31	M	INPATIENT 	Urine 	Escherichia coli	S	S	S	R	S	S	S		S		S						S					S	S	S		S	S			S	S				I		S				S	R		R	S																
+29-Sep-22	10906	54	M	INPATIENT 	Urine 	None																																																													
+29-Sep-22	10907	61	F	OUTPATIENT	Pus	Klebsiella pneumoniae ssp pneumoniae	S	S	S	R	S	S	S		S		S		S				S			R	R	S	S	S		S	S			S	S				R		S		I	S	S	R	R	S	S																
+29-Sep-22	10908	27	F	INPATIENT 	Urine 	None																																																													
+30-Sep-22	10909	56	M	EMERGENCY	Blood	None																																																													
+01-Oct-22	10910	69	F	INPATIENT 	Urine 	Enterobacter cloacae ssp cloacae	R	R	I	R	R	R	R		R		R		R				R			R	R	S	S	I		S	R			R	R				R		S	R	R	S	S	R	R	R	S																
+01-Oct-22	10911	89	F	OUTPATIENT	Sputum	None																																																													
+01-Oct-22	10912	60	M	EMERGENCY	Blood	None																																																													
+02-Oct-22	10913	55	F	INPATIENT 	Urine 	Escherichia coli ESBL	R	R	I	R	R	R	R		R		R		R				S			R	R	S	S	S		S	R			R	R				R		S	R	R	S	S	R	R	S	S																
+02-Oct-22	10914	55	F	INPATIENT 	Urine 	Staphylococcus haemolyticus CEF	R										R		R				R		R	R	S	S					R			R	R	R	R		R	R	S	S	S		S	S	S	R	S	S							R								
+02-Oct-22	10915	30	M	INPATIENT 	Sputum	Kocuria rosea	R										R		R				R			S	S	R								R					R		R	R	S	R			R																		
+02-Oct-22	10916	4	F	EMERGENCY	Blood	None																																																													
+02-Oct-22	10917	42	F	INPATIENT 	Blood	None																																																													
+02-Oct-22	10918	87	F	EMERGENCY	Blood	None																																																													
+03-Oct-22	10919	87	F	INPATIENT 	Urine	None																																																													
+03-Oct-22	10920	70	F	INPATIENT 	Sputum	None																																																													
+03-Oct-22	10921	35	F	INPATIENT 	Urine 	None																																																													
+03-Oct-22	10922	24	M	INPATIENT 	Urine 	None																																																													
+04-Oct-22	10923	71	M	INPATIENT 	Blood	None																																																													
+04-Oct-22	10924	60	M	INPATIENT 	Sputum FUNGI	Candida albicans																																															S	S		S	S	I									
+04-Oct-22	10925	60	M	INPATIENT 	Sputum	None																																																													
+04-Oct-22	10926	7	  M	EMERGENCY	Blood	None																																																													
+04-Oct-22	10927	56	M	INPATIENT 	Urine 	None																																																													
+04-Oct-22	10928	2	  M	EMERGENCY	Blood	None																																																													
+05-Oct-22	10929	67	F	INPATIENT 	Pus	None																																																													
+05-Oct-22	10930	60	M	INPATIENT 	Urine	None																																																													
+05-Oct-22	10931	5	  M	EMERGENCY	Blood	None																																																													
+05-Oct-22	10932	66	M	INPATIENT 	Blood	None																																																													
+05-Oct-22	10933	66	M	INPATIENT 	Blood	None																																																													
+05-Oct-22	10934	6	  F	INPATIENT 	Urine 	None																																																													
+05-Oct-22	10935	43	M	INPATIENT 	Pus	Staphylococcus aureus MRSA	R		S	R							R		R				R			R	I	S	S							R					S		R	S	S	S		R	S	R																	
+06-Oct-22	10936	34	M	INPATIENT 	Sputum	Klebsiella pneumoniae ssp pneumoniae	S		S	R							S		S				R			R	R	S	S							S					I		S	I	I	S		R	R	S																	
+06-Oct-22	10937	4	  M	OUTPATIENT	Pus	None																																																													
+06-Oct-22	10938	29	M	OUTPATIENT	Pus	None																																																													
+06-Oct-22	10939	67	F	INPATIENT 	Pus	Klebsiella pneumoniae ssp pneumoniae	R	R	S	R	S	S	S				S		S				S			R	R	S	S	S		S	S			I	R				R		S	I	R	R	R	R	R	S	I																
+06-Oct-22	10940	67	F	INPATIENT 	Pus	Enterococcus faecalis	S		S	S							S		S				R			R	R	S	S							R					S		S	S	S	R		S	R	R																	
+06-Oct-22	10941	61	F	INPATIENT 	Blood	None																																																													
+08-Oct-22	10942	36	F	INPATIENT 	Pus	Klebsiella pneumoniae ssp pneumoniae	S	S	S	R	S	S	S				S		S				S			R	R	S	S	S		S	S			R	S				R		S	R	I	S	S	R	R	S	I																
+08-Oct-22	10943	81	M	INPATIENT 	Sputum FUNGI	None																																																													
+08-Oct-22	10944	81	M	INPATIENT 	Sputum	Escherichia coli	S	I	S	R	S	S	S				S		S				R			R	R	S	S	S		S	R			R	R				R		S	R	R	S	S	R	R	R	S																
+08-Oct-22	10945	81	M	INPATIENT 	Blood AN	None																																																													
+08-Oct-22	10946	81	M	INPATIENT 	Blood	None																																																													
+08-Oct-22	10947	37	F	INPATIENT 	Pus	Staphylococcus aureus MRSA	S		S	R							S		S				R		R	R	R	S	S				S			R	R	R	R		S	R	S	S	S	S	S	S	S	R	S	S															
+09-Oct-22	10948	24	M	INPATIENT 	Blood	None																																																													
+09-Oct-22	10949	24	M	INPATIENT 	Blood	Pseudomonas aeruginosa MDR	R		I	R	I	R	R		R		R		R				R			R	R	R	R			I	R			R	R				R		R	R	R	R	R	R	R	R																	
+09-Oct-22	10950	43	M	INPATIENT 	Sputum	None																																																													
+09-Oct-22	10951	34	F	INPATIENT 	Sputum	None																																																													
+09-Oct-22	10952	81	M	INPATIENT 	Urine 	None																																																													
+09-Oct-22	10953	61	M	INPATIENT 	Urine 	Proteus mirabilis	S	I	S	R	S	S	S				S		S				S			R	R	S	S	I		S	S			S	S				R		S	R	R	S	R	R	R	R	R																
+09-Oct-22	10954	56	M	EMERGENCY	Blood	None																																																													
+10-Oct-22	10955	80	M	INPATIENT 	Blood	None																																																													
+10-Oct-22	10956	30	M	INPATIENT 	Sputum	None																																																													
+10-Oct-22	10957	62	F	EMERGENCY	Blood	None																																																													
+10-Oct-22	10958	54	M	INPATIENT 	Sputum	None																																																													
+10-Oct-22	10959	81	M	INPATIENT 	Urine 	None																																																													
+11-Oct-22	10960	59	F	INPATIENT 	Blood	None																																																													
+11-Oct-22	10961	56	M	INPATIENT 	Sputum	Sphingomonas paucimobilis			S		I	S	S		S		S												S			S	S				I										S			S																	
+11-Oct-22	10962	67	F	INPATIENT 	Urine 	Escherichia coli ESBL	R	R	S	R	R	R	R				R		R				S			R	R	S	S	S		S	S			R	R				S		S	S	S	S	S	R	R	S	I																
+11-Oct-22	10963	51	M	INPATIENT 	Pus	None																																																													
+12-Oct-22	10964	36	F	INPATIENT 	Blood an	None																																																													
+12-Oct-22	10965	36	F	INPATIENT 	Blood	None																																																													
+12-Oct-22	10966	36	F	INPATIENT 	Sputum FUNGI	None																																																													
+12-Oct-22	10967	36	F	INPATIENT 	Sputum	Pseudomonas aeruginosa	R		R	R	R	S	R		R		R		R				R			R	R	R	R			S	I			R	R				R		R	R	R	R	R	R	R	R																	
+12-Oct-22	10968	39	F	INPATIENT 	Urine 	Stenotrophomonas maltophilia	R		S	R							R		R				R			R	R	R	R							S					S		S	I	S	S		R	R	R																	
+12-Oct-22	10969	67	F	INPATIENT 	Pus	None																																																													
+13-Oct-22	10970	69	F	INPATIENT 	Pus	Pseudomonas luteola	R		S		R	S	S		R		I		S				R				R	S	S			S	S				S				S		R	R	S	R	S	R		S																	
+13-Oct-22	10971	28	M	INPATIENT 	Sputum	Klebsiella pneumoniae  ESBL		I	S	R	S	S	S				S									R	R		S	S		S	S				S								R	R	S		R		R																
+13-Oct-22	10972	46	M	OUTPATIENT	Sputum	Streptococcus alactolyticus	R		S								R		R				R			R	R	S	S							R					R		R	R	R	S		R	R	R																	
+13-Oct-22	10973	64	M	INPATIENT 	Urine 	None																																																													
+13-Oct-22	10974	66	F	INPATIENT 	Urine 	None																																																													
+13-Oct-22	10975	43	F	INPATIENT 	Pus fungi	None																																																													
+13-Oct-22	10976	43	F	INPATIENT 	Pus	Sphingomonas paucimobilis	R		S	R	S	S	S		S		S		R				R			R	R	S	S			S	I			R	S				R		R	S		S	S		S	S	S																
+13-Oct-22	10977	38	F	OUTPATIENT	Urine 	None																																																													
+14-Oct-22	10978	47	F	INPATIENT 	Urine 	None																																																													
+14-Oct-22	10979	62	F	INPATIENT 	Urine 	Klebsiella pneumoniae ssp pneumoniae	S	S	S	R	S	S	S				S		S				R			R	R	S	S	S		S	S				R				S		R	R	R	S	S	S	R	R	R																
+14-Oct-22	10980	81	M	INPATIENT 	Blood	None																																																													
+14-Oct-22	10981	64	M	EMERGENCY	Urine 	Klebsiella pneumoniae  ESBL	R	R	R	R	R	R	R				R		R				R			R	R	S	R	R		R	R			R	R				R		R	R		R	R	R	R	R	R																
+14-Oct-22	10982	66	M	EMERGENCY	Blood	None																																																													
+14-Oct-22	10983	66	M	EMERGENCY	Pus	Escherichia coli ESBL	R	R	I	R	R		R				R		R				R			R	R	S	S	S		S	R			R	R				R		R	R		S	S	R	R	R	S																
+15-Oct-22	10984	58	F	INPATIENT 	Sputum	Enterobacter cloacae	R	R	S	R	S	S	S		R		S		S				R			R	R	S	S	S		S	S			S	S				I		S	S		S	S		R	S	S																
+15-Oct-22	10985	81	M	INPATIENT 	Sputum	Enterobacter cloacae ssp cloacae	R	R	R	R	R	R	R	R	R		R		R				R			R	R	R	R	R	R	R	R			R	R				R		R			R	I		R	R	R																
+15-Oct-22	10986	81	M	INPATIENT 	Sputum FUNGI	None																																																													
+15-Oct-22	10987	64	F	EMERGENCY	Blood	Sphingomonas paucimobilis			S		S	S	S		S		S												S			S	S				S										S			S																	
+16-Oct-22	10988	56	M	EMERGENCY	Blood	None																																																													
+16-Oct-22	10989	65	F	INPATIENT 	Pus	Escherichia coli	R	I	S	R	S	S	S				S		S				S			R	R	S	S	S		S	S			S	S				R		S			S	S		R	S	S																
+16-Oct-22	10990	49	F	INPATIENT 	Blood	None																																																													
+16-Oct-22	10991	64	F	INPATIENT 	Pus	Enterobacter cloacae ssp cloacae		R	S	R	S	S	S		R		S												S	S		S	S				S										S			S	S																
+17-Oct-22	10992	59	F	INPATIENT 	Urine fungi	None																																																													
+17-Oct-22	10993	59	F	INPATIENT 	Urine 	None																																																													
+17-Oct-22	10994	64	F	INPATIENT 	Blood	None																																																													
+17-Oct-22	10995	59	F	INPATIENT 	Pus	Klebsiella pneumoniae  ESBL	S	I	S	R	R	S	S				R		S				S			R	R	S	S	S		S	S			S	S				R		S	S		S	S		R	S	S																
+18-Oct-22	10996	59	F	INPATIENT 	Blood	None																																																													
+18-Oct-22	10997	64	F	INPATIENT 	Pus	Aeromonas salmonicida	S		S										S				S			S	S	S	S							S					S		S	S		S	S		S	S	S																
+19-Oct-22	10998	20	F	INPATIENT 	Sputum	Sphingomonas paucimobilis				S	S	S	S		S		S									R			S			S	S			S	S				S					S	S			S	S																
+20-Oct-22	10999	47	M	INPATIENT 	Pus	None																																																													
+20-Oct-22	11000	47	M	INPATIENT 	Pus	None																																																													
+20-Oct-22	11001	62	F	INPATIENT 	Urine 	Sphingomonas paucimobilis	S		S		S	S	S		S		S									R	S		S			S	S			R	S				R			S		R	S		R	S																	
+20-Oct-22	11002	55	M	INPATIENT 	Blood an	None																																																													
+20-Oct-22	11003	55	M	INPATIENT 	Blood	None																																																													
+20-Oct-22	11004	58	F	INPATIENT 	Blood	None																																																													
+20-Oct-22	11005	59	F	INPATIENT 	Blood	None																																																													
+20-Oct-22	11006	56	F	INPATIENT 	Pus	None																																																													
+20-Oct-22	11007	56	M	EMERGENCY	Blood	None																																																													
+20-Oct-22	11008	43	F	EMERGENCY	Pus	Staphylococcus lentus / CEF	S		S	R									S				R		R	R	S	S					R			R	R	R	R		R	R	R	R		R	S	R	I	R	S	S															
+21-Oct-22	11009	40	M	EMERGENCY	Blood	None																																																													
+21-Oct-22	11010	35	M	EMERGENCY	Blood	None																																																													
+21-Oct-22	11011	55	M	INPATIENT 	Sputum FUNGI	None																																																													
+21-Oct-22	11012	55	M	INPATIENT 	Sputum	Klebsiella pneumoniae ssp pneumoniae	R	R	R	R	R	R	R				R		R				R			R	R	R	R	R		R	R			R	R				I					R	I		R	S	R																
+22-Oct-22	11013	42	F	INPATIENT 	Urine 	Escherichia coli ESBL		S	S	R	R	S	S				R		R				S			R	R		S	S		S	S			R	R				R		I	S		S	S		R	R	S																
+22-Oct-22	11014	58	M	EMERGENCY	Pus	Pseudomonas aeruginosa			S	R									S				R				R		S							R					R			R		R	R		R	R	R																
+22-Oct-22	11015	78	F	OUTPATIENT	Urine 	Escherichia coli		I	S	R	S	S	S				S		S				R			R	R	S	S	S		S	R			R	R				R			R		I	S		R	R	S																
+22-Oct-22	11016	64	M	EMERGENCY	Blood	None																																																													
+22-Oct-22	11017	64	M	EMERGENCY	Urine 	Escherichia coli		R	S	R	S	S	S				S		S				S			R	R	S	S	S		S	S			R	R				R			R		S	S		R	R	S																
+22-Oct-22	11018	33	M	INPATIENT 	Pus	Staphylococcus aureus			S	S													S		S	S	S	S	S				S			R	S	S	S		S	S	S	S			S	S	S	S	S	S															
+23-Oct-22	11019	55	M	INPATIENT 	Urine 	None																																																													
+23-Oct-22	11020	82	F	EMERGENCY	Blood	None																																																													
+23-Oct-22	11021	58	M	INPATIENT 	Sputum	None																																																													
+24-Oct-22	11022	62	M	EMERGENCY	Blood	None																																																													
+24-Oct-22	11023	65	F	INPATIENT 	Urine fungi	Candida glabrata																																															S	R		S	S	S									
+24-Oct-22	11024	65	F	INPATIENT 	Urine 	Acinetobacter baumannii		S	S	R		S	S		R		I		R				R			R	R	S	I			S	I			R	I				R			S		S	S		R	R	R																
+24-Oct-22	11025	46	M	INPATIENT 	Sputum	Stenotrophomonas maltophilia			S	R									R				R			R	R	R	R							S					S		S	S			S		R	S	R																
+24-Oct-22	11026	64	M	INPATIENT 	Sputum	Escherichia coli		R	S	R	S	S	S				S		S				S			R	R	S	S	S		S	S			R	R				R			R		S	S		R	R	S																
+24-Oct-22	11027	62	M	OUTPATIENT	Pus	Morganella morganii ssp morganii		R	S	R	S		I		R		S		R				R			R		S	R	R		S	R			R	R				R		R	R			R		R	R	R																
+24-Oct-22	11028	40	F	EMERGENCY	Blood	None																																																													
+24-Oct-22	11029	52	F	EMERGENCY	Urine 	Klebsiella pneumoniae  ESBL		I	S	R	R		I				R		R				S				R	S	S	S		S	S			S	R				R		R	S			S			R	R																
+25-Oct-22	11030	30	F	INPATIENT 	Urine 	Sphingomonas paucimobilis			S		R	S	I		R		S		S				S			R	S	S	S			S	S			R	R				R		R	S			S		R	R	R																
+26-Oct-22	11031	8	  F	OUTPATIENT	Blood	Salmonella ser.Typhi		R	S	R	S	S	S		R		S		S				S			R	R	S	S	S		R	R			S					S		S	S			S		R	S	S																
+26-Oct-22	11032	73	M	EMERGENCY	Blood	None																																																													
+26-Oct-22	11033	52	F	EMERGENCY	Blood	None																																																													
+26-Oct-22	11034	82	F	OUTPATIENT	Urine 	Escherichia coli		R	S	R	S	S	S				S												S	S		S	R				R										S			R	S																
+26-Oct-22	11035	34	F	EMERGENCY	Blood	None																																																													
+26-Oct-22	11036	58	M	INPATIENT 	Urine 	None																																																													
+26-Oct-22	11037	56	M	EMERGENCY	Blood	None																																																													
+28-Oct-22	11038	40	F	EMERGENCY	Urine 	None																																																													
+28-Oct-22	11039	2	  M	EMERGENCY	Urine 	Escherichia coli		I	S	R	S	S	S				S						S			R	S	S	S	S		S	S			S	S				S		R	S			S		R	R	S																
+28-Oct-22	11040	28	F	OUTPATIENT	Urine 	Rhizobium radiobacter			S	R									S				R			R	S	S	I							R					S		S	R			S		R	S	S																
+29-Oct-22	11041	64	F	EMERGENCY	Blood	None																																																													
+29-Oct-22	11042	8	  M	INPATIENT 	Blood	None																																																													
+29-Oct-22	11043	38	F	INPATIENT 	Pus	Escherichia coli		I	S	R	S	S	S				S		S				S			R	R	S	S	S		S	S			S	S				S		S	R			S		R	S	S																
+29-Oct-22	11044	40	M	EMERGENCY	Blood	None																																																													
+30-Oct-22	11045	3	  F	INPATIENT 	Blood	None																																																													
+30-Oct-22	11046	59	M	INPATIENT 	Urine 	None																																																													
+30-Oct-22	11047	34	F	OUTPATIENT	Sputum	Sphingomonas paucimobilis			S	S	R								S				R			R	S	S	S				S			R					S		S	S			S		R	S																	
+30-Oct-22	11048	73	F	EMERGENCY	Blood	None																																																													
+31-Oct-22	11049	66	M	EMERGENCY	Blood	None																																																													
+01-Nov-22	11050	62	M	EMERGENCY	Blood	Escherichia coli			S	R	R								R				R			R	I	S	I				I			R					R		R	R			R		R	R	S																
+01-Nov-22	11051	57	M	INPATIENT 	Sputum	None																																																													
+01-Nov-22	11052	50	M	INPATIENT 	Urine 	None																																																													
+01-Nov-22	11053	52	F	OUTPATIENT	Urine 	Escherichia coli ESBL		R	S	R	R		I				R		R				S			R	R	S	S	S		S	S			R	R				R		R	R			S		R	R	I																
+01-Nov-22	11054	26	F	INPATIENT 	Blood	None																																																													
+01-Nov-22	11055	18	M	OUTPATIENT	Sputum	Sphingomonas paucimobilis			S	S									S				S				S	S	S												S		S	S			S		S	S																	
+01-Nov-22	11056	50	F	EMERGENCY	Blood	None																																																													
+01-Nov-22	11057	39	M	EMERGENCY	Blood	None																																																													
+02-Nov-22	11058	30	F	EMERGENCY	Blood	None																																																													
+02-Nov-22	11059	34	F	OUTPATIENT	Sputum	Streptococcus oralis				R							R		S				S		R	S	R	S	S							R		S			S	R	S	R				S	S	R	S																
+02-Nov-22	11060	62	M	INPATIENT 	Urine 	Escherichia coli		R	I	R	R	R	R		R		R		S				R			R	R	S	R	R		S	S			R	S				I		R	S			S		R	R	R																
+02-Nov-22	11061	27	M	INPATIENT 	Blood	None																																																													
+02-Nov-22	11062	49	F	OUTPATIENT	Pus fungi	None																																																													
+02-Nov-22	11063	49	F	OUTPATIENT	Pus	Staphylococcus aureus													S						S	S	S						S			R	S	S	S			S	S	S			S	S	S	S	S	S															
+03-Nov-22	11064	27	M	INPATIENT 	Urine 	None																																																													
+03-Nov-22	11065	36	M	EMERGENCY	Blood	None																																																													
+03-Nov-22	11066	32	M	EMERGENCY	Blood	None																																																													
+03-Nov-22	11067	40	F	INPATIENT 	Blood	None																																																													
+03-Nov-22	11068	63	F	INPATIENT 	Urine 	None																																																													
+04-Nov-22	11069	67	F	EMERGENCY	Blood	None																																																													
+04-Nov-22	11070	39	F	INPATIENT 	Urine 	Staphylococcus haemolyticus CEF			R	R									R				R		R	R	S	R	R				R			R	R	R	R		R	R	R	R			S	S	R	R	S	S															
+04-Nov-22	11071	53	F	EMERGENCY	Blood	None																																																													
+04-Nov-22	11072	31	M	EMERGENCY	Blood	None																																																													
+04-Nov-22	11073	67	M	EMERGENCY	Blood	None																																																													
+04-Nov-22	11074	62	M	INPATIENT 	Pus	Escherichia coli		R	S	R	R		R		R		R		R				S			R		S	S	S		S	S				R				S		S	R			S		R	R	S																
+04-Nov-22	11075	62	M	INPATIENT 	Pus	Enterococcus faecalis			S	S									S				R		S	R	S	S	I					S	S		R	R			R	I	S	R			S	R	R	R	S	R															
+05-Nov-22	11076	69	F	EMERGENCY	Blood	None																																																													
+05-Nov-22	11077	4	  M	OUTPATIENT	Pus	Escherichia coli		R	I	R	S	S	S		R		S		S				S			R	R	S	S	S		S	S			S	S				R		R				S		R	R	S																
+06-Nov-22	11078	83	M	INPATIENT 	Urine 	Klebsiella pneumoniae ssp pneumoniae		S	S	R	S	S	S		S		S		S				S			R	S	S	S	S		S	S			S	S				S		S	S			S		R	S	S																
+06-Nov-22	11079	69	F	INPATIENT 	Urine 	None																																																													
+06-Nov-22	11080	83	M	EMERGENCY	Blood	None																																																													
+07-Nov-22	11081	32	M	INPATIENT 	Sputum FUNGI	Candida albicans																																															S	S	S	S	S	S									
+07-Nov-22	11082	32	M	INPATIENT 	Sputum	Staphylococcus haemolyticus CEF				R									R				R		R	R	S	R	R				R			R	R	R	R		R	R	S	S			S	S	R	S	S	S							R								
+07-Nov-22	11083	32	M	INPATIENT 	Urine fungi	None																																																													
+07-Nov-22	11084	32	M	INPATIENT 	Urine 	None																																																													
+07-Nov-22	11085	10	F	INPATIENT 	Pus	Staphylococcus haemolyticus CEF				R									S				S		R	R	S	S	S				S				S	S	S		R	R	S	S			S	S	S	S	S	S															
+07-Nov-22	11086	31	F	INPATIENT 	Pus	Staphylococcus aureus																			S	S	S						S				S	S	S			S		S			S	S	S	S	S	S															
+07-Nov-22	11087	30	F	OUTPATIENT	Pus	Acinetobacter baumannii		S	S	R		S	S		R		I		S				R			R	R	S	S			S	S				S				S		R	R			S		R	S																	
+07-Nov-22	11088	54	M	OUTPATIENT	Sekret	Staphylococcus epidermidis				S									S				S		S	S	S	S	S				S				S	S	S		S	S	S	S			S	S	S	S	S	S															
+08-Nov-22	11089	24	F	EMERGENCY	Urine 	None		R	S	R	S	S	S				S		S				S			R	R	S	S	S		S	S				S				R		R	R			S		R	R	S																
+08-Nov-22	11090	61	M	INPATIENT 	Urine 	None																																																													
+08-Nov-22	11091	6	F	EMERGENCY	Blood	None																																																													
+08-Nov-22	11092	55	F	INPATIENT 	Pus	None																																																													
+09-Nov-22	11093	39	F	INPATIENT 	Urine 	Enterococcus faecalis			S	S									S						S	R	S	S						S	R		R	R			R	I	S	R			S	S	R		S	R															
+09-Nov-22	11094	44	F	EMERGENCY	Blood	None																																																													
+09-Nov-22	11095	22	M	EMERGENCY	Blood	None																																																													
+10-Nov-22	11096	57	M	INPATIENT 	Pus	None																																																													
+10-Nov-22	11097	39	F	INPATIENT 	Blood	None																																																													
+10-Nov-22	11098	22	M	EMERGENCY	Pus	Escherichia coli ESBL		R	S	R	R	R	R		R		R		R							R	R	S	S	S		S	R			R	R				R		R				S	R	R	R	S																
+10-Nov-22	11099	64	F	INPATIENT 	Pus	Providencia stuartii	S	S	S	R	S	S	S		R		S		R				R				R	S	S	S		S	R			R	S				R		R				R		R	S	R																
+11-Nov-22	11100	73	F	INPATIENT 	Sputum	Staphylococcus haemolyticus CEF	S			R							R		R				R	R	R	R	S	S					R				R	R	R		R	R	R	R			S	S	R	R	S	S							S								
+11-Nov-22	11101	59	F	INPATIENT 	Blood	None																																																													
+11-Nov-22	11102	16	M	INPATIENT 	Pus	None																																																													
+12-Nov-22	11103	70	M	INPATIENT 	Blood	None																																																													
+12-Nov-22	11104	69	F	EMERGENCY	Blood	None																																																													
+12-Nov-22	11105	57	F	EMERGENCY	Swab LUKA	Staphylococcus haemolyticus CEF				S			S				S		S						R	R	S		S			S	S			R	R	R	R		S	S	R	R	R		S	S	S	S	S	S							S								
+12-Nov-22	11106	70	M	INPATIENT 	Sputum	None																																																													
+12-Nov-22	11107	28	M	OUTPATIENT	Sputum	Gemella bergeri				S			S				S		S				S			S	S	S	S			S				R	R				S		S		S			S																			
+12-Nov-22	11108	61	M	INPATIENT 	Urine 	None																																																													
+12-Nov-22	11109	57	F	INPATIENT 	Pus	None																																																													
+12-Nov-22	11110	61	M	INPATIENT 	Blood	None																																																													
+13-Nov-22	11111	62	F	EMERGENCY	Swab LUKA	None																																																													
+13-Nov-22	11112	62	F	EMERGENCY	Blood	None																																																													
+14-Nov-22	11113	80	M	INPATIENT 	Sputum	Streptococcus alactolyticus				I			S				S		S				S		I	I	S	S	S			S				R	S	S	S		S	R	S	I	S		S	S	S																		
+14-Nov-22	11114	59	F	EMERGENCY	Blood	None																																																													
+14-Nov-22	11115	55	M	INPATIENT 	Blood an	None																																																													
+14-Nov-22	11116	55	M	INPATIENT 	Blood	None																																																													
+14-Nov-22	11117	24	M	OUTPATIENT	Sputum	None																																																													
+15-Nov-22	11118	28	M	OUTPATIENT	Sekret	Escherichia coli		S	S	S	S	S	S		S		S		S				S			R	R	S	S	S		S	S			S	S				I		S		R		S	R		S	S																
+15-Nov-22	11119	58	F	INPATIENT 	Blood	Escherichia coli ESBL	I	I	S	R	R	S	S				R		R				S			R		S	S	S		S	R			R	R						S		S	S	S	R	R	S	S																
+15-Nov-22	11120	39	M	EMERGENCY	Blood	None																																																													
+15-Nov-22	11121	56	M	OUTPATIENT	Sputum	Leuconostoc mesenteroides ssp cremoris	S			S							S		S				S			S		S	S			I				R	R				S		S		S	S		S	R																		
+15-Nov-22	11122	26	F	OUTPATIENT	Sputum	Yersinia enterocolitica	S	S	S	R	R	S	S		R		S						R			S		S	S	S		S	S			R	R				S		S		S	I	S	S		S	S																
+15-Nov-22	11123	12	M	EMERGENCY	Blood	None																																																													
+15-Nov-22	11124	32	M	INPATIENT 	Pus	Escherichia coli		I	S	R	S	S	S				S									R			S	S		S	S				S										S	R	R	R	S																
+16-Nov-22	11125	58	F	INPATIENT 	Blood	None																																																													
+16-Nov-22	11126	55	F	EMERGENCY	Blood	None																																																													
+16-Nov-22	11127	5	  M	OUTPATIENT	Blood	None																																																													
+16-Nov-22	11128	51	F	OUTPATIENT	Urine 	Staphylococcus haemolyticus CEF	S			S							I		S				R		R	R	S	S	S			S	S			R	R	R	R		R	R	R	R	R	R	S	S	R	S	S	S							S								
+16-Nov-22	11129	77	F	OUTPATIENT	Pus	Sphingomonas paucimobilis			R	S	R	S	R		R		R		S				R			R	R	S	S			R	R			R	R				R			R		R	S		R		R																
+17-Nov-22	11130	36	F	INPATIENT 	Blood	None																																																													
+17-Nov-22	11131	51	M	INPATIENT 	Pus	Staphylococcus aureus MRSA			S	R			I				I		S				R		R	R	S	S	S			R	I			R	R	R	R		R	R		S		S	S	S	R	S	S	S							S								
+17-Nov-22	11132	72	F	OUTPATIENT	Urine 	Escherichia coli		R	S	R	S	S	S				S		S				S			R	R	S	S	S		S	S			R	S				R			S		S	S		S	R	S																
+17-Nov-22	11133	44	F	INPATIENT 	Urine 	Staphylococcus aureus			S	R			S				S		S				S		R	S	S	S	S			S	S			R	S	S	S		S	S		S		S	S	S	S	S	S	S							S								
+18-Nov-22	11134	80	M	INPATIENT 	Sputum	Staphylococcus haemolyticus CEF	S			R			I				R		S				R		R	R	S	S	S			S	S				R	R	R		S	S	R	R	R	S	S	S	R	S	S	S							S								
+18-Nov-22	11135	57	M	INPATIENT 	Blood	None																																																													
+18-Nov-22	11136	88	F	EMERGENCY	Blood	None																																																													
+18-Nov-22	11137	39	F	EMERGENCY	Blood	None																																																													
+19-Nov-22	11138	58	F	INPATIENT 	Blood	None																																																													
+19-Nov-22	11139	48	F	INPATIENT 	Urine 	None																																																													
+19-Nov-22	11140	80	M	EMERGENCY	Blood	Staphylococcus equorum	S			S			S				S		S				S					S	S			S				R	S				S		R	S	S	S	S	S	S		S																
+19-Nov-22	11141	39	F	INPATIENT 	Urine fungi	None																																																													
+19-Nov-22	11142	39	F	INPATIENT 	Urine 	None																																																													
+19-Nov-22	11143	33	F	INPATIENT 	Urine 	None																																																													
+19-Nov-22	11144	45	M	INPATIENT 	Pus	Staphylococcus aureus	S			S			S				S		S				S		R	S	S	S	S			S	S			R	R	R	R		S	S	S	S	S	S	S	S	S	S	S	S							S								
+20-Nov-22	11145	2	M	INPATIENT 	Blood	None																																																													
+20-Nov-22	11146	55	M	INPATIENT 	Sputum	Candida albicans																																															S	S	R		S	S									
+20-Nov-22	11147	55	M	INPATIENT 	Sputum	Staphylococcus aureus	S			S			S				S		S				S		R	S	S	S	S			S	S			R	S	S	S		S	S	S	S	S	S	S	S	S	S	S	S							S								
+20-Nov-22	11148	2	  M	INPATIENT 	Urine 	None																																																													
+21-Nov-22	11149	27	F	OUTPATIENT	Sekret	Klebsiella pneumoniae ssp pneumoniae	S	S	S	R	S	S	S		S		S		S				S					S	S	S		S	S			S	S				R		S	S	S	S	S	R	R	S	I																
+21-Nov-22	11150	44	M	INPATIENT 	Pus	None																																																													
+22-Nov-22	11151	1	  M	INPATIENT 	Blood	None																																																													
+22-Nov-22	11152	31	M	INPATIENT 	Pus	None																																																													
+22-Nov-22	11153	44	M	INPATIENT 	Sputum	None																																																													
+22-Nov-22	11154	58	M	EMERGENCY	Blood	None																																																													
+22-Nov-22	11155	44	M	INPATIENT 	Sputum	Enterobacter cloacae ssp cloacae	R	R	S	R	S	S	S		R		S		S										S	S		S	S				S								R		S		R	S	S																
+23-Nov-22	11156	58	M	INPATIENT 	Pus	None																																																													
+23-Nov-22	11157	39	M	OUTPATIENT	Pus	None																																																													
+24-Nov-22	11158	39	M	INPATIENT 	Pus	Serratia odorifera	R	S	S	R	S	S	S				S		R				R					R	R	S		S	R			R	R						S	R	S	S	S	R	R	S	S																
+24-Nov-22	11159	69	M	EMERGENCY	Blood	None																																																													
+25-Nov-22	11160	53	F	INPATIENT 	Blood	None																																																													
+25-Nov-22	11161	56	M	EMERGENCY	Blood	None																																																													
+26-Nov-22	11162	34	F	INPATIENT 	Blood	None																																																													
+26-Nov-22	11163	56	M	INPATIENT 	Sputum	Staphylococcus haemolyticus CEF	S			R			S				S		S				R		R	R	S		S			S	S			R	R	R	I		R	R	R	R	S	R	S	S	S	R	S	S															
+26-Nov-22	11164	72	F	EMERGENCY	Blood	None																																																													
+26-Nov-22	11165	39	F	OUTPATIENT	Urine 	None																																																													
+26-Nov-22	11166	46	F	OUTPATIENT	Urine 	Staphylococcus epidermidis CEF	S			I			S				S		S				S		R	R	S		S			S	S				S	S	S		S	S	S	S	S	S	S	S	S	R	S	S															
+26-Nov-22	11167	1	M	EMERGENCY	Blood	None																																																													
+27-Nov-22	11168	74	M	INPATIENT 	Sputum	Enterococcus faecalis	R			S			R				R		R				R		S		S		R			R		R	R	R	S	S			R	S		R	R	I	S	S	R		S	R															
+27-Nov-22	11169	65	F	EMERGENCY	Urine 	Escherichia coli	S	I	S	R	S	S	S				S		S				S					S	S	S		S	R			R	R				S		R	S	S	S	S	R		R	S																
+27-Nov-22	11170	65	F	EMERGENCY	Blood	None																																																													
+27-Nov-22	11171	50	M	INPATIENT 	Sputum	Aeromonas salmonicida	S			S							S		S				S				S	S	S			S				S	S				S		S	S	S	R	S	S	S	S																	
+27-Nov-22	11172	72	F	INPATIENT 	Urine 	None																																																													
+27-Nov-22	11173	10	F	INPATIENT 	Pus	Escherichia coli ESBL	S	I	S	R	R	R	R				R		R				S					S	S	S		S	S			R	S				S		R	R		S	S		R	S	I																
+27-Nov-22	11174	63	F	EMERGENCY	Blood	Escherichia coli ESBL	S	S	S	R	S	S	S				R		R				S					S	S	S		S	S			R	R				R		S	R	R	S	S	R	R	R	S																
+28-Nov-22	11175	53	M	OUTPATIENT	Pus	Escherichia coli	S	S	S	R	S	S	S				S		S				S					S	S	S		S	S			R	S				S		R	S	S	S	S	R	R	S	S																
+29-Nov-22	11176	48	M	INPATIENT 	Blood	None																																																													
+29-Nov-22	11177	53	F	EMERGENCY	Blood	None																																																													
+29-Nov-22	11178	39	F	INPATIENT 	Pus	Staphylococcus aureus MRSA	S			R			I				S		S						R	R	S	S	S			S	I				R	R	R		R	R	S	S	S	S	S	S	R	R	S	S							S								
+29-Nov-22	11179	26	M	INPATIENT 	Pus	Enterococcus faecalis				S			R				S		S				R		S		S	S	S			R		R	R		S	S			R	R	R	R	R	R	S	S	R		S	R															
+29-Nov-22	11180	72	M	INPATIENT 	Sputum	Staphylococcus epidermidis CEF	S										R		S				R		R	R	S	S	R				I			R	R	R	R		S	R	R	R	R	R	R	S	S	S	S	S							S								
+29-Nov-22	11181	82	M	OUTPATIENT	Pus	Klebsiella pneumoniae ssp pneumoniae	R	R	S	R	S	S	R				S		S				S				R	R	S	S		S	S			R	R				R		R	R	R	S	S	R	R	R	I																
+29-Nov-22	11182	59	F	INPATIENT 	Urine 	Staphylococcus simulans	S			S							S		S				S		R	S	S	S	S			S	S			R	S	S	S		S	S	R	S	S	R	S	S	R	S	S	S							S								
+30-Nov-22	11183	53	F	EMERGENCY	Blood	Escherichia coli ESBL	S	I	S	R	S	S	S		R		R		S		R		S				R	S	S	S		S	R			R	R				I		S	R	R	S	S	R	R	S	S																
+30-Nov-22	11184	47	M	INPATIENT 	Sputum	Streptococcus cristatus				I							S		S				S		I		S	S	S							R	S	R	R			I	S	R	S	R	S	S	I	R																	
+30-Nov-22	11185	0	  F	EMERGENCY	Blood	None																																																													
+30-Nov-22	11186	33	M	INPATIENT 	Pus	Escherichia coli	S	S	S	S	S	S	S		S		S		S				S				R	S	S	S		S	S				S				R		S	R	R	S	S	R	R	S	S																
+30-Nov-22	11187	22	F	INPATIENT 	Urine 	Staphylococcus haemolyticus CEF	S			S			S				S		S		S				R	R	S	S	S			S	S			R	R	R	I		S	R	R	S	S	S	S	S	R	R	S	S							S								
+30-Nov-22	11188	64	M	EMERGENCY	Blood	None																																																													
+01-Dec-22	11189	64	M	INPATIENT 	Urine 	None																																																													
+01-Dec-22	11190	18	M	INPATIENT 	Urine 	Pseudomonas aeruginosa	R		S	R	S	I	S		R		R		R				R				R	S	S			S	S				R				R		R	R	R	S	R	R	R	R																	
+01-Dec-22	11191	65	F	EMERGENCY	Blood	Escherichia coli ESBL	S	S	S	R	R		S		R		R		S		R		S				R	S	S	S		S	R			R	R				R		S	R	R	S	S	R	R	R	S																
+01-Dec-22	11192	77	M	EMERGENCY	Blood	None																																																													
+01-Dec-22	11193	43	M	INPATIENT 	Pus	Staphylococcus haemolyticus CEF	R			R			R				R		R		R				R	R	S	S	S			S	R			R	R	R	R		I	R	R	S	S	I	S	S	S	R	S	S							S								
+01-Dec-22	11194	77	M	EMERGENCY	Blood	None																																																													
+02-Dec-22	11195	64	M	INPATIENT 	Sputum FUNGI	None																																																													
+02-Dec-22	11196	64	M	INPATIENT 	Sputum	None																																																													
+02-Dec-22	11197	35	M	INPATIENT 	Pus	Staphylococcus lugdunensis	S			S			S				S		S		S		S		R	S	S	S	S			S	S			S	S	S	S		S	S	S	S	S	S	S	S	S	S	S	S							S								
+02-Dec-22	11198	64	M	INPATIENT 	Pus	None																																																													
+02-Dec-22	11199	52	M	INPATIENT 	Pus	Staphylococcus epidermidis	S			S			S				S		S		S		S		R	S	S	S	S			S	S			R	S	S	S		S	S	S	S	S	S	S	S	S	S	S	S							S								
+02-Dec-22	11200	67	M	OUTPATIENT	Pus	Staphylococcus hominis CEF	S			S			S				S		S				S		R	R	S	S	S			S	S			S	S	S	S		R	R	S	S	S	S	S	S	R	S	S	S							S								
+03-Dec-22	11201	82	F	INPATIENT 	Sputum	Sphingomonas paucimobilis	S		S	S	R	S	S		S		S		S		S		S				S	S	S			S	S			R	S				S		S	S	S	S	S	S	S	S																	
+03-Dec-22	11202	28	M	INPATIENT 	Pus	Acinetobacter baumannii	R		R	R		R	R		R		R		R		R		R				R	S	S			S	R			R	R				R		R	R	R	R	I	R	R	R																	
+03-Dec-22	11203	63	M	EMERGENCY	Blood	None																																																													
+03-Dec-22	11204	35	M	INPATIENT 	Blood	None																																																													
+03-Dec-22	11205	60	F	INPATIENT 	Pus	Klebsiella pneumoniae ssp pneumoniae	S	S	S	R	S	S	S		S		S		S		S		S				R	S	S	S		S	S			R	S				R		S	S		S	S	R	R	S	S																
+04-Dec-22	11206	14	F	EMERGENCY	Urine 	None																																																													
+04-Dec-22	11207	39	M	INPATIENT 	Pus	None																																																													
+04-Dec-22	11208	39	M	INPATIENT 	Pus	None																																																													
+04-Dec-22	11209	77	M	INPATIENT 	Sputum FUNGI	Candida albicans																																															S		S	S	S	S									
+04-Dec-22	11210	77	M	INPATIENT 	Sputum	Staphylococcus epidermidis CEF	S						S				S		S				R		R	R	S	S	S			S	S			I	S	S	S		S	S	R	R	R		S	S	S	R	S	S							S								
+04-Dec-22	11211	72	F	INPATIENT 	Blood	Escherichia coli	S	S	S	R	S	S	S				S		S				S				R	S	S	S		S	S			S	S				S		S		R	S	S	R	R	S	S																
+05-Dec-22	11212	60	M	INPATIENT 	Sputum	None																																																													
+05-Dec-22	11213	60	M	INPATIENT 	Sputum	Pseudomonas aeruginosa	R		S		S	S	S		R								R				R	S	S			S	S			R	S				S		R		R	S	R	R	R																		
+05-Dec-22	11214	73	F	INPATIENT 	Urine fungi	None																																																													
+05-Dec-22	11215	73	F	INPATIENT 	Urine 	None																																																													
+05-Dec-22	11216	68	F	INPATIENT 	Pus	None																																																													
+05-Dec-22	11217	77	M	INPATIENT 	Pus	None																																																													
+05-Dec-22	11218	14	F	INPATIENT 	Blood	None																																																													
+05-Dec-22	11219	34	M	INPATIENT 	Pus	Escherichia coli	S	R	R	R	R	R	R				R		R								R	R	R	R		S	R			R	R						S	R	S		S	S	R	R	I																
+06-Dec-22	11220	10	M	INPATIENT 	Pus	Escherichia coli	R	R	S	R	S	S	R				S		S				R				R	S	S	S		S	S			R	S				R		S	S	R		S	R	R	R	S																
+06-Dec-22	11221	33	M	INPATIENT 	Pus	Serratia marcescens	R	R	S	R		S	S		S		S		R									S	S	S		S	S			S	S				R		S	R			I	R	R	S	R																
+07-Dec-22	11222	7	  F	INPATIENT 	Blood	None																																																													
+07-Dec-22	11223	66	M	INPATIENT 	Sputum	Kocuria kristinae	S			S			S				S		S		S		S				S	S	S			S				R					S		S		S	S		S	S																		
+07-Dec-22	11224	7	  F	INPATIENT 	Sputum	Staphylococcus aureus	S			S			S				S		S		S		S		R	S	S	S	S			S	S			R	S	S	S		S	S	S	S	S	S	S	S	S	S	S	S							S								
+07-Dec-22	11225	9	  F	EMERGENCY	Blood	None																																																													
+07-Dec-22	11226	65	F	EMERGENCY	Blood	None																																																													
+08-Dec-22	11227	65	F	INPATIENT 	Swab luka	None																																																													
+08-Dec-22	11228	65	F	INPATIENT 	Pus	Staphylococcus aureus	S			S			S				S		S				S		R	S	S	S	S			S	S			S	S	S	S		S	S	S	S	S	S	S	S	S	S	S	S							S								
+08-Dec-22	11229	27	F	OUTPATIENT	Urine 	Escherichia coli	R	R	S	R	S	S	S				S		S				S				R	S	S	S		S	R			R	R				R		S	R	R	S	S	R	R	R	I																
+08-Dec-22	11230	10	F	EMERGENCY	Blood	None																																																													
+09-Dec-22	11231	4	F	INPATIENT 	Blood	None																																																													
+09-Dec-22	11232	81	F	INPATIENT 	Sputum FUNGI	None																																																													
+09-Dec-22	11233	81	F	INPATIENT 	Sputum	Streptococcus gordonii	S			S			S				S		S		S		S		S		S	S	S			S				R		S	S		S	S	S	S	S	S	S	S	S	S																	
+09-Dec-22	11234	72	M	EMERGENCY	Blood	None																																																													
+09-Dec-22	11235	53	F	OUTPATIENT	Urine 	None																																																													
+09-Dec-22	11236	58	M	INPATIENT 	Urine 	Escherichia coli ESBL	S	I	S	R	R	S	R		R		R		R				S				R	S	S	S		S	R			R	R						R	R	R	S	S			S	I																
+10-Dec-22	11237	50	F	OUTPATIENT	Urine 	None																																																													
+11-Dec-22	11238	12	M	INPATIENT 	Blood	Staphylococcus haemolyticus	S			S			S				S		S		S		S		S	S	S	S	S			S	S			R	I	S	I		R	R	S	R		R	S	S	R	S	S	S							S								
+11-Dec-22	11239	0	M	INPATIENT 	Blood	None																																																													
+11-Dec-22	11240	29	F	INPATIENT 	Pus	None																																																													
+12-Dec-22	11241	68	M	EMERGENCY	Blood	Klebsiella pneumoniae  ESBL	R	R	I	R	R	R	R		R		R		R		R		R				R	S	S	S		R	R			R	R				R		R	R	R	S	R		R	R	R																
+12-Dec-22	11242	23	F	INPATIENT 	Sputum	Kocuria kristinae	S			S			S				S		S		S		S				R	S	S			S				R					R		S		R	R		S	S	R																	
+12-Dec-22	11243	39	F	OUTPATIENT	Urine 	Enterococcus faecalis	S			S			S				S		S		S		S		S		S	S	S			S		S	S	R	S	S			R	I	R	S	S	R	S	S	R	R	S	R															
+12-Dec-22	11244	69	M	INPATIENT 	Sputum	Klebsiella pneumoniae  ESBL	R	R	R	R	R	R	R		R		R		R		R		S				R	S	R	I		S	R			R	R				R		S	R	R	S	I	R	R	R	R																
+12-Dec-22	11245	25	F	INPATIENT 	Pus	None																																																													
+12-Dec-22	11246	68	M	INPATIENT 	Pus fungi	None																																																													
+12-Dec-22	11247	68	M	INPATIENT 	Pus	Pseudomonas fluorescens ESBL			I	R	R	S	S		R		R		R		R		R				R	R	R			S	I			R	R				R		R	R	R	R	R	R	R	R																	
+12-Dec-22	11248	59	M	OUTPATIENT	Urine 	Morganella morganii ssp morganii	R	R	S	R	R	S	R		R		R		S		R		R				R	R	S	S		S	S			R	R				R		R		R		R	R	R	S	R																
+13-Dec-22	11249	62	M	INPATIENT 	Blood	None																																																													
+13-Dec-22	11250	68	M	INPATIENT 	Sputum FUNGI	None																																																													
+13-Dec-22	11251	68	M	INPATIENT 	Sputum	Acinetobacter baumannii CARBAMASE	R		R	R		R	R		R		R		R		R		R				R	R	R			S	R			R	R				R		R		I	R	I	R	R	R																	
+13-Dec-22	11252	62	M	INPATIENT 	Urine fungi	None																																																													
+13-Dec-22	11253	62	M	INPATIENT 	Urine 	None																																																													
+13-Dec-22	11254	51	F	INPATIENT 	Sputum	Enterobacter cloacae	R	R	S	R	S	S	S		R		S		S		S		S				R	S	S	S		S	S			S	S				R		S		I	S	S	R	R	S	S																
+13-Dec-22	11255	26	M	EMERGENCY	Blood	None																																																													
+13-Dec-22	11256	42	F	OUTPATIENT	Urine 	None																																																													
+13-Dec-22	11257	80	M	INPATIENT 	Sputum FUNGI	Candida albicans																																															S	R	S		R	S									
+13-Dec-22	11258	80	M	INPATIENT 	Sputum	Raoultella planticola	S	S	S	R	I	S	S				S		S		S		I				R	S	S	S		S	S			S	S				R		R		S	S	S	R	R	S	I																
+14-Dec-22	11259	7	F	EMERGENCY	Blood	None																																																													
+14-Dec-22	11260	23	M	INPATIENT 	Pus	Klebsiella pneumoniae  ESBL	S	S	S	R	R	R	R				R		R				R				R	S	R	S		S	S			R	R				R		S		R	R	S	R	R	S	S																
+14-Dec-22	11261	23	M	INPATIENT 	Pus	Rhizobium radiobacter	R			S			R				R		R				R				S	S	R			R				R					R		R		I	R		S	R	S																	
+15-Dec-22	11262	52	F	OUTPATIENT	Urine 	Escherichia coli	S	I	S	R	S	S	S				S		S				S				R	S	S	S		S	R			R	R				S		S	S	S	S	S	R	R	S	S																
+15-Dec-22	11263	56	M	INPATIENT 	Pus	None																																																													
+15-Dec-22	11264	62	F	EMERGENCY	Blood	None																																																													
+16-Dec-22	11265	16	M	INPATIENT 	Blood	None																																																													
+17-Dec-22	11266	22	F	EMERGENCY	Urine 	None																																																													
+17-Dec-22	11267	1	F	INPATIENT 	Blood	None																																																													
+18-Dec-22	11268	47	F	INPATIENT 	Blood	None																																																													
+18-Dec-22	11269	58	F	EMERGENCY	Blood	None																																																													
+18-Dec-22	11270	58	F	EMERGENCY	Urine 	Enterobacter cloacae ssp cloacae	R	R	R	R	R	S	R		R		R		R				R				R	S	S	R		S	S			R	R				R		R		R	S	S	R	R	R	R																
+19-Dec-22	11271	66	M	INPATIENT 	Blood	None																																																													
+19-Dec-22	11272	66	M	INPATIENT 	Sputum	Klebsiella pneumoniae  ESBL	S	I	S	R	R	S	S				R		I				S				R	S	S	S		S	R			S	S				R		S		R	S	S	R	R	R	I																
+19-Dec-22	11273	57	M	OUTPATIENT	Urine 	None																																																													
+19-Dec-22	11274	82	F	EMERGENCY	Blood	None																																																													
+19-Dec-22	11275	87	M	EMERGENCY	Blood	None																																																													
+20-Dec-22	11276	82	F	INPATIENT 	Sputum	Staphylococcus haemolyticus CEF	R			R			R				R		R			R	R		R	R	S	S	R			S	R			R	R	R	R		R	R	R	S	S	S	S	S	R	S	S	S							S								
+20-Dec-22	11277	4	M	INPATIENT 	Blood	None																																																													
+20-Dec-22	11278	67	F	INPATIENT 	Sputum	Acinetobacter baumannii	I		S	S		S	S		R		I		S			I	R				R	S	R			S	S			I	S				S				S	I	S	R	R	R	R																
+20-Dec-22	11279	60	M	EMERGENCY	Blood	None																																																													
+21-Dec-22	97632	60	M	INPATIENT 	Pus	None																																																													
+22-Dec-22	98008	60	M	OUTPATIENT	Urine 	None																																																													
+22-Dec-22	98012	70	F	EMERGENCY	Blood	None																																																													
+22-Dec-22	98046	47	F	INPATIENT 	Pus	None																																																													
+23-Dec-22	98200	22	F	INPATIENT 	Urine fungi	None																																																													
+23-Dec-22	98200	22	F	INPATIENT 	Urine 	None																																																													
+23-Dec-22	98211	50	F	INPATIENT 	Sputum	Kocuria rosea	R			R			S				S		S			I	R				R	S	S			S				S					R		R		I	I		R	R		R																
+23-Dec-22	98257	1	F	EMERGENCY	Blood	None																																																													
+24-Dec-22	98376	20	F	INPATIENT 	Pus	None																																																													
+25-Dec-22	98526	34	M	INPATIENT 	Pus	None																																																													
+26-Dec-22	98619	15	M	INPATIENT 	Sputum	Raoultella planticola	S	S	S	R	S	S	S				S					S	S				R	S	S	S		S	S				S				R		S	S	R	S	S	R	R	S	S																
+26-Dec-22	98626	70	F	INPATIENT 	Urine 	Enterobacter cloacae		R	I	R	R	R	R		R		R		R			R	R				R	S	S	S		S	R			R	R				R		R		R	S	S	R	R	R	R																
+27-Dec-22	98795	25	M	EMERGENCY	Blood	None																																																													
+27-Dec-22	98831	66	F	EMERGENCY	Blood an	None																																																													
+27-Dec-22	98831	66	F	EMERGENCY	Blood fungi	None																																																													
+27-Dec-22	98831	66	F	EMERGENCY	Blood	None																																																													
+27-Dec-22	98927	47	M	INPATIENT 	Pus	Escherichia coli	S	I	S	R	S	S	S		S		S		S			S	S				R	S	S	S		S	R			S	S				I		S		S	S	S	R	R	S	S																
+28-Dec-22	99060	34	F	EMERGENCY	Urine 	Sphingomonas paucimobilis				S	R	S	S		S		S		S			S	S				S	S	S			R	S			R	I				R		R	R	S	R	S	S	R	S																	
+28-Dec-22	99090	3	F	INPATIENT 	Blood	Staphylococcus warneri	S		S				S				S		S			S	S		R	S	S	S	S			S	S			R	S	S	S		S	S	S	S	S	R	S	S	S	R	S	S							S								
+28-Dec-22	99126	45	M	INPATIENT 	Urine fungi	Candida parapsilosis																																															S	S	S		S	S									
+28-Dec-22	99126	45	M	INPATIENT 	Urine 	None																																																													
+29-Dec-22	99263	37	M	INPATIENT 	Blood	None																																																													
+29-Dec-22	99298	70	F	INPATIENT 	Urine 	None																																																													
+29-Dec-22	99316	20	M	INPATIENT 	Pus	Enterococcus faecium	R			R			R				R		R			R	R		R		S	R	R			R		S	R	R	R	R			R	I	S	R	R	R	S	S	R			S							I								
+29-Dec-22	99364	65	M	INPATIENT 	Sputum FUNGI	None																																																													
+29-Dec-22	99364	65	M	INPATIENT 	Sputum	Sphingomonas paucimobilis	S		S	S	R	S	S		S		S		S			S	S				S	S	S			S	S			R	I				S		S	S	S	R	S	S	S	S	R																
+30-Dec-22	99491	41	M	INPATIENT 	Blood	None																																																													
+30-Dec-22	99514	70	F	EMERGENCY	Blood	None																																																													
+30-Dec-22	99540	40	M	INPATIENT 	Pus	Escherichia coli ESBL	S	I	S	R	S	S	S		R		R		S			R	S				R	S	S	S		S	S			R	R				R		S		S	S	S	R	R	S	S																
+30-Dec-22	99540	40	M	INPATIENT 	Pus	Staphylococcus lugdunensis	S			S			S				S		S			S	S		R	S	S	S	S			S	S			R	S	S	S		S	S	S	R	S	S	S	S	S	S	S	S							S								
+31-Dec-22	99576	27	M	EMERGENCY	Blood	None																																																													
+31-Dec-22	99660	31	F	OUTPATIENT	Sputum	Leuconostoc mesenteroides ssp cremoris	S			S			S				S		S			S	S				S	S	S			S				S					S		S	S	S				S		S																
